@@ -1,3 +1,4 @@
+"use client";
 import { useFile } from "@/hooks/useFile";
 import { Progress } from "../ui/progress";
 

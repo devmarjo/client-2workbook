@@ -1,4 +1,5 @@
 
+"use client";
 import { useFile } from "@/hooks/useFile";
 
 export function WorkbookSections() {

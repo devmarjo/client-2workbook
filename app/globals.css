@@ -119,6 +119,12 @@ body {
       page-break-inside: avoid;
       break-inside: avoid;
   }
+
+  /* Impede que o conteúdo do elemento seja quebrado entre depois */
+  .no-page-break-after {
+    page-break-after:avoid;
+    break-after: avoid;
+}
   nextjs-portal{
     display: none;
   }

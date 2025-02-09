@@ -1,16 +1,10 @@
 "use client";
 import { useState, useEffect } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { getAccessToken, setTokens,clearTokens } from "../utils/auth";
 
 export const useAuth = () => {
-  const searchParams = useSearchParams();
-  const ParamsAccessToken = searchParams.get('access_token')
-  const ParamsRefreshToken = searchParams.get('refresh_token')
-  const ParamsExpiryDate = searchParams.get('expiry_date')
-  if (ParamsAccessToken && ParamsRefreshToken) {
-    setTokens(ParamsAccessToken, ParamsRefreshToken, ParamsExpiryDate )
-  }
+
   const [accessToken, setAccessToken] = useState<string | null>(null);
   const router = useRouter();
 

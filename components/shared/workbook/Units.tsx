@@ -1,9 +1,10 @@
+"use client";
 import { useFile } from "@/hooks/useFile";
-import { WorkbookUnit } from "@/utils/2workbookI";
+import { WorkbookUnitI } from "@/utils/2workbookI";
 import { useEffect, useState } from "react";
 import { WorkbookSubUnit } from "./SubUnit";
 
-interface WorkbookUnitToRender extends WorkbookUnit{
+interface WorkbookUnitToRender extends WorkbookUnitI{
   unit: string
 }
 
@@ -36,7 +37,7 @@ export function WorkbookUnits() {
               {unit.unit} - {unit.title}
             </div>
             {
-              Object.entries(unit.subUnits).map(([k, v]) =>  <WorkbookSubUnit key={'SubUnit-' + unit.unit + '-' + k} unit={unit.unit} subunit={k} /> )
+              Object.entries(unit.subUnits).map(([k, ]) =>  <WorkbookSubUnit key={'SubUnit-' + unit.unit + '-' + k} unit={unit.unit} subunit={k} /> )
             }
           </div>
         )

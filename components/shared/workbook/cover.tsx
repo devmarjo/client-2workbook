@@ -1,8 +1,4 @@
-
-// "version": "V1",
-// "versionDate": "April 2024",
-// "Organisation": "ProQual",
-// "specs": "https://www.proqualab.com/wp-content/uploads/2024/04/ProQual-Level-3-Award-in-Education-and-Training-2.pdf",
+"use client";
 
 import { useFile } from "@/hooks/useFile";
 import Image from "next/image";

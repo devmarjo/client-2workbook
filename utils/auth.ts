@@ -1,3 +1,4 @@
+"use client";
 export const getAccessToken = async (): Promise<string | null> => { 
   if (typeof window === "undefined") return null; // 
   const accessToken = localStorage.getItem("access_token");

@@ -2,15 +2,9 @@
 
 import {
   Menubar,
-  MenubarCheckboxItem,
   MenubarContent,
   MenubarItem,
   MenubarMenu,
-  MenubarSeparator,
-  MenubarShortcut,
-  MenubarSub,
-  MenubarSubContent,
-  MenubarSubTrigger,
   MenubarTrigger,
 } from "@/components/ui/menubar"
 import { Button } from "../ui/button"
@@ -18,9 +12,8 @@ import { Printer, Menu, X, ChevronsUpDown } from "lucide-react"
 import { Sheet, SheetClose, SheetContent, SheetDescription, SheetFooter, SheetHeader, SheetTitle, SheetTrigger } from "../ui/sheet"
 import { SaveButton } from "./SaveButton";
 import { ProgressTop } from "./ProgressTop";
-import { Instructions } from "./menubar/Instructions";
 import { useEffect, useState } from "react";
-import { WorkbookSection, WorkbookUnit } from "@/utils/2workbookI";
+import { WorkbookSection } from "@/utils/2workbookI";
 import { UnitStateI, useFile } from "@/hooks/useFile";
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "../ui/collapsible";
 import Image from "next/image";
@@ -81,16 +74,15 @@ export function EditorNavBar() {
                         {k}
                       </MenubarItem>
                     </a>
-                  )
+                )
                 })
               }
             </MenubarContent>
           </MenubarMenu>
-          <Button variant={'secondary'}><Printer/>Print</Button>
+          <Button onClick={window.print} variant={'secondary'}><Printer/>Print</Button>
           <SaveButton/>
         </div>
         <div className="md:hidden gap-2">
-          {/* <EditorSheetMenu/> */}
           <Sheet>
             <SheetTrigger asChild>
               <Button variant="outline"><Menu/> </Button>
@@ -102,7 +94,7 @@ export function EditorNavBar() {
                 </SheetDescription>
               </SheetHeader>
               <div className="grid gap-4 py-4">
-                <Button variant={'secondary'}><Printer/>Print</Button>
+                <Button onClick={window.print} variant={'secondary'}><Printer/>Print</Button>
                 <SaveButton/>
               </div>
 

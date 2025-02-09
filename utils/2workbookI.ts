@@ -11,14 +11,14 @@ export interface WorkbookGroup {
   selected: string[];
 }
 
-export interface WorkbookUnit {
+export interface WorkbookUnitI {
     title: string;
     data: string[];
     subUnits: {
-      [key: string]: WorkbookSubUnit
+      [key: string]: WorkbookSubUnitI
     };
 };
-export interface WorkbookSubUnit  {
+export interface WorkbookSubUnitI  {
     title: string;
     questions: {
         [key: string]: string;
@@ -41,7 +41,7 @@ export interface WorkbookI {
   unitsMandatory: WorkbookGroup[];
   unitsOptional: WorkbookGroup[];
   units: {
-      [key: string]: WorkbookUnit;
+      [key: string]: WorkbookUnitI;
   };
   student: {
     name: string,

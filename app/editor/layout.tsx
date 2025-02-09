@@ -1,3 +1,4 @@
+"use client";
 import { EditorNavBar } from "@/components/shared/editorNavbar";
 import { FileProvider } from "@/hooks/useFile";
 

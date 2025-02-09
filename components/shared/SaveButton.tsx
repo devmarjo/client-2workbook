@@ -1,3 +1,4 @@
+"use client";
 import { useFile } from "@/hooks/useFile";
 import { Button } from "../ui/button";
 import { Save } from "lucide-react";

@@ -2,7 +2,6 @@
 
 import { createContext, useContext, useEffect, useState } from "react";
 import { useAuth } from "@/hooks/useAuth";
-import { useSearchParams } from "next/navigation";
 import { WorkbookI } from "@/utils/2workbookI";
 import { toast } from "sonner"
 
@@ -15,6 +14,7 @@ export interface UnitStateI {
 interface FileContextType {
   fileId: string | null;
   setFileId: (id: string | null) => void;
+  setFileIdFromParams: (setFileIdFromParams: string ) => void;
   workbook: WorkbookI | null;
   setWorkbook: (content: WorkbookI | null) => void;
   saveWorkbook: () => void;
@@ -37,7 +37,6 @@ export const useFile = () => {
 
 // Criando o Provider para armazenar os dados
 export const FileProvider = ({ children }: { children: React.ReactNode }) => {
-  const searchParams = useSearchParams();
   const { accessToken, clearTokens } = useAuth();
   const [fileId, setFileId] = useState<string | null>(null);
   const [workbook, setWorkbook] = useState<WorkbookI | null>(null);
@@ -46,13 +45,7 @@ export const FileProvider = ({ children }: { children: React.ReactNode }) => {
 
   // Obtém o file_id da URL ou do localStorage
   useEffect(() => {
-    const urlFileId = searchParams.get("file_id");
-    if (urlFileId) {
-      localStorage.setItem("file_id", urlFileId);
-      setFileId(urlFileId);
-    } else {
-      setFileId(localStorage.getItem("file_id"));
-    }
+    setFileId(localStorage.getItem("file_id"));
   }, []);
   // Obtém o file_id da URL ou do localStorage
   useEffect(() => {
@@ -60,37 +53,26 @@ export const FileProvider = ({ children }: { children: React.ReactNode }) => {
       let countQuestion = 0
       let countAnswer = 0
       const countUnitsState: UnitStateI = {}
-      Object.entries(workbook.unitsMandatory).forEach(([k, v]) => {
-        v.units.map(unit => {
-          countUnitsState[unit] = true
-          Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
-            countQuestion += Object.keys(v2.questions).length
-            if (v2.answers) {
-              countAnswer += Object?.keys(v2?.answers).length
-              if (countUnitsState[unit] && Object.keys(v2.questions).length !== Object?.keys(v2?.answers).length) {
-                countUnitsState[unit] = false
-              }
-            } else if(countUnitsState[unit]) {
+      const counter = (unit: string) => {
+        countUnitsState[unit] = true
+        Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
+          countQuestion += Object.keys(v2.questions).length
+          if (v2.answers) {
+            countAnswer += Object?.values(v2?.answers).filter(val => val.length > 0 ).length
+            if (countUnitsState[unit] && Object.keys(v2.questions).length !== Object?.keys(v2?.answers).length) {
               countUnitsState[unit] = false
             }
-          })
+          } else if(countUnitsState[unit]) {
+            countUnitsState[unit] = false
+          }
         })
+      }
+      
+      Object.entries(workbook.unitsMandatory).forEach(([, v]) => {
+        v.units.map(counter)
       })
       Object.entries(workbook.unitsOptional).forEach(([, v]) => {
-        v.selected.map(unit => {
-          countUnitsState[unit] = true
-          Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
-            countQuestion += Object.keys(v2.questions).length
-            if (v2.answers) {
-              countAnswer += Object?.keys(v2?.answers).length
-              if (countUnitsState[unit] && Object.keys(v2.questions).length !== Object?.keys(v2?.answers).length) {
-                countUnitsState[unit] = false
-              }
-            } else if(countUnitsState[unit]) {
-              countUnitsState[unit] = false
-            }
-          })
-        })
+        v.selected.map(counter)
       })
       setProgress(Math.round((countAnswer/countQuestion)*100))
       setUnitsState(countUnitsState)
@@ -182,9 +164,14 @@ export const FileProvider = ({ children }: { children: React.ReactNode }) => {
       },
     });
   };
-
+  const setFileIdFromParams = (urlFileIdFromParams: string) => {
+    if (urlFileIdFromParams) {
+      localStorage.setItem("file_id", urlFileIdFromParams);
+      setFileId(urlFileIdFromParams);
+    }
+  }
   return (
-    <FileContext.Provider value={{ fileId, workbook, setFileId, setWorkbook, saveWorkbook, progress, unitsState }}>
+    <FileContext.Provider value={{ fileId, workbook, setFileId, setWorkbook, saveWorkbook, progress, unitsState, setFileIdFromParams }}>
       {children}
     </FileContext.Provider>
   );
