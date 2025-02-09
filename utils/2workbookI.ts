@@ -15,10 +15,10 @@ export interface WorkbookUnit {
     title: string;
     data: string[];
     subUnits: {
-      [key: string]: WorkbookSubUnit
+      [key: string]: WorkbookSubUnitI
     };
 };
-export interface WorkbookSubUnit  {
+export interface WorkbookSubUnitI  {
     title: string;
     questions: {
         [key: string]: string;

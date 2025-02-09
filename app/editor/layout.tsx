@@ -1,5 +1,6 @@
 import { EditorNavBar } from "@/components/shared/editorNavbar";
 import { FileProvider } from "@/hooks/useFile";
+import { Suspense } from "react";
 
 export default function RootLayout({
   children,
@@ -7,11 +8,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <FileProvider>
-      <EditorNavBar/>
-      <div className="mt-[10vh] print:mt-0" > 
-        {children}
-      </div>
-    </FileProvider>
+    <Suspense>
+      <FileProvider>
+        <EditorNavBar/>
+        <div className="mt-[10vh] print:mt-0" > 
+          {children}
+        </div>
+      </FileProvider>
+    </Suspense>
   );
 }

@@ -3,15 +3,14 @@ import { Label } from "@/components/ui/label";
 import {
   Table,
   TableBody,
-  TableCaption,
   TableCell,
   TableHead,
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
 import { useFile } from "@/hooks/useFile";
-import { WorkbookGroup, WorkbookI } from "@/utils/2workbookI";
-import { RefObject, useEffect, useRef, useState } from "react";
+import { WorkbookGroup } from "@/utils/2workbookI";
+import { useEffect, useState } from "react";
 
 export function QualificationStructure() {
   const {workbook, setWorkbook, saveWorkbook} = useFile()
@@ -38,7 +37,7 @@ export function QualificationStructure() {
       }
       workbook.unitsOptional = unitsOptional
       setWorkbook(workbook)
-      // saveWorkbook()
+      saveWorkbook()
     }
   }
   return(
@@ -87,7 +86,7 @@ export function QualificationStructure() {
                     el.units.filter(el2 => el2 in workbook?.units).map((el2) => 
                       <TableRow key={'unitsMadatoryGroupBody' + el2}>
                         <TableCell className="font-medium">
-                          <Checkbox checked={el.selected.includes(el2)} onCheckedChange={(state) => onCheckedChange(state, i, el2) } /> 
+                          <Checkbox checked={el.selected.includes(el2)} onCheckedChange={(state) => onCheckedChange(Boolean(state), i, el2) } /> 
                           <Label className="pl-2 ">
                             {el2}
                           </Label>

@@ -1,15 +1,14 @@
 import { useFile } from "@/hooks/useFile";
-import { WorkbookSubUnit } from "@/utils/2workbookI";
+import { WorkbookSubUnitI } from "@/utils/2workbookI";
 import { useEffect, useState } from "react";
 import { WorkbookQuestion } from "./Question";
 
 
 export function WorkbookSubUnit(props: { unit: string, subunit: string }) {
   const {workbook} = useFile()
-  const [subUnit, setSubUnit] = useState({} as WorkbookSubUnit) // units to be rendered
-  const [html, setHtml] = useState('my <b>HTML</b>');
+  const [subUnit, setSubUnit] = useState({} as WorkbookSubUnitI) // units to be rendered
   useEffect(() => {
-    let nSubUnits: WorkbookSubUnit = {} as WorkbookSubUnit
+    let nSubUnits: WorkbookSubUnitI = {} as WorkbookSubUnitI
     if (workbook) {
       nSubUnits = workbook.units[props.unit].subUnits[props.subunit]
       setSubUnit(nSubUnits)
