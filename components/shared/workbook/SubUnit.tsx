@@ -13,6 +13,7 @@ export function WorkbookSubUnit(props: { unit: string, subunit: string }) {
       nSubUnits = workbook.units[props.unit].subUnits[props.subunit]
       setSubUnit(nSubUnits)
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [workbook])
   return (
     <>

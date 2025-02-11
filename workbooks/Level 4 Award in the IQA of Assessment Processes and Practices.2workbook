@@ -1,0 +1,149 @@
+{
+  "version": "ProQual 2020",
+  "versionDate": "ProQual 2020",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2016/10/ProQual-Internal-QA-Qualifications.pdf",
+  "coverTitle": "ProQual Level 4 Award in the Internal Quality Assurance of Assessment Processes and Practices",
+  "coverImg": "",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>Level 4 Award in Internal Quality Assurance of Assessment Processes and Practices</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your competencies in internal quality assurance.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Units:</h3><ul><li>Understanding the Principles and Practices of Internally Assuring the Quality of Assessment</li><li>Internally Assure the Quality of Assessment</li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b>ProQual Level 4 Award in the Internal Quality Assurance of Assessment Processes and Practices</div><div><b>Ofqual qualification number:</b>600/2163/9</div><div><b>Level:</b>4</div><div><b>Total qualification time:</b>120</div><div><b>Guided learning hours:</b>90</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b>01/07/11</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 1,
+      "units": ["T/601/5320", "A/601/5321"]
+    }
+  ],
+  "unitsOptional":[],
+  "units": {
+    "T/601/5320": {
+      "title": "Understanding the principles and practices of internally assessing the quality of assessment ",
+      "data": [
+        "4",
+        "45"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the context and principles of internal quality assurance",
+          "questions": {
+            "1.1": "Explain the functions of internal quality assurance in learning and development",
+            "1.2": "Explain the key concepts and principles of the internal quality assurance of assessment",
+            "1.3": "Explain the roles of practitioners involved in the internal and external quality assurance process",
+            "1.4": "Explain the regulations and requirements for internal quality assurance in own area of practice"
+          }
+        },
+        "2": {
+          "title": "Understand how to plan the internal quality assurance of assessment",
+          "questions": {
+            "2.1": "Evaluate the importance of planning and preparing internal quality assurance activities",
+            "2.2": "Explain what an internal quality assurance plan should contain",
+            "2.3": "Summarise the preparations that need to be made for internal quality assurance, including:<br><ul><li> information collection </li><li> communications </li><li> administrative arrangements </li><li> resources </li></ul>"
+          }
+        },
+        "3": {
+          "title": "Understand techniques and criteria for monitoring the quality of assessment internally",
+          "questions": {
+            "3.1": "Evaluate different techniques for sampling evidence of assessment, including use of technology",
+            "3.2": "Explain the appropriate criteria to use for judging the quality of the assessment process"
+          }
+        },
+        "4": {
+          "title": "Understand how to internally maintain and improve the quality of assessment",
+          "questions": {
+            "4.1": "Summarise the types of feedback, support and advice that assessors may need to maintain and improve the quality of assessment",
+            "4.2": "Explain standardisation requirements in relation to assessment",
+            "4.3": "Explain relevant procedures regarding disputes about the quality of assessment"
+          }
+        },
+        "5": {
+          "title": "Understand how to manage information relevant to the internal quality assurance of assessment",
+          "questions": {
+            "5.1": "Evaluate requirements for information management, data protection and confidentiality in relation to the internal quality assurance of assessment"
+          }
+        },
+        "6": {
+          "title": "Understand the legal and good practice requirements for the internal quality assurance of assessment",
+          "questions": {
+            "6.1": "Evaluate legal issues, policies and procedures relevant to the internal quality assurance of assessment, including those for health, safety and welfare",
+            "6.2": "Evaluate different ways in which technology can contribute to the internal quality assurance of assessment",
+            "6.3": "Explain the value of reflective practice and continuing professional development in relation to internal quality assurance",
+            "6.4": "Evaluate requirements for equality and diversity and, where appropriate, bilingualism, in relation to the internal quality assurance of assessment"
+          }
+        }
+      }
+    },
+    "A/601/5321": {
+      "title": "Internally assure the quality of assessment ",
+      "data": [
+        "4",
+        "45"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Be able to plan the internal quality assurance of assessment ",
+          "questions": {
+            "1.1": "Plan monitoring activities according to the requirements of own role",
+            "1.2": "Make arrangements for internal monitoring activities to assure quality"
+          }
+        },
+        "2": {
+          "title": "Be able to internally evaluate the quality of assessment ",
+          "questions": {
+            "2.1": "Carry out internal monitoring activities to quality requirements",
+            "2.2": "Evaluate assessor expertise and competence in relation to the requirements of their role",
+            "2.3": "Evaluate the planning and preparation of assessment processes",
+            "2.4": "Determine whether assessment methods are safe, fair, valid and reliable",
+            "2.5": "Determine whether assessment decisions are made using the specified criteria",
+            "2.6": "Compare assessor decisions to ensure they are consistent"
+          }
+        },
+        "3": {
+          "title": "Be able to internally maintain and improve the quality of assessment",
+          "questions": {
+          "3.1": "Provide assessors with feedback, advice and support, including professional development opportunities, which help them to maintain and improve the quality of assessment ",
+          "3.2": "Apply procedures to standardise assessment practices and outcomes"
+          }
+        },
+        "4": {
+          "title": "Be able to manage information relevant to the internal quality assurance of assessment",
+          "questions": {
+            "4.1": "Apply procedures for recording, storing and reporting information relating to internal quality assurance",
+            "4.2": "Follow procedures to maintain confidentiality of internal quality assurance information"
+          }
+        },
+        "5": {
+          "title": "Be able to maintain legal and good practice requirements when internally monitoring and maintaining the quality of assessment ",
+          "questions": {
+            "5.1": "Apply relevant policies, procedures and legislation in relation to internal quality assurance, including those for health, safety and welfare",
+            "5.2": "Apply requirements for equality and diversity and, where appropriate, bilingualism, in relation to internal quality assurance",
+            "5.3": "Critically reflect on own practice in internally assuring the quality of assessment",
+            "5.4": "Maintain the currency of own expertise and competence in internally assuring the quality of assessment"
+          }
+        }
+      }
+    }
+  }
+}

@@ -60,7 +60,7 @@ export const FileProvider = ({ children }: { children: React.ReactNode }) => {
       let countQuestion = 0
       let countAnswer = 0
       const countUnitsState: UnitStateI = {}
-      Object.entries(workbook.unitsMandatory).forEach(([k, v]) => {
+      Object.entries(workbook.unitsMandatory).forEach(([, v]) => {
         v.units.map(unit => {
           countUnitsState[unit] = true
           Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {

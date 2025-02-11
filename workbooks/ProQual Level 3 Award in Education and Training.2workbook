@@ -1,0 +1,347 @@
+{
+  "version": "V1",
+  "versionDate": "April 2024",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2024/04/ProQual-Level-3-Award-in-Education-and-Training-2.pdf",
+  "coverTitle": "Workbook Level 3 Award in Education and Training",
+  "coverImg": "/images/workbooks/cover/AET.png",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 3 Award in Education and Training</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:&nbsp;</p><p>•<span style=\"white-space:pre\"> </span>Provide a clear roadmap for developing your competencies as an education and training professional.&nbsp;</p><p>•<span style=\"white-space:pre\"> </span>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit. •<span style=\"white-space:pre\"> </span>Support<span style=\"white-space:pre\"> </span>you<span style=\"white-space:pre\"> </span>in<span style=\"white-space:pre\"> </span>organising<span style=\"white-space:pre\"> </span>and<span style=\"white-space:pre\"> </span>presenting<span style=\"white-space:pre\"> </span>your<span style=\"white-space:pre\"> </span>portfolio<span style=\"white-space:pre\"> </span>of evidence, which will be assessed according to ProQual standards.</p>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<div>To achieve this qualification, you will need to complete:</div><div><br></div><div>1. One mandatory unit:</div><div>• Understanding Roles, Responsibilities and Relationships in Education and Training</div><div><br></div><div>2. One unit from Optional Group A:</div><div>• Choose from:</div><div>• Understanding and Using Inclusive Teaching and Learning Approaches in Education and Training</div><div>• Facilitate Learning and Development for Individuals</div><div>• Facilitate Learning and Development in Groups</div><div><br></div><div>3. One unit from Optional Group B:</div><div>• Choose from:</div><div>• Understanding Assessment in Education and Training</div><div>• Understanding the Principles and Practices of Assessment</div><div><br></div><div>This workbook is divided into dedicated sections for each unit, allowing you to work in an organised manner while selecting the optional units that best fit your needs and interests.</div>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<div>• Carefully read the learning objectives and assessment criteria for each unit.</div><div>• Complete the proposed activities, ensuring that you include all required evidence, such as reports, testimonies, or work products.</div><div>• Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</div><div>Remember: your success in this qualification depends on your dedication and commitment to meeting the criteria for each unit.</div><div>Take this opportunity to expand your skills and advance your career as an educator or trainer!</div><div><b>Best of luck on your learning journey!</b></div>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 3 Award in Education and Training</div><div><b>Ofqual qualification number:</b> 610/4093/9</div><div><b>Level:</b> 3</div><div><b>Total qualification time:</b> 120</div><div><b>Guided learning hours:</b> 48 - 61</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 22/04/2024</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 1,
+      "units": ["T/651/1228"]
+    }
+  ],
+  "unitsOptional":[
+    {
+      "groupName": "Optional Group A – Candidates must complete ONE unit in this group (choose one)",
+      "qtyRequired": 1,
+      "units": [ "Y/651/1229", "F/651/1230", "H/651/1231"],
+      "selected": []
+    },
+    {
+      "groupName": "Optional Group B – Candidates must complete ONE unit in this group (choose one)",
+      "qtyRequired": 1,
+      "units": [ "J/651/1232", "K/651/1233"],
+      "selected": []
+    }
+  ],
+  "units": {
+    "T/651/1228": {
+      "title": "Understanding Roles, Responsibilities and Relationships in Education and Training",
+      "data": [
+        "3",
+        "12"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the teaching role and responsibilities in education and training.",
+          "questions": {
+            "1.1": "Explain the teaching role and responsibilities in education and training.",
+            "1.2": "Summarise key aspects of legislation, regulatory requirements and codes of practice relating to own role and responsibilities.",
+            "1.3": "Explain ways to promote equality and value diversity.",
+            "1.4": "Explain why it is important to identify and meet individual learner needs."
+          }
+        },
+        "2": {
+          "title": "Understand ways to maintain a safe and supportive learning environment.",
+          "questions": {
+            "2.1": "Explain ways to maintain a safe and supportive learning environment.",
+            "2.2": "Explain why it is important to promote appropriate behaviour and respect for others."
+          }
+        },
+        "3": {
+          "title": "Understand ways to maintain a safe and supportive learning environment.",
+          "questions": {
+            "3.1": "Explain how the teaching role involves working with other professionals.",
+            "3.2": "Explain the boundaries between the teaching role and other professional roles.",
+            "3.3": "Describe points of referral to meet the individual needs of learners."
+          }
+        }
+      }
+    },
+    "Y/651/1229": {
+      "title": "Understanding and Using Inclusive Teaching and Learning Approaches in Education and Training",
+      "data": [
+        "3",
+        "25"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand inclusive teaching and learning approaches in education and training.",
+          "questions": {
+            "1.1": "Describe features of inclusive teaching and learning.",
+            "1.2": "Compare the strengths and limitations of teaching and learning approaches used in own area of specialism in relation to meeting individual learner needs.",
+            "1.3": "Explain why it is important to provide opportunities for learners to develop their English, mathematics, ICT and wider skills."
+          }
+        },
+        "2": {
+          "title": "Understand ways to create an inclusive teaching and learning environment.",
+          "questions": {
+            "2.1": "Explain why it is important to create an inclusive teaching and learning environment.",
+            "2.2": "Explain why it is important to select teaching and learning approaches, resources and assessment methods to meet individual learner needs.",
+            "2.3": "Explain ways to engage and motivate learners.",
+            "2.4": "Summarise ways to establish ground rules with learners."
+          }
+        },
+        "3": {
+          "title": "Plan inclusive teaching and learning.",
+          "questions": {
+            "3.1": "Devise an inclusive teaching and learning plan.",
+            "3.2": "Justify own selection of teaching and learning approaches, resources and assessment methods in relation to meeting individual learner needs."
+          }
+        },
+        "4": {
+          "title": "Be able to deliver inclusive teaching and learning.",
+          "questions": {
+            "4.1": "Explain how to use teaching and learning approaches, resources and assessment methods to meet individual learner needs.",
+            "4.2": "Explain how to communicate with learners in ways that meet their individual needs.",
+            "4.3": "Explain how to provide constructive feedback to learners to meet their individual needs."
+          }
+        },
+        "5": {
+          "title": "Evaluate the delivery of inclusive teaching and learning.",
+          "questions": {
+            "5.1": "Review the effectiveness of own delivery of teaching and learning.",
+            "5.2": "Identify areas for improvement in own delivery of inclusive teaching and learning."
+          }
+        }
+      }
+    },
+    "F/651/1230": {
+      "title": "Facilitate Learning and Development for Individuals",
+      "data": [
+        "3",
+        "25"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand principles and practices of one to one learning and development.",
+          "questions": {
+            "1.1": "Explain the purposes of one to one learning and development.",
+            "1.2": "Explain factors that need to be considered when facilitating learning and development to meet individual needs.",
+            "1.3": "Evaluate methods for facilitating learning and development to meet the needs of individuals.",
+            "1.4": "Explain how to manage risks and safeguard individuals when facilitating one to one learning and development.",
+            "1.5": "Explain how to overcome individual barriers to learning.",
+            "1.6": "Explain how to monitor individual learner progress.",
+            "1.7": "Explain how to adapt delivery to meet individual learner needs."
+          }
+        },
+        "2": {
+          "title": "Facilitate one to one learning and development.",
+          "questions": {
+            "2.1": "Clarify facilitation methods with individuals to meet their learning and/or development objectives.",
+            "2.2": "Implement activities to meet learning and/or development objectives.",
+            "2.3": "Manage risks and safeguard learners participating in one to one learning and/or development."
+          }
+        },
+        "3": {
+          "title": "Assist individual learners in applying new knowledge and skills in practical contexts.",
+          "questions": {
+            "3.1": "Develop opportunities for individuals to apply their new knowledge and learning in practical contexts.",
+            "3.2": "Explain the benefits to individuals of applying new knowledge and skills."
+          }
+        },
+        "4": {
+          "title": "Assist individual learners in reflecting on their learning and/or development.",
+          "questions": {
+            "4.1": "Explain the benefits of self-evaluation to individuals.",
+            "4.2": "Review individual responses to one to one learning and/or development.",
+            "4.3": "Assist individual learners to identify their future learning and/or development needs."
+          }
+        },
+        "5": {
+          "title": "Evaluate the delivery of inclusive teaching and learning.",
+          "questions": {
+            "5.1": "Review the effectiveness of own delivery of teaching and learning.",
+            "5.2": "Identify areas for improvement in own delivery of inclusive teaching and learning."
+          }
+        }
+      }
+    },
+    "H/651/1231": {
+      "title": "Facilitate Learning and Development in Groups",
+      "data": [
+        "3",
+        "24"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand principles and practices of learning and development in groups.",
+          "questions": {
+            "1.1": "Explain the purposes of group learning and development.",
+            "1.2": "Explain why delivery of learning and development must reflect group dynamics.",
+            "1.3": "Evaluate methods for facilitating learning and development to meet the needs of groups.",
+            "1.4": "Explain how to manage risks and safeguard individuals when facilitating learning and development in groups.",
+            "1.5": "Explain how to overcome barriers to learning in groups.",
+            "1.6": "Explain how to monitor individual learner progress within group learning and development activities.",
+            "1.7": "Explain how to adapt delivery based on feedback from learners in groups."
+          }
+        },
+        "2": {
+          "title": "Facilitate learning and development in groups.",
+          "questions": {
+            "2.1": "Clarify facilitation methods with group members to meet group and individual learning and/or development objectives.",
+            "2.2": "Implement learning and development activities to meet learning objectives.",
+            "2.3": "Manage risks to group and individual learning and development."
+          }
+        },
+        "3": {
+          "title": "Assist groups to apply new knowledge and skills in practical contexts.",
+          "questions": {
+            "3.1": "Develop opportunities for individuals to apply their new knowledge and learning in practical contexts.",
+            "3.2": "Provide feedback to improve the application of learning."
+          }
+        },
+        "4": {
+          "title": "Assist learners in reflecting on their learning and/or development in groups.",
+          "questions": {
+            "4.1": "Support self-evaluation by learners.",
+            "4.2": "Review individual responses to one to one learning and development in groups.",
+            "4.3": "Assist individual learners to identify their future learning and/or development needs."
+          }
+        }
+      }
+    },
+    "J/651/1232": {
+      "title": "Understand types of methods of assessment used in education and training.",
+      "data": [
+        "3",
+        "12"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand principles and practices of learning and development in groups.",
+          "questions": {            
+            "1.1": "Explain the purposes of types of assessment used in education and training.",
+            "1.2": "Describe the characteristics of different methods of assessment in education and training.",
+            "1.3": "Compare the strengths and limitations of different assessment methods in relation to meeting individual learner needs.",
+            "1.4": "Explain how different assessment methods can be adapted to meet individual learner needs."
+          }
+        },
+        "2": {
+          "title": "Understand how to involve learners and others in the assessment process.",
+          "questions": {
+            "2.1": "Explain why it is important to involve learners and others in the assessment process.",
+            "2.2": "Explain the role and use of peer and self-assessment in the assessment process.",
+            "2.3": "Identify sources of information that should be made available to learners and others involved in the assessment process."
+          }
+        },
+        "3": {
+          "title": "Understand the role and use of constructive feedback in the assessment process.",
+          "questions": {
+            "3.1": "Describe key features of assessment feedback.",
+            "3.2": "Explain how constructive feedback contributes to the assessment process.",
+            "3.3": "Explain ways to give constructive feedback to learners."
+          }
+        },
+        "4": {
+          "title": "Understand requirements for keeping records of assessment in education and training.",
+          "questions": {
+            "4.1": "Explain the need to keep records of assessment of learning.",
+            "4.2": "Summarise the requirements for keeping records of assessment in an organisation."
+          }
+        }
+      }
+    },
+    "K/651/1233": {
+      "title": "Understanding the Principles and Practices of Assessment.",
+      "data": [
+        "3",
+        "24"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the principles and requirements of assessment.",
+          "questions": {            
+            "1.1": "Explain the function of assessment in learning and development.",
+            "1.2": "Define the key concepts and principles of assessment.",
+            "1.3": "Explain the responsibilities of the assessor.",
+            "1.4": "Identify the regulations and requirements relevant to the assessment in own area of practice."
+          }
+        },
+        "2": {
+          "title": "Understand different types of assessment method.",
+          "questions": {
+            "2.1": "Compare the strengths and limitations of a range of assessment methods with reference to the needs of individual learners."
+          }
+        },
+        "3": {
+          "title": "Understand how to plan assessment.",
+          "questions": {
+            "3.1": "Summarise key factors to consider when planning assessment.",
+            "3.2": "Evaluate the benefits of using a holistic approach to assessment.",
+            "3.3": "Explain how to plan a holistic approach to assessment.",
+            "3.4": "Summarise the types of risks that may be involved in assessment in own area of responsibility.",
+            "3.5": "Explain how to minimise risks through the planning process."
+          }
+        },
+        "4": {
+          "title": "Understand how to involve learners and others in assessment.",
+          "questions": {
+            "4.1": "Explain the importance of involving the learner and others in the assessment process.",
+            "4.2": "Summarise types of information that should be made available to learners and others involved in the assessment process.",
+            "4.3": "Explain how peer and self-assessment can be used effectively to promote learner involvement and personal responsibility in the assessment of learning.",
+            "4.4": "Explain how assessment arrangements can be adapted to meet the needs of individual learners."
+          }
+        },
+        "5": {
+          "title": "Understand how to make assessment decisions.",
+          "questions": {
+            "5.1": "Explain how to judge whether evidence is: <br><br>• Sufficient <br>• Authentic <br>• Current",
+            "5.2": "Explain how to ensure that assessment decisions are: <br><br>• Made against specified criteria. <br>• Valid <br>• Reliable <br>• Fair"
+          }
+        },
+        "6": {
+          "title": "Understand quality assurance of the assessment process.",
+          "questions": {
+            "6.1": "Evaluate the importance of quality assurance in the assessment process.",
+            "6.2": "Summarise quality assurance and standardisation procedures in own area of practice.",
+            "6.3": "Summarise the procedures to follow when there are disputes concerning assessment in own area of practice."
+          }
+        },
+        "7": {
+          "title": "Understand how to manage information relating to assessment.",
+          "questions": {
+            "7.1": "Explain the importance of following procedures for the management of information relating to assessment.",
+            "7.2": "Explain how feedback and questioning contribute to the assessment process."
+          }
+        },
+        "8": {
+          "title": "Understand the legal and good practice requirements in relation to assessment.",
+          "questions": {
+            "8.1": "Explain legal issues, policies and procedures relevant to assessment, including those for confidentiality, health, safety and welfare.",
+            "8.2": "Explain the contribution that technology can make to the assessment process.",
+            "8.3": "Evaluate requirements for equality and diversity and, where appropriate, bilingualism in relation to assessment.",
+            "8.4": "Explain the value of reflective practice and continuing professional development in the assessment process."
+          }
+        }
+      }
+    }
+  }
+}

@@ -23,6 +23,10 @@ export async function GET(req: NextRequest) {
       },
       { responseType: "arraybuffer" } // Retorna um Buffer
     );
+    console.log('#############')
+    console.log(response)
+    console.log('#############')
+
     const fileContent = Buffer.from(response.data as ArrayBuffer).toString("utf-8");
     try {
       const parsedContent = JSON.parse(fileContent); // 🚀 Evita erro caso não seja um JSON válido

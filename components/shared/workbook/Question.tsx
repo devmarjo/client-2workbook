@@ -27,6 +27,7 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
   }
   useEffect(()=>{
     getAnswer()
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [workbook]) 
   const save = () => {
     if (workbook) {
