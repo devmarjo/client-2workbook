@@ -6,8 +6,7 @@ import { WorkbookSections } from "@/components/shared/workbook/sections";
 import { WorkbookStudent } from "@/components/shared/workbook/student";
 import { WorkbookUnits } from "@/components/shared/workbook/Units";
 
-export default function Editor() {
-
+export default function Viewer() {
   return (
     <div className="page-break-after">
       <div id="start"></div>

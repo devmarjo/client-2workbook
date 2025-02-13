@@ -27,7 +27,6 @@ export const getAccessToken = async (): Promise<string | null> => {
     });
 
     if (!response.ok) {
-      console.error("Falha ao renovar access token");
       return null;
     }
 

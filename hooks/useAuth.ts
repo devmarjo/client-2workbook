@@ -14,47 +14,49 @@ export const useAuth = () => {
   const [accessToken, setAccessToken] = useState<string | null>(null);
   const router = useRouter();
 
-  useEffect(() => {
-    const fetchToken = async () => {
-      const token = await getAccessToken();
 
-      if (!token) {
-        // if (!window.confirm("Sem token, vamos redirecionar?")) {
-        //     return false
-        // }
-        try {
-          const response = await fetch("/auth/google", {
-            method: "GET",
-            headers: { "Content-Type": "application/json" }
-          });
-      
-          if (!response.ok) {
-            console.error("Falha ao renovar access token");
-            router.push("/BadGatway");
-            return null;
-          }
-      
-          const data = await response.json();
-          if(data.authUrl) {
-            window.location = data.authUrl
-          } else {
-            router.push("/BadAuthURL");
-          }
-        } catch (error) {
-          router.push("/BadGatway");
-          console.error("Erro ao renovar token:", error);
+  const fetchToken = async () => {
+    const token = await getAccessToken();
+    if (token !== null && token === accessToken ) {
+      return
+    }
+    if (!token) {
+      // if (!window.confirm("Sem token, vamos redirecionar?")) {
+      //     return false
+      // }
+      try {
+        const response = await fetch("/auth/google", {
+          method: "GET",
+          headers: { "Content-Type": "application/json" }
+        });
+    
+        if (!response.ok) {
+          console.error("Falha ao renovar access token");
           return null;
         }
-
-
-
-      } else {
-        setAccessToken(token);
+    
+        const data = await response.json();
+        if(data.authUrl) {
+          window.location = data.authUrl
+        } else {
+          router.push("/BadAuthURL");
+        }
+      } catch (error) {
+        console.error("Erro ao renovar token:", error);
+        return null;
       }
-    };
 
+
+
+    } else {
+      setAccessToken(token);
+    }
+  };
+
+  useEffect(() => {
     fetchToken();
-  }, [router]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return { accessToken, setTokens, getAccessToken, clearTokens };
 };

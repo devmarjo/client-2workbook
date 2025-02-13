@@ -23,7 +23,7 @@ export async function GET(req: NextRequest) {
 
     // Redireciona para a página do frontend passando os tokens na URL (não recomendado para produção)
     return NextResponse.redirect(
-      new URL(`/editor?access_token=${tokens.access_token}&refresh_token=${tokens.refresh_token}&expiry_date=${tokens.expiry_date}`, req.url)
+      new URL(`/clientRedirect?access_token=${tokens.access_token}&refresh_token=${tokens.refresh_token}&expiry_date=${tokens.expiry_date}`, req.url)
     );
   } catch (error) {
     return NextResponse.json({ error: "Falha ao trocar código por token - " + error }, { status: 500 });

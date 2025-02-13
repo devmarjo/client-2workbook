@@ -1,4 +1,4 @@
-import { EditorNavBar } from "@/components/shared/editorNavbar";
+import { ViewNavBar } from "@/components/shared/viewNavbar";
 import { FileProvider } from "@/hooks/useFile";
 import { Suspense } from "react";
 
@@ -9,8 +9,8 @@ export default function RootLayout({
 }>) {
   return (
     <Suspense>
-      <FileProvider viewer={false}>
-        <EditorNavBar/>
+      <FileProvider viewer={true}>
+        <ViewNavBar/>
         <div className="mt-[10vh] print:mt-0" > 
           {children}
         </div>

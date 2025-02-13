@@ -26,7 +26,10 @@ export function DialogGDrive() {
     return (
       <Dialog open={open} onOpenChange={setOpen}>
         <DialogTrigger asChild>
-          <Image className="cursor-pointer" src={'images/google-drive.svg'} width={'64'} height={'64'} alt='GoogleDrive' />
+          <div>
+            <span>Open in</span>
+            <Image className="cursor-pointer" src={'images/google-drive.svg'} width={'64'} height={'64'} alt='GoogleDrive' />
+          </div>
         </DialogTrigger>
         <DialogContent className="w-[90vw] min-w-[70vw]">
           <DialogHeader>
@@ -41,7 +44,10 @@ export function DialogGDrive() {
   return (
     <Drawer open={open} onOpenChange={setOpen}>
       <DrawerTrigger asChild>
-        <Image className="cursor-pointer" src={'images/google-drive.svg'} width={'64'} height={'64'} alt='GoogleDrive' />
+        <div>
+          <span>Open in</span>
+          <Image className="cursor-pointer" src={'images/google-drive.svg'} width={'64'} height={'64'} alt='GoogleDrive' />
+        </div>
       </DrawerTrigger>
       <DrawerContent>
         <DrawerHeader className="text-left">
