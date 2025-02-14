@@ -114,7 +114,7 @@ export default function Home() {
               </ol>
             </div>
           </div>
-          <div>
+          <div className={"col-span-2 md:col-span-1"}>
             <div className="mt-10"></div>
             <FileList/>
           </div>

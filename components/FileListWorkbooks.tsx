@@ -43,13 +43,13 @@ const FileList: React.FC = () => {
       ) : (
         <>
           {files.map((file, index) => (
-            <div className="flex flex-row" key={'workbook'+index}>
-              <Button  style={{width: '75%'}} onClick={() => router.push("/view?url=/api/download/" + encodeURIComponent(file))}>
-                <span className="overflow-hidden text-ellipsis">{file}</span>
+            <div className="flex flex-col" key={'workbook'+index}>
+              <Button onClick={() => router.push("/view?url=/api/download/" + encodeURIComponent(file))}>
+                <span className="overflow-hidden text-ellipsis">{file.replaceAll('.2workbook', '')}</span>
               </Button>
-              <a style={{width: '25%'}} href={'/api/download/' + encodeURIComponent(file)} download>
+              {/* <a href={'/api/download/' + encodeURIComponent(file)} download>
                 <Button ><Download/></Button>
-              </a>
+              </a> */}
             </div>
           ))}
           <div className="text-start pt-5 "><b>SOON:</b></div>
