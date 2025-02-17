@@ -11,7 +11,7 @@ export default function EditorPage() {
     localStorage.setItem('clientRedirect', '/editor')
   }
   const router = useRouter()
-  const {fileId, workbook, setFileId, getWorkbookByFileId} = useFile()
+  const {fileId, workbook, setFileId} = useFile()
   const searchParams = useSearchParams()
   const urlFileId = searchParams.get("file_id");
   useEffect(() => {
@@ -29,21 +29,14 @@ export default function EditorPage() {
 
 
   useEffect(()=> {
-    if (fileId) {
-      if (fileId.length > 0) {
-        getWorkbookByFileId()
-      } 
-    }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [fileId])
-
-  useEffect(()=> {
     router.replace('editor')
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [fileId])
+  useEffect(() => {
+    console.log('workbook', workbook)
+  }, [workbook])
   return (
     <>
-        <h1>{fileId}</h1>
         { workbook ?
           <EditorComponent /> :
           <div className="w-[100vw] text-center text-white p-20 text-xl"><b>LOADING...</b></div>

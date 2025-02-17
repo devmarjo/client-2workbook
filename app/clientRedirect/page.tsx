@@ -3,7 +3,7 @@
 import { useSearchParams, useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
-export default function Filepicker() {
+export default function ClientRedirect() {
   const searchParams = useSearchParams()
   const router = useRouter()
   const [redirectEndpoint, setRedirectEndpoint] = useState<string| false>(false)

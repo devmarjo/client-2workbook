@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { getAccessToken, setTokens,clearTokens } from "../utils/auth";
 
@@ -14,8 +14,7 @@ export const useAuth = () => {
   const [accessToken, setAccessToken] = useState<string | null>(null);
   const router = useRouter();
 
-
-  const fetchToken = async () => {
+  const fetchToken = useCallback( async () => {
     const token = await getAccessToken();
     if (token !== null && token === accessToken ) {
       return
@@ -51,12 +50,12 @@ export const useAuth = () => {
     } else {
       setAccessToken(token);
     }
-  };
+  }, [accessToken, router]) 
 
   useEffect(() => {
     fetchToken();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return { accessToken, setTokens, getAccessToken, clearTokens };
+  return { accessToken, setTokens, getAccessToken, clearTokens, fetchToken };
 };

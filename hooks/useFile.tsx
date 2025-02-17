@@ -16,7 +16,6 @@ interface FileContextType {
   setFileId: (id: string | null) => void;
   workbook: WorkbookI | null;
   setWorkbook: (content: WorkbookI | null) => void;
-  getWorkbookByFileId: () => void;
   saveWorkbook: () => void;
   CreateNewFileWorkbook: (folderId: string) => void;
   progress: number;
@@ -42,6 +41,7 @@ export const useFile = () => {
 export const FileProvider = ({ children, viewer = false }: { children: React.ReactNode, viewer: boolean }) => {
   const router = useRouter()
   const { accessToken, clearTokens } = useAuth();
+  console.log('# ASSSSSSS', accessToken)
   const [fileId, setFileId] = useState<string | null>(null);
   const [workbook, setWorkbook] = useState<WorkbookI | null>(null);
   const [progress, setProgress] = useState<number>(0);
@@ -90,9 +90,12 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
     }
    
   }, [workbook]);
-
+  useEffect(() => {
+    console.log("Novo token detectado:", accessToken);
+  }, [accessToken]);
+  
   // Busca o conteúdo do arquivo
-  const getWorkbookByFileId = () => {
+  useEffect(() => {
     if (accessToken && fileId) {
       const promise = fetch(`/api/drive/file?id=${fileId}`, {
         headers: { Authorization: `Bearer ${accessToken}` },
@@ -133,7 +136,8 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
         });
 
     }
-  };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [accessToken, fileId])
 
   //  Nova função para salvar as alterações no Google Drive
   const saveWorkbook = () => {
@@ -245,8 +249,8 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   };
 
   const getWorkbookViewByURL = (url: string) => {
-
     if (url) {
+      setFileId(null)
       const promise = fetch(url)
         .then((res) => {
           try {
@@ -287,7 +291,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   }
 
   return (
-    <FileContext.Provider value={{ fileId, workbook, setFileId, setWorkbook, saveWorkbook, progress, unitsState, viewer, getWorkbookViewByURL, getWorkbookByFileId, CreateNewFileWorkbook }}>
+    <FileContext.Provider value={{ fileId, workbook, setFileId, setWorkbook, saveWorkbook, progress, unitsState, viewer, getWorkbookViewByURL, CreateNewFileWorkbook }}>
       {children}
     </FileContext.Provider>
   );

@@ -1,6 +1,23 @@
 import { google } from "googleapis";
 import { NextRequest, NextResponse } from "next/server";
 
+async function getTokenScopes(accessToken: string) {
+  const auth = new google.auth.OAuth2(); 
+  auth.setCredentials({ access_token: accessToken });
+
+  const oauth2 = google.oauth2({
+      version: "v2",
+      auth: auth, // Usar o auth que já tem o token
+  });
+
+  try {
+      const res = await oauth2.tokeninfo({ access_token: accessToken });
+      console.log("Escopos disponíveis:", res.data.scope);
+  } catch (error) {
+      console.error("Erro ao obter escopos:", error || error);
+  }
+}
+
 export async function GET(req: NextRequest) {
   const url = new URL(req.url);
   const fileId = url.searchParams.get("id");
@@ -57,6 +74,9 @@ export async function PUT(req: NextRequest) {
     const auth = new google.auth.OAuth2();
     auth.setCredentials({ access_token: accessToken });
 
+    // Exemplo de uso com um token de acesso válido
+    await getTokenScopes(accessToken);
+
     const drive = google.drive({ version: "v3", auth });
 
     await drive.files.update({
@@ -65,10 +85,13 @@ export async function PUT(req: NextRequest) {
         mimeType: "application/x-2workbook",
         body: JSON.stringify(updatedContent),
       },
+      supportsAllDrives: true,
+      supportsTeamDrives: true
     });
 
     return NextResponse.json({ success: true, message: "Arquivo atualizado com sucesso" });
   } catch (error) {
+    console.log(error)
     return NextResponse.json({ error: "Erro ao atualizar o arquivo", details: error }, { status: 500 });
   }
 }
@@ -118,6 +141,8 @@ export async function POST(req: NextRequest) {
       requestBody: fileMetadata,
       media,
       fields: "id, name, mimeType",
+      supportsAllDrives: true,
+      supportsTeamDrives: true
     });
 
     return NextResponse.json(response.data, { status: 200 });
