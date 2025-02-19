@@ -1,0 +1,206 @@
+  {
+  "version": "ProQual 2017",
+  "versionDate": "August 2017",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2016/10/ProQual-Level-3-Assessor-Qualifications.pdf",
+  "coverTitle": "Level 3 Certificate in Assessing Vocational Achievement",
+  "coverImg": "",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the<b> Level 3 Certificate in Assessing Vocational Achievement</b>. This workbook is designed to support you in successfully completing your qualification by guiding you through the learning objectives, assessment criteria, and required evidence."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing competencies in assessing vocational achievement.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete three <b>mandatory units</b>:</p><h3>Mandatory Units:</h3><ul><li>Understanding the Principles and Practices of Assessment</li><li>Assess Occupational Competence in the Work Environment</li><li>Assess Vocational Skills, Knowledge, and Understanding</li></ul><p>This qualification is suitable for assessors who evaluate both <b>occupational competence in the workplace</b> and <b>vocational skills, knowledge, and understanding in non-workplace environments</b> (such as workshops, classrooms, or training settings).</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring you include all required evidence, such as:.<br><ul><li>Observation reports</li><li>Assignments</li><li>Professional discussions</li><li>Work products</li><li>Case studies</li></ul></li><li>Use this workbook as a tool to track your progress and ensure all requirements are met before the final assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:&nbsp;</b>Assurance of Assessment Processes and Practices</div><div><b>Ofqual qualification number:&nbsp;</b>600/2020/9</div><div><b>Level:&nbsp;</b>3</div><div><b>Total qualification time:&nbsp;</b>150</div><div><b>Guided learning hours:&nbsp;</b>84</div><div><b>Assessment:</b></div><ul><li>Pass or fail</li><li>Internally assessed and verified by centre staff</li><li>External quality assurance by ProQual verifiers</li></ul><div><b>Qualification start date:&nbsp;</b>01/07/11</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 3,
+      "units": ["D/601/5313", "H/601/5314", "F/601/5319"]
+    }
+  ],
+  "unitsOptional":[],
+  "units": {
+    "D/601/5313": {
+      "title": "Understanding the principles and practices of assessment",
+      "data": [
+        "3",
+        "24"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the principles and requirements of assessment",
+          "questions": {
+            "1.1": "Explain the functions of assessment in learning and development",
+            "1.2": "Define the key concepts and principles of assessment",
+            "1.3": "Explain the responsibilities of the assessor",
+            "1.4": "Identify the regulations and requirements relevant to assessment in own area of practice"
+          }
+        },
+        "2": {
+          "title": "Understand different types of assessment method",
+          "questions": {
+            "2.1": "Compare the strengths and limitations of a range of assessment methods with reference to the needs of individual learners"
+          }
+        },
+        "3": {
+          "title": "Understand how to plan assessment",
+          "questions": {
+            "3.1": "Summarise key factors to consider when planning assessment",
+            "3.2": "Evaluate the benefits of using a holistic approach to assessment",
+            "3.3": "Explain how to plan a holistic approach to assessment",
+            "3.4": "Summarise the types of risks that may be involved in assessment in own area of responsibility",
+            "3.5": "Explain how to minimise risks through the planning process"
+          }
+        },
+        "4": {
+          "title": "Understand how to involve learners and others in assessment",
+          "questions": {
+            "4.1": "Explain the importance of involving the learner and others in the assessment process",
+            "4.2": "Summarise types of information that should be made available to learners and others involved in the assessment process",
+            "4.3": "Explain how peer and self-assessment can be used effectively to promote learner involvement and personal responsibility in the assessment of learning",
+            "4.4": "Explain how assessment arrangements can be adapted to meet the needs of the individual learners"
+          }
+        },
+        "5": {
+          "title": "Understand how to make assessment decisions",
+          "questions": {
+            "5.1": "Explain how to judge whether evidence is: <ul><li>sufficient</li><li>authentic</li><li>current</li></ul>",
+            "5.2": "Explain how to ensure that assessment decisions are: <ul><li>made against specified criteria</li><li>valid</li><li>reliable</li><li>fair</li></ul>"
+          }
+        },
+        "6": {
+          "title": "Understand quality assurance of the assessment process",
+          "questions": {
+            "6.1": "Evaluate the importance of quality assurance in the assessment process",
+            "6.2": "Summarise quality assurance and standardisation procedures in own area of practice",
+            "6.3": "Summarise the procedures to follow when there are disputes concerning assessment in own area of practice"
+          }
+        },
+        "7": {
+          "title": "Understand how to manage information relating to assessment",
+          "questions": {
+            "7.1": "Explain the importance of following procedures for the management of information relating to assessment",
+            "7.2": "Explain how feedback and questioning contribute to the assessment process"
+          }
+        },
+        "8": {
+          "title": "Understand the legal and good practice requirements in relation to assessment",
+          "questions": {
+            "8.1": "Explain legal issues, policies and procedures relevant to assessment, including those for confidentiality, health, safety and welfare",
+            "8.2": "Explain the contribution that technology can make to the assessment process",
+            "8.3": "Evaluate requirements for equality and diversity and, where appropriate, bilingualism, in relation to assessment",
+            "8.4": "Explain the value of reflective practice and continuing professional development in the assessment process"
+          }
+        }
+      }
+    },
+    "H/601/5314": {
+      "title": "Assess occupational competence in the work environment",
+      "data": [
+        "3",
+        "30"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Be able to plan the assessment of occupational competence",
+          "questions": {
+            "1.1": "Plan assessment of occupational competence based on the following methods:<ul><li>observation of performance in the work environment</li><li>examining products of work</li><li>questioning the learner</li><li>discussing with the learner</li><li>use of others (witness testimony)</li><li>looking at learner statements</li><li>recognising prior learning</li></ul>",
+            "1.2": "Communicate the purpose, requirements and processes of assessing occupational competence to the learner",
+            "1.3": "Plan the assessment of occupational competence to address learner needs and current achievements",
+            "1.4": "Identify opportunities for holistic assessment"
+          }
+        },
+        "2": {
+          "title": "Be able to make assessment decisions about occupational competence",
+          "questions": {
+            "2.1": "Use valid, fair and reliable assessment methods including: <ul><li>observation of performance</li><li>examining products of work</li><li>questioning with the learner</li><li>discussing with the learner</li><li>use of others (witness testimony)</li><li>looking at learner statements</li><li>recognising prior learning</li></ul>",            
+            "2.2": "Make assessment decisions of occupational competence against specified criteria",
+            "2.3": "Follow standardisation procedures",
+            "2.4": "Provide feedback to learners that affirms achievement and identifies any further implications for learning, assessment and progression"
+          }
+        },
+        "3": {
+          "title": "Be able to provide required information following the assessment of occupational competence",
+          "questions": {
+            "3.1": "Maintain records of the assessment of occupational competence, its outcomes and learner progress",
+            "3.2": "Make assessment information available to authorised colleagues",
+            "3.3": "Follow procedures to maintain the confidentiality of assessment information"
+          }
+        },
+        "4": {
+          "title": "Be able to maintain legal and good practice requirements when assessing occupational competence",
+          "questions": {            
+            "4.1": "Follow relevant policies, procedures and legislation for the assessment of occupational competence, including those for health, safety and welfare",
+            "4.2": "Apply requirements for equality and diversity and, where appropriate, bilingualism, when assessing occupational competence",
+            "4.3": "Evaluate own work in carrying out assessments of occupational competence",
+            "4.4": "Maintain the currency of own expertise and competence as relevant to own role in assessing occupational competence"
+          }
+        }
+      }
+    },
+    "F/601/5319": {
+      "title": "Assess vocational skills, knowledge and understanding",
+      "data": [
+        "3",
+        "30"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Be able to prepare assessments of vocational skills, knowledge and understanding",
+          "questions": {
+            "1.1": "Select methods to assess vocational skills, knowledge and understanding which address learner needs and meet assessment requirements, including: <ul><li>assessments of the learner in simulated environments</li><li>skills tests</li><li>oral and written questions</li><li>assignments</li><li>projects</li><li>case studies</li><li>recognising prior learning</li></ul>",
+            "1.2": "Prepare resources and conditions for the assessment of vocational skills, knowledge and understanding",
+            "1.3": "Communicate the purpose, requirements and processes of assessment of vocational skills, knowledge and understanding to learners"
+          }
+        },
+        "2": {
+          "title": "Be able to carry out assessments of vocational skills, knowledge and understanding",
+          "questions": {
+            "2.1": "Manage assessments of vocational skills, knowledge and understanding to meet assessment requirements",
+            "2.2": "Provide support to learners within agreed limitations",
+            "2.3": "Analyse evidence of learner achievement",
+            "2.4": "Make assessment decisions relating to vocational skills, knowledge and understanding against specified criteria",
+            "2.5": "Follow standardisation procedures",
+            "2.6": "Provide feedback to the learner that affirms achievement and identifies any further implications for learning, assessment and progression"
+          }
+        },
+        "3": {
+          "title": "Be able to provide required information following the assessment of vocational skills, knowledge and understanding",
+          "questions": {
+            "3.1": "Maintain records of the assessment of vocational skills, knowledge and understanding, its outcomes and learner progress",
+            "3.2": "Make assessment information available to authorised colleagues as required",
+            "3.3": "Follow procedures to maintain the confidentiality of assessment information"
+          }
+        },
+        "4": {
+          "title": "Be able to maintain legal and good practice requirements when assessing vocational skills, knowledge and understanding",
+          "questions": {
+            "4.1": "Follow relevant policies, procedures and legislation relating to the assessment of vocational skills, knowledge and understanding, including those for health, safety and welfare",
+            "4.2": "Apply required for equality and diversity and, where appropriate, bilingualism",
+            "4.3": "Evaluate own work in carrying out assessments of vocational skills, knowledge and understanding",
+            "4.4": "Take part in continuing professional development to ensure current expertise and competence in assessing vocational skills, knowledge and understanding"
+          }
+        }
+      }
+    }
+  }
+}

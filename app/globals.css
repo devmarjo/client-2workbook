@@ -12,6 +12,17 @@ body {
   border:  3px solid #a7f3d0
 }
 
+
+ul {
+  list-style-type: square;
+  padding: 1em;
+  padding-left: 2em;
+}
+li {
+  padding: 1em;
+}
+
+
 @layer base {
   :root {
     --background: 0 0% 100%;

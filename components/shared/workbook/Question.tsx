@@ -54,10 +54,10 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
   
   return(
     <div className="no-page-break">
-      <div className="p-5 py-5 text-left leading-none tracking-tight text-gray-900"> {props.qkey} - {props.q}  </div>
+      <div className="p-5 py-5 text-left leading-none tracking-tight text-gray-900"> {props.qkey} - <span dangerouslySetInnerHTML={{__html: props.q}}></span>  </div>
       <div className="pb-10">
         {
-          editMode ? 
+          editMode ?
           <>
             <div style={{margin: 'auto', maxWidth: '720px'}} className="no-print">
               <Editor value={editValue} onChange={onChange} /> 

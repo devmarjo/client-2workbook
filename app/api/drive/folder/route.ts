@@ -19,7 +19,8 @@ export async function GET(req: NextRequest) {
     const folderData = await drive.files.get(
       {
         fileId: folderId,
-        fields: "id, name"
+        fields: "id, name",
+        supportsAllDrives: true,
       }
     );
     console.log('#############')

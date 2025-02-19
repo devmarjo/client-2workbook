@@ -33,7 +33,7 @@
   "unitsMandatory":[
     {
       "groupName": "Mandatory units",
-      "qtyRequired": 1,
+      "qtyRequired": 2,
       "units": ["T/601/5320", "A/601/5321"]
     }
   ],

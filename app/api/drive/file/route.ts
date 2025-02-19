@@ -37,8 +37,10 @@ export async function GET(req: NextRequest) {
       {
         fileId,
         alt: "media", // Obtém o conteúdo do arquivo
+        supportsAllDrives: true,
+        supportsTeamDrives: true
       },
-      { responseType: "arraybuffer" } // Retorna um Buffer
+      { responseType: "arraybuffer" }, // Retorna um Buffer
     );
     console.log('#############')
     console.log(response)
