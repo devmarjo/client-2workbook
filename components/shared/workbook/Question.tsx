@@ -74,8 +74,8 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
                 <p dangerouslySetInnerHTML={{__html:editValue}}></p>
                 <Button  variant={'outline'} onClick={() => setEditMode(!editMode)} className="no-print" ><Edit/>Edit</Button>
               </div> :
-              <div className="text-center no-print">
-                <Button className="bg-blue-500" onClick={() => setEditMode(!editMode)} ><Edit/>ANSWER</Button>
+              <div className="text-center print-space">
+                <Button className="bg-blue-500  no-print" onClick={() => setEditMode(!editMode)} ><Edit/>ANSWER</Button>
               </div>
               
             }

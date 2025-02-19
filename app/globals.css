@@ -125,6 +125,12 @@ li {
       break-after: always;
   }
 
+  /* Força uma nova página depois do elemento */
+  .no-page-break-after {
+    page-break-after:avoid ;
+    break-after: avoid;
+  }
+
   /* Impede que o conteúdo do elemento seja quebrado entre páginas */
   .no-page-break {
       page-break-inside: avoid;
@@ -135,5 +141,13 @@ li {
   }
   .toaster {
     display: none;
+  }
+  .image-print {
+    max-height: 40vh; /* 100% da altura da página */
+    overflow: hidden;
+  }
+  .print-space {
+    height: 8cm; /* 100% da altura da página */
+    border: 1px solid black ;
   }
 }

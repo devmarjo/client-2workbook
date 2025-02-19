@@ -94,7 +94,7 @@ export function ViewNavBar() {
                 </SheetDescription>
               </SheetHeader>
               <div className="grid gap-4 py-4">
-                <Button variant={'secondary'}><Printer/>Print</Button>
+                <Button onClick={() => window.print()} variant={'secondary'}><Printer/>Print</Button>
                 <SaveButton/>
               </div>
 

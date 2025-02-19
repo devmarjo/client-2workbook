@@ -79,7 +79,7 @@ export function EditorNavBar() {
               }
             </MenubarContent>
           </MenubarMenu>
-          <Button variant={'secondary'}><Printer/>Print</Button>
+          <Button onClick={() => window.print()} variant={'secondary'}><Printer/>Print</Button>
           <SaveButton/>
         </div>
         <div className="md:hidden gap-2">
@@ -95,7 +95,7 @@ export function EditorNavBar() {
                 </SheetDescription>
               </SheetHeader>
               <div className="grid gap-4 py-4">
-                <Button variant={'secondary'}><Printer/>Print</Button>
+                <Button onClick={() => window.print()} variant={'secondary'}><Printer/>Print</Button>
                 <SaveButton/>
               </div>
 

@@ -10,7 +10,7 @@ import Image from "next/image";
 export function WorkbookCover() {
   const { workbook } = useFile()
   return (
-    <div className="pb-20 print:pb-0">
+    <div className="pb-20 print:pb-0 no-page-break">
       {
         workbook &&
         <>
@@ -19,14 +19,14 @@ export function WorkbookCover() {
           </h1>
           <div className="text-center">
             <Image
-              className="mx-auto"
-              width={500}
-              height={500}
+              className="mx-auto max-h-[30vh]"
+              width={300}
+              height={300}
               alt=""
               src={workbook.coverImg?.length > 0 ? workbook.coverImg : '/images/workbooks/cover/default.png'}
             />
             <Image
-              className="mx-auto"
+              className="mx-auto image-print"
               width={200}
               height={100}
               alt=""

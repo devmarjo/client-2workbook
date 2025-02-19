@@ -17,7 +17,7 @@ export function WorkbookSubUnit(props: { unit: string, subunit: string }) {
   }, [workbook])
   return (
     <>
-      <div className="p-20 print:p-10 text-left text-2xl font-bold leading-none tracking-tight text-gray-900">
+      <div className={"p-20 print:p-10 text-left text-2xl font-bold leading-none tracking-tight text-gray-900" + (Number(props.subunit) > 1 ? ' page-break-before' : '' ) }>
         {props.subunit} - {subUnit.title}
       </div>
       {
