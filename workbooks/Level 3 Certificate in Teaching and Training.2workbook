@@ -1,0 +1,125 @@
+{
+  "version": "ProQual 2017",
+  "versionDate": "March 2017",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2016/10/ProQual-Level-3-Assessor-Qualifications.pdf",
+  "coverTitle": "Level 3 Certificate in Assessing Vocational Achievement",
+  "coverImg": "",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>Level 3 Certificate in Teaching and Training</b>. This workbook is designed to support individuals working in a learning and development role, such as trainers or tutors, who are required to deliver teaching or training in various environments, including workplaces, workshops, and classrooms. It aims to equip candidates with the necessary knowledge and skills to plan and deliver effective learning sessions."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing competencies in teaching and training.</li><li>Support candidates in understanding key principles of teaching and training methods.</li><li>Guide candidates in gathering and organizing evidence for assessment.</li><li>Ensure candidates meet the necessary standards for successful qualification completion.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, candidates must complete the following mandatory units:</p><h3>Mandatory Units:</h3><ul><li><b>A/615/6146</b> - Principles of Teaching and Learning (Level 3, 30 GLH)</li><li><b>F/615/6147</b> - Delivery of Teaching and Training (Level 3, 30 GLH)</li></ul><p>This workbook is structured to provide detailed guidance on learning outcomes, assessment criteria, and best practices to help candidates succeed.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Review the learning objectives and assessment criteria for each unit.</li><li>Engage with activities designed to build knowledge and practical teaching skills.</li><li>Complete required assessments, including assignments, reports, worksheets, and practical teaching demonstrations.</li><li>Use this workbook to track progress and ensure readiness for internal and external quality assurance assessments.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 3 Certificate in Teaching and Training</div><div><b>Ofqual qualification number:</b> 603/1312/2</div><div><b>Level:</b> 3</div><div><b>Total qualification time:</b> 80 hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 5/4/2017</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 3,
+      "units": ["A/615/6146", "F/615/6147"]
+    }
+  ],
+  "unitsOptional":[],
+  "units": {
+    "A/615/6146": {
+      "title": "Understanding the principles and practices of assessment",
+      "data": [
+        "3",
+        "30"
+      ],
+      "subUnits": {
+        "1": {
+          "title": " Understand the principles of teaching and training",
+          "questions": {
+            "1.1": "Identify different teaching and training methods",
+            "1.2": "Explain the purpose for using different teaching andtraining methods",
+            "1.3": "Explain the main features of the different teachingand training methods",
+            "1.4": "Explain the benefits and limitations of the differentteaching and training methods",
+            "1.5": "Explain the factors which determine the choice ofteaching and training method"
+          }
+        },
+        "2": {
+          "title": " Understand the principles of plannin in teaching and training",
+          "questions": {
+            "2.1": "Explain the importance of the training cycle whenplanning teaching and training",
+            "2.2": "Explain factors to be considered when planningteaching and training",
+            "2.3": "Identify the components of a teaching and trainingsession plan"
+          }
+        },
+        "3": {
+          "title": " Understand how to evaluate teaching and training sessions",
+          "questions": {
+            "3.1": "Identify factors that influence the implementation ofa session plan",
+            "3.2": "Explain why delivery of teaching and training mustmeet the needs of: <br><ul><li>an individual</li><li>a group</li></ul>",
+            "3.3": "Explain the purpose of evaluating teaching andtraining",
+            "3.4": "Explain the principles of evaluating teaching andtraining",
+            "3.5": "Identify methods used for evaluating teaching andtraining"
+          }
+        }
+      }
+    },
+    "F/615/6147": {
+      "title": "Assess occupational competence in the work environment",
+      "data": [
+        "3",
+        "30"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Be able to use different methods of teaching or training delivery to ensure learning",
+          "questions": {
+            "1.1": "Select a method of delivery to meet the needs of the learner",
+            "1.2": "Prepare resources and activities that support delivery of the learning",
+            "1.3": "Create a learning environment that supports effective delivery of the learning",
+            "1.4": "Deliver teaching and training sessions",
+            "1.5": "Use effective communication in delivery of teaching and training sessions"
+          }
+        },
+        "2": {
+          "title": "Be able to evaluate the delivery of teaching and training sessions",
+          "questions": {
+            "2.1": "Review the effectiveness of the method of delivery",
+            "2.2": "Evaluate the contribution of resources in delivering the objectives of the learning",
+            "2.3": "Analyse feedback from learners to inform future teaching and training sessions",
+            "2.4": "Use review and feedback to plan adaptations to learning materials and activities"
+          }
+        },
+        "3": {
+          "title": "Be able to prepare the assessment of the outcome of teaching and training sessions",
+          "questions": {
+            "3.1": "Select methods to assess skills, knowledge and achievement",
+            "3.2": "Prepare resources for the assessment",
+            "3.3": "Communicate the purpose, requirements and processes of assessment to the learner"
+          }
+        },
+        "4": {
+          "title": "Maintain legal and good practice requirements when teaching and training skills, knowledge and understanding",
+          "questions": {
+            "4.1": "Follow relevant policies, procedures and legislation relating to the teaching and training of skills, knowledge and understanding, including those for health, safety and welfare",
+            "4.2": "Apply requirements for equality and diversity and, where appropriate, bilingualism",
+            "4.3": "Evaluate own work in carry out teaching and training of skills, knowledge and understanding",
+            "4.4": "Undertake continuous professional development to ensure current expertise and competence in teaching and training skills, knowledge and understanding"
+          }
+        }
+      }
+    }
+  }
+}

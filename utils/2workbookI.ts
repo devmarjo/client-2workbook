@@ -6,6 +6,7 @@ export interface WorkbookSection {
 
 export interface WorkbookGroup {
   groupName: string;
+  creditsRequired?: number;
   qtyRequired: number;
   units: string[];
   selected: string[];
@@ -38,6 +39,7 @@ export interface WorkbookI {
   coverAcademyImg: string;
   sections: WorkbookSection[];
   unitsColumnsData: string[];
+  useCredits?: boolean;
   unitsMandatory: WorkbookGroup[];
   unitsOptional: WorkbookGroup[];
   units: {
