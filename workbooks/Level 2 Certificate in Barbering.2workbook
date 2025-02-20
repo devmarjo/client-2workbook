@@ -1,0 +1,551 @@
+{
+  "version": "ProQual 2019",
+  "versionDate": "September 2023",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2023/09/ProQual-Level-2-Certificate-in-Barbering.pdf",
+  "coverTitle": "Level 2 Certificate in Barbering",
+  "coverImg": "",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>Level 2 Certificate in Barbering</b>. This qualification is designed for individuals who wish to pursue a career in men’s hairdressing. It provides essential skills and knowledge for working in the barbering industry, covering key techniques such as cutting, styling, and maintaining facial hair. The qualification is endorsed by Habia, the standards-setting body for the hair, beauty, nails, and spa sector."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing skills in barbering techniques and services.</li><li>Support candidates in understanding key health and safety requirements in the salon environment.</li><li>Guide candidates in gathering evidence and demonstrating proficiency in all mandatory and optional units.</li><li>Ensure candidates meet industry standards and progress towards a successful barbering career.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, candidates must complete a total of 28 credits:</p><h3>Mandatory Units (13 credits):</h3><ul><li><b>H/617/5998</b> - Working in the Hair Industry (4 credits, Level 2, 35 GLH)</li><li><b>K/617/5999</b> - Follow Health and Safety Practice in the Salon (3 credits, Level 2, 24 GLH)</li><li><b>L/617/6000</b> - Client Consultation for Hair Services (3 credits, Level 2, 30 GLH)</li><li><b>R/617/6001</b> - Shampoo and Condition the Hair and Scalp (3 credits, Level 2, 29 GLH)</li></ul><h3>Optional Units (Minimum of 15 credits):</h3><ul><li><b>A/617/6025</b> - Cut Men’s Hair (6 credits, Level 2, 53 GLH)</li><li><b>F/617/6026</b> - Cut Facial Hair (4 credits, Level 2, 32 GLH)</li><li><b>J/617/6027</b> - Styling Men’s Hair (3 credits, Level 1, 30 GLH)</li><li><b>H/617/6004</b> - Colour and Lighten Hair (10 credits, Level 2, 91 GLH)</li><li><b>K/617/6005</b> - Perm and Neutralise Hair (7 credits, Level 2, 60 GLH)</li><li><b>Y/617/6002</b> - Promote Products and Services to Clients in a Salon (3 credits, Level 2, 28 GLH)</li><li><b>L/617/6028</b> - Provide Threading Services for Hair Removal (4 credits, Level 2, 29 GLH)</li><li><b>F/617/6009</b> - Provide Scalp Massage Services (4 credits, Level 2, 33 GLH)</li><li><b>T/617/6010</b> - Salon Reception Duties (3 credits, Level 2, 24 GLH)</li></ul><p>Candidates may choose from the available optional units to tailor their learning experience to their career goals.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Read the learning objectives and assessment criteria carefully for each unit.</li><li>Engage in practical and theoretical learning activities to build expertise.</li><li>Complete the required assessments, including practical demonstrations, written assignments, and knowledge tests.</li><li>Use this workbook as a resource to track progress and ensure all qualification requirements are met before assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 2 Certificate in Barbering</div><div><b>Ofqual qualification number:</b> 603/4539/1</div><div><b>Level:</b> 2</div><div><b>Total qualification time:</b> 280 hours</div><div><b>Guided learning hours:</b> 238</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 20/5/2019</div><div><b>Qualification end date:</b> 31/7/2026</div>"
+    }
+  ],
+  "unitsColumnsData": [ "Credit value", "Unit Level", "GHL"],
+  "useCredits": 1,
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory Units – complete ALL units to achieve 13 credits",
+      "creditsRequired": 13,
+      "qtyRequired": 4,
+      "units": [
+        "H/617/5998",
+        "K/617/5999",
+        "L/617/6000",
+        "R/617/6001"
+      ]
+    }
+  ],
+  "unitsOptional":[
+    {
+      "groupName": "Optional Units – a minimum of 15 credits",
+      "creditsRequired": 15,
+      "qtyRequired": 0,
+      "units": [        
+        "Y/617/6002",
+        "H/617/6004",
+        "K/617/6005",
+        "A/617/6025",
+        "F/617/6026",
+        "T/617/6007",
+        "K/617/6022",
+        "F/617/6009",
+        "T/617/6010",
+        "L/617/6028",
+        "J/617/6027"
+      ],
+      "selected": []
+    }],
+  "units": {
+
+    "H/617/5998": {
+      "title": "Working in the Hair Industry",
+      "credit": 4,
+      "data": ["4", "2", "35"],
+      "subUnits": {
+        "1": {
+          "title": "To describe the key characteristics of the hair industry",
+          "questions": {
+            "1.1": "Outline the types of organisation within the hair industry",
+            "1.2": "Outline the main services offered by the hair industry",
+            "1.3": "Describe occupational roles within the hair industry",
+            "1.4": "State the employment characteristics of working in the hair industry",
+            "1.5": "State career patterns within the hair industry",
+            "1.6": "Outline the education and training opportunities within the hair industry",
+            "1.7": "Outline opportunities to transfer to other sectors or industries"
+          }
+        },
+        "2": {
+          "title": "Describe working practices in the hair industry",
+          "questions": {
+            "2.1": "Outline good working practices in the salon",
+            "2.2": "State the importance of personal presentation in reflecting the professional image of the hair industry",
+            "2.3": "Outline opportunities for developing and promoting own professional image within the hair industry",
+            "2.4": "State the basic employee employment rights and responsibilities",
+            "2.5": "Outline the main legislation that affects working in the hair industry"
+          }
+        }
+      }
+    },
+    "K/617/5999": {
+      "title": "Follow health and safety practice in the salon",
+      "credit": 3,
+      "data": ["3", "2", "24"],
+      "subUnits": {
+        "1": {
+          "title": "To maintain health, safety and security practices",
+          "questions": {
+            "1.1": "Explain the difference between legislation, codes of practice and workplace policies",
+            "1.2": "Outline the main service provisions of health and safety legislation",
+            "1.3": "State the employers’ and em ployees’ health and safety responsibilities",
+            "1.4": "State the difference between a hazard and a risk",
+            "1.5": "Describe hazards that may occur in the salon",
+            "1.6": "State the hazards which need to be referred",
+            "1.7": "State the purpose of personal protective equipm ent (PPE) used in a salon during different services",
+            "1.8": "State the importance of personal presentation, hygiene and conduct in maintaining health and safety in the salon",
+            "1.9": "State the importance of maintaining the security of belongings",
+            "1.10": "Outline the principles of hygiene and infection control",
+            "1.11": "Describe the m ethods used in the salon to ensure hygiene",
+            "1.12": "Describe the effectiveness and limitations of different infection control techniques",
+            "1.13": "Describe how to dispose of different types of salon waste"
+          }
+        },
+        "2": {
+          "title": "To follow emergency procedures",
+          "questions": {
+            "2.1": "Outline the correct use of fire fighting equipment for different types of fire",
+            "2.2": "State the dangers of the incorrect use of fire fighting equipm ent on different types of fires",
+            "2.3": "State the importance for reporting and recording accidents",
+            "2.4": "Describe the procedure for reporting and recording accidents",
+            "2.5": "Describe procedures for dealing with em ergencies"
+          }
+        }
+      }
+    },
+    "L/617/6000": {
+      "title": "Client consultation for hair services",
+      "credit": 3,
+      "data": ["3", "2", "30"],
+      "subUnits": {
+        "1": {
+          "title": "To consult and advice with clients",
+          "questions": {
+            "1.1": "Explain how to communicate effectively",
+            "1.2": "Outline com m unication techniques used during client consultation",
+            "1.3": "State the importance of consulting client records",
+            "1.4": "Describe the tests carried out for different services",
+            "1.5": "State the importance of following manufacturers’ instructions, salon policy and legal requirements",
+            "1.6": "State the importance of identifying factors that may limit, prevent or affect the service",
+            "1.7": "State the importance of identifying and recording contra-indications",
+            "1.8": "State who to refer clients to for different contra-indications",
+            "1.9": "State the importance of not naming referable contra-indications",
+            "1.10": "Describe the information that should be on a record card",
+            "1.11": "Describe how client records should be held and maintained",
+            "1.12": "State the importance of client confidentiality",
+            "1.13": "Outline legislation that affects how information is used during client consultation"
+          }
+        },
+        "2": {
+          "title": "Know the characteristics of the hair",
+          "questions": {
+            "2.1": "Describe visual signs of suspected infections, infestations and disorders visible to the naked eye",
+            "2.2": "Describe the basic structure of the skin and hair",
+            "2.3": "Describe the characteristics of the hair structure with the different hair types",
+            "2.4": "Describe the hair growth cycle",
+            "2.5": "State the average hair growth rate",
+            "2.6": "Describe the general factors that contribute to health y hair"
+          }
+        }
+      }
+    },
+    "R/617/6001": {
+      "title": "Shampoo and condition the hair and scalp",
+      "credit": 3,
+      "data": ["3", "2", "29"],
+      "subUnits": {
+        "1": {
+          "title": "Be able to prepare to shampoo and condition the hair and scalp",
+          "questions": {
+            "1.1": "Describe the salon’s requirements for client preparation, preparing self and the work area",
+            "1.2": "Describe the different consultation techniques used",
+            "1.3": "Describe the hair and scalp conditions and their causes",
+            "1.4": "Describe different ranges of shampooing and conditioning products and equipment",
+            "1.5": "Explain the importance of following manufacturers’ instructions"
+          }
+        },
+        "2": {
+          "title": "Be able to shampoo and condition the hair and scalp",
+          "questions": {
+            "2.1": "Describe when and how to use the products, equipment and tools to treat different hair and scalp conditions",
+            "2.2": "Explain how the pH value of shampoo and conditioning products used affects the hair structure",
+            "2.3": "Describe the possible consequences of using incorrect shampooing and conditioning products",
+            "2.4": "Describe the effects of m assage techniques when shampooing and conditioning different lengths and densities of hair",
+            "2.5": "Describe how shampoo and water act together to cleanse the hair",
+            "2.6": "Describe how water temperature affects the hair structure",
+            "2.7": "Explain the importance of thoroughly rinsing hair to remove shampoos and conditioning products",
+            "2.8": "Explain the direction in which the hair cuticle lies and its importance when disentangling wet hair",
+            "2.9": "Describe the aftercare advice that should be provided",
+            "2.10": "Outline safe and hygienic working practices",
+            "2.11": "State how to com m unicate and behave within a salon environment"
+          }
+        }
+      }
+    },
+
+    "Y/617/6002": {
+      "title": "Promote products and services to clients in a salon",
+      "credit": 3,
+      "data": ["3", "2", "28"],
+      "subUnits": {
+        "1": {
+          "title": "To promote products and services to the client",
+          "questions": {
+            "1.1": "Describe the benefits to the salon of promoting services and products to the client",
+            "1.2": "Describe the listening and questioning techniques used for promotion and selling",
+            "1.3": "Describe the different consultation techniques used to promote products andservices",
+            "1.4": "Explain the terms ‘features’ and ‘benefits’ as applied to services and products",
+            "1.5": "Describe the principles of effective face-to-face communication",
+            "1.6": "State the importance of effective personal presentation",
+            "1.7": "State the importance of good product and service knowledge",
+            "1.8": "Outline the stages of the sale process",
+            "1.9": "Describe how to interpret buying signals",
+            "1.10": "Describe how to secure agreement and close the sale",
+            "1.11": "Explain the legislation that affects the selling of services and products",
+            "1.12": "Describe m ethods of paym ent for services and products"
+          }
+        }
+      }
+    },
+    "H/617/6004": {
+      "title": "Colour and lighten hair* (units may not be taken together)",
+      "credit": 10,
+      "data": ["10", "2", "91"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare for colouring hair",
+          "questions": {
+            "1.1": "Explain the safety considerations that must be taken into account when colouring and lightening hair",
+            "1.2": "Explain the dangers associated with inhalation of powder lighteners",
+            "1.3": "Outline the types of colouring and lightening products",
+            "1.4": "State the factors that need to be considered when selecting colouring products",
+            "1.5": "Explain the importance of carrying out the necessary tests prior to and during the colouring service and recording the results",
+            "1.6": "Explain the principles of colour selection",
+            "1.7": "Explain how natural hair pigments influence colour selection",
+            "1.8": "Describe how the international colour chart is used to select colour",
+            "1.9": "Describe how each of the colour products affects the hair structure",
+            "1.10": "Explain the uses of hydrogen peroxide when colouring and lightening the hair",
+            "1.11": "State what percentage and volume strength hydrogen peroxide means",
+            "1.12": "Explain the importance of following manufacturers’ instructions",
+            "1.13": "Describe the different consultation techniques used to identify service objectives",
+            "1.14": "Describe the salon’s requirements for client preparation, preparing self and the work area"
+          }
+        },
+        "2": {
+          "title": "To provide a colouring service",
+          "questions": {
+            "2.1": "Describe the correct use and routine maintenance of tools and equipm ent",
+            "2.2": "State the importance of restoring the pH of the hair after a permanent colour",
+            "2.3": "Outline the types and causes of problem s that can occur during the colouring service and how to resolve them",
+            "2.4": "Describe the aftercare advice that should be provided",
+            "2.5": "Outline safe and hygienic working practices",
+            "2.6": "State how to com m unicate and behave within a salon environment"
+          }
+        }
+      }
+    },
+    "K/617/6005": {
+      "title": "Perm and neutralise hair",
+      "credit": 7,
+      "data": ["7", "2", "60"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare to perm and neutralise hair",
+          "questions": {
+            "1.1": "State the factors that need to be considered when perming and neutralising hair",
+            "1.2": "Describe the different consultation techniques used to identify the service objectives",
+            "1.3": "Explain the importance of carrying out the necessary tests prior to and during the service and recording the results",
+            "1.4": "Explain the importance of following manufacturers’ instructions",
+            "1.5": "Describe the range of perm lotions and neutralising products, tools and equipm ent",
+            "1.6": "Describe the salon’s requirements for client preparation, preparing self and the work area",
+            "1.7": "Explain the safety considerations which must be taken into account"
+          }
+        },
+        "2": {
+          "title": "To perm and neutralise hair",
+          "questions": {
+            "2.1": "Describe the effects of perm lotions and neutralisers on the hair structure",
+            "2.2": "Outline the factors that determine the use of different types of perm lotions and neutralising products, tools and equipment",
+            "2.3": "Explain how tem perature affects the perm ing process",
+            "2.4": "State the importance of accurate timing and thorough rinsing of products",
+            "2.5": "Explain when and why it is important to use pre-perm and post-perm treatments",
+            "2.6": "Explain the factors that influence the choice of sectioning techniques and different sized perm rods",
+            "2.7": "Explain the method of checking curl development",
+            "2.8": "Outline the types and causes of problems that can occur during the perming and neutralising processes and how to resolve them",
+            "2.9": "Outline safe and hygienic working practices",
+            "2.10": "Describe the aftercare advice that should be provided",
+            "2.11": "State how to com m unicate and behave within a salon environment"
+          }
+        }
+      }
+    },
+    "A/617/6025": {
+      "title": "Cut men’s hair",
+      "credit": 6,
+      "data": ["6", "2", "53"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare for a cutting service",
+          "questions": {
+            "1.1": "Explain the safety considerations that must be taken into account when cutting hair",
+            "1.2": "State the factors that need to be considered when cutting hair",
+            "1.3": "Describe the typical patterns of male pattern baldness",
+            "1.4": "State the effects created by different sized clipper blades and attachments",
+            "1.5": "State the risk of in-growing hair from continual close cutting on the skin",
+            "1.6": "Describe the different consultation techniques used to identify service objectives",
+            "1.7": "Describe the salon's requirements for client preparation, preparing self and the work area",
+            "1.8": "Describe a range of looks for men"
+          }
+        },
+        "2": {
+          "title": "To provide a cutting service",
+          "questions": {
+            "2.1": "State how to com m unicate and behave within a salon environment",
+            "2.2": "Describe the correct use and routine maintenance of cutting tools and equipm ent",
+            "2.3": "Describe the effect of different cutting techniques",
+            "2.4": "State the effect cutting hair at different angles has on the finished look",
+            "2.5": "State the im portance of applying the correct degree of tension to the hair when cutting",
+            "2.6": "State the im portance of cutting to the natural hairline in barbering",
+            "2.7": "Explain how to ensure that sideburns are cut level",
+            "2.8": "State the im portance of cross checking the cut",
+            "2.9": "Describe the aftercare advice that should be provided",
+            "2.10": "Outline safe and hygienic working practices"
+          }
+        }
+      }
+    },
+    "F/617/6026": {
+      "title": "Cut facial hair",
+      "credit": 4,
+      "data": ["4", "2", "32"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare for cutting facial hair service",
+          "questions": {
+            "1.1": "Explain the safety considerations that must be taken into account",
+            "1.2": "Describe the factors that need to be considered when cutting facial hair",
+            "1.3": "Explain how the factors may influence the way the hair is cut",
+            "1.4": "State the effects created by different sized clipper blades and attachments",
+            "1.5": "State the effects of continual close cutting on the skin",
+            "1.6": "Describe the potential risk of in-growing hair",
+            "1.7": "Describe the different consultation techniques used to identify service objectives",
+            "1.8": "Describe the salon’s requirements for client preparation, preparing self and the work area",
+            "1.9": "Describe a range of basic facial hair shapes and looks"
+          }
+        },
+        "2": {
+          "title": "To provide a cutting facial hair service",
+          "questions": {
+            "2.1": "Describe the correct use and routine maintenance of cutting equipm ent",
+            "2.2": "Describe the effect of cutting techniques",
+            "2.3": "Explain the cutting techniques to use for different facial hair types and looks",
+            "2.4": "State the im portance of cross checking the cut",
+            "2.5": "Describe how to cross check and balance the cut",
+            "2.6": "State the im portance of cutting to the natural facial hairline on full beards",
+            "2.7": "Describe the aftercare advice that should be provided",
+            "2.8": "Outline safe and hygienic working practices",
+            "2.9": "State how to com m unicate and behave in a salon environment"
+          }
+        }
+      }
+    },
+    "T/617/6007": {
+      "title": "Create an image based on a theme within the hair and beauty sector",
+      "credit": 7,
+      "data": ["7", "2", "60"],
+      "subUnits": {
+        "1": {
+          "title": "To plan an image",
+          "questions": {
+            "1.1": "Outline how to identify media images to create a theme",
+            "1.2": "Outline the purpose of a m ood board",
+            "1.3": "Outline how to present a mood board to others",
+            "1.4": "Describe the concepts of advertising to a target audience",
+            "1.5": "Describe the salon’s requirements for client preparation, preparing self and the work area"    
+          }
+        },
+        "2": {
+          "title": "To create an image",
+          "questions": {
+            "2.1": "State how to com m unicate in a salon environment",
+            "2.2": "Describe the technical skills required for creating a theme-based image",
+            "2.3": "Describe m ethods of evaluating the effectiveness of the creation of a theme-based image",
+            "2.4": "Outline safe and hygienic working practices"
+          }
+        }
+      }
+    },
+    "K/617/6022": {
+      "title": "The art of colouring hair* (units may not be taken together)",
+      "credit": 7,
+      "data": ["7", "2", "60"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare for colouring hair",
+          "questions": {
+            "1.1": "Explain the safety considerations that must be taken into account when colouring hair",
+            "1.2": "Outline the types of colouring products and colouring techniques",
+            "1.3": "State the factors that need to be considered when selecting colour products",
+            "1.4": "Explain the importance of carrying out the necessary tests prior to and during the colour service and recording the results",
+            "1.5": "Explain the principles of colour selection",
+            "1.6": "Explain how natural hair pigments influence colour selection",
+            "1.7": "Describe how the international colour chart is used to select colour",
+            "1.8": "Describe how each of the colouring products affects the hair structure",
+            "1.9": "Explain the uses of hydrogen peroxide when colouring the hair",
+            "1.10": "Describe the different consultation techniques used to identify service objectives",
+            "1.11": "Describe the salon’s requirement for client preparation, preparing self and the work area"
+          }
+        },
+        "2": {
+          "title": "To provide a colouring service",
+          "questions": {
+            "2.1": "Describe the correct use and routine maintenance of tools and equipm ent",
+            "2.2": "State the importance of restoring the pH of the hair after a permanent colour",
+            "2.3": "Describe the aftercare advice that should be provided",
+            "2.4": "Outline safe and hygienic working practices",
+            "2.5": "State how to com m unicate and behave within a salon environment"
+          }
+        }
+      }
+    },
+    "F/617/6009": {
+      "title": "Provide scalp massage services",
+      "credit": 4,
+      "data": ["4", "2", "33"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare to provide scalp massage services",
+          "questions": {
+            "1.1": "Describe the different consultation techniques used to identify the service objectives",
+            "1.2": "Explain the safety considerations that must be taken into account",
+            "1.3": "Describe the salon’s requirem ents for client preparation, preparing self and the work area",
+            "1.4": "Explain the importance of identifying any contra-indications to scalp massage and how to recognise them",
+            "1.5": "Describe how different factors can affect the performance of scalp massage",
+            "1.6": "Describe the different types of m assage m edia and equipm ent used for scalp massage services",
+            "1.7": "Explain the importance of following manufacturers’ instructions"
+          }
+        },
+        "2": {
+          "title": "To carry out scalp massaging services",
+          "questions": {
+            "2.1": "Describe when and how to use m assage m edia and equipm ent to treat different scalp conditions",
+            "2.2": "Describe how and when to use and adapt the different m assage techniques",
+            "2.3": "Describe the aftercare advice that should be provided",
+            "2.4": "Describe the benefits of scalp massage",
+            "2.5": "Outline the basic structure of the skin",
+            "2.6": "State the name and position of the bones and m uscles of the head and neck",
+            "2.7": "Outline safe and hygienic working practices",
+            "2.8": "State how to com m unicate and behave within a salon environment"    
+          }
+        }
+      }
+    },
+    "T/617/6010": {
+      "title": "Salon reception duties",
+      "credit": 3,
+      "data": ["3", "2", "24"],
+      "subUnits": {
+        "1": {
+          "title": "To carry out reception duties",
+          "questions": {
+            "1.1": "Describe procedures for taking messages for a variety of enquiries",
+            "1.2": "State how to com m unicate and behave within a salon environment",
+            "1.3": "List salon services available, their duration and cost",
+            "1.4": "Outline the importance of dealing with enquiries promptly and politely",
+            "1.5": "Explain how to deal with enquiries that cannot be dealt with promptly"
+          }
+        },
+        "2": {
+          "title": "To book appointments",
+          "questions": {
+            "2.1": "Describe how to make and record appointments",
+            "2.2": "State the potential consequences of failing to record appointments or messagesaccurately",
+            "2.3": "State the importance of passing on messages and appointments details to theappropriate colleagues",
+            "2.4": "Outline the legislation designed to protect the privacy of client details",
+            "2.5": "State the possible consequences of a breach of confidentiality"
+          }
+        },
+        "3": {
+          "title": "To deal with payments",
+          "questions": {
+            "3.1": "State how to process different m ethods of payment",
+            "3.2": "Describe how to deal with problem s that may occur with payments",
+            "3.3": "Explain how to keep payments safe and secure"
+          }
+        }
+      }
+    },
+    "L/617/6028": {
+      "title": "Provide threading services for hair removal",
+      "credit": 4,
+      "data": ["4", "2", "29"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare for threading",
+          "questions": {
+            "1.1": "Describe workplace requirements for preparing themselves, the client and the work area",
+            "1.2": "State the environm ental conditions suitable for threading",
+            "1.3": "Describe different consultation techniques used to identify treatment objectives",
+            "1.4": "Describe how to select product tools and equipm ent to suit client treatment needs",
+            "1.5": "Describe the contra-indications which prevent or restrict threading"
+          }
+        },
+        "2": {
+          "title": "To provide threading",
+          "questions": {
+            "2.1": "State how to com m unicate and behave in a professional manner",
+            "2.2": "Describe health and safety working practices",
+            "2.3": "State the importance of positioning themselves and the client correctly throughout the treatment",
+            "2.4": "State the importance of using products, tools, equipm ent and techniques to suit client’s treatment needs, skin types and conditions",
+            "2.5": "Describe how treatments can be adapted to suit client treatment needs",
+            "2.6": "State the contra-indications that may occur during and following treatments and how to respond",
+            "2.7": "State the importance of completing the treatment to the satisfaction of the client",
+            "2.8": "State the importance of completing treatment records",
+            "2.9": "State the aftercare advice that should be provided",
+            "2.10": "Describe the structure and functions of the skin",
+            "2.11": "Describe the structure and functions of the hair"
+          }
+        }
+      }
+    },
+    "J/617/6027": {
+      "title": "Styling men’s hair",
+      "credit": 3,
+      "data": ["3", "1", "30"],
+      "subUnits": {
+        "1": {
+          "title": "To prepare for styling for men",
+          "questions": {
+            "1.1": "Identify basic techniques for styling men's hair",
+            "1.2": "State the factors that influence the choice of hair styling techniques for men",
+            "1.3": "State the importance of the preparation procedures for styling men's hair"
+          }
+        },
+        "2": {
+          "title": "To provide styling for men",
+          "questions": {
+            "2.1": "State the purpose of basic hair styling and finishing products, tools and equipment"
+          }
+        }
+      }
+    }
+  }
+}
+

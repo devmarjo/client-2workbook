@@ -14,6 +14,7 @@ export interface WorkbookGroup {
 
 export interface WorkbookUnit {
     title: string;
+    credit: number;
     data: string[];
     subUnits: {
       [key: string]: WorkbookSubUnitI
