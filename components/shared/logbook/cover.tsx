@@ -7,15 +7,15 @@
 import { useFile } from "@/hooks/useFile";
 import Image from "next/image";
 
-export function WorkbookCover() {
+export function LogbookCover() {
   const { workbook } = useFile()
   return (
-    <div className="pb-20 print:pb-0 no-page-break">
+    <div className="pb-20 print:pb-0 no-page-break page-break-after">
       {
         workbook &&
         <>
           <h1 className="py-20 text-center text-5xl font-extrabold leading-none tracking-tight text-gray-900 text-green-500">
-            <div className="text-7xl">Workbook</div>
+            <div className="text-7xl">Logbook</div>
             {workbook.coverTitle}
           </h1>
           <div className="text-center">

@@ -6,22 +6,31 @@ import { SignatureDialog } from "./SignatureDialog";
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { EditIcon } from "lucide-react";
+import { EditIcon, Trash } from "lucide-react";
+import { WorkbookI } from "@/utils/2workbookI";
 
 export function WorkbookStudent() {
-  const { workbook } = useFile()
+  const { workbook, setWorkbook } = useFile()
   const [name, setName] = useState('')
   const [editMode, setEditMode] = useState(true)
+  const clearStudent = () => {
+    if (workbook) {
+      const newWorkbook: WorkbookI = { ...workbook, student: undefined }
+      setWorkbook(newWorkbook)
+    }
+  }
   useEffect(() => {
     if (workbook?.student?.name) {
-      setName(workbook.student.name)
-      setEditMode(false)
-    } else {
-      setEditMode(true)
+      if (workbook.student.name.length > 0) {
+        setName(workbook.student.name)
+        setEditMode(false)
+        return
+      } 
     }
+    setEditMode(true)
   }, [workbook])
   return (
-    editMode ?
+    (workbook && editMode)  ?
       <Card className="pb-20 md:px-20 no-page-break">
         <CardHeader>
           <CardTitle>
@@ -44,16 +53,22 @@ export function WorkbookStudent() {
         </CardHeader>
         <CardContent className="text-right">
           <div className="flex flex-col text-center items-center">
-            <Image src={String(workbook?.student.signature)} width={300} height={200} alt="Signature" />
-            <div className="text-black">
-              <b>{workbook?.student.name}</b>
-            </div>
-            <div className="text-black">
-              {workbook?.student.signatureDate}
-            </div>
-            <div className="pt-3">
-              <Button onClick={() => setEditMode(true) } >Edit <EditIcon/></Button>
-            </div>
+          {
+            workbook?.student && 
+            <>
+              <Image src={String(workbook.student.signature)} width={300} height={200} alt="Signature" />
+              <div className="text-black">
+                <b>{workbook.student.name}</b>
+              </div>
+              <div className="text-black">
+                {workbook.student.signatureDate}
+              </div>
+              <div>
+                <Button className="m-3" variant="destructive" onClick={() => clearStudent() } >Clear <Trash/></Button>
+                <Button className="m-3" onClick={() => setEditMode(true) } >Edit <EditIcon/></Button>
+              </div>
+            </>
+          }
           </div>
         </CardContent>
       </Card>

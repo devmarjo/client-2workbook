@@ -17,7 +17,7 @@ import { toast } from "sonner";
 export function QualificationStructure() {
   const [credits, setCredits] = useState(0)
   const [creditsRequired, setCreditsRequired] = useState(0)
-  const {workbook, setWorkbook, saveWorkbook} = useFile()
+  const {workbook, setWorkbook} = useFile()
   const loadCredit = useCallback(() => {
     if (workbook) {
       let credits = 0
@@ -65,9 +65,8 @@ export function QualificationStructure() {
           console.log(opUnits[index].selected)
         }
       }
-      const newWorbook: WorkbookI = { ...workbook, unitsOptional: opUnits }
-      setWorkbook(newWorbook)
-      saveWorkbook()
+      const newWorkbook: WorkbookI = { ...workbook, unitsOptional: opUnits }
+      setWorkbook(newWorkbook)
     }
   }
   useEffect(()=> {

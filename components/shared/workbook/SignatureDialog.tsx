@@ -15,15 +15,15 @@ import SignatureCanvas from 'react-signature-canvas'
 import { toast } from "sonner"
  
 export function SignatureDialog(props: { name: string, setEditMode: (val: boolean) => void } ) {
-  const { workbook, setWorkbook, saveWorkbook } = useFile()
+  const { workbook, setWorkbook } = useFile()
   const [openDialog, setopenDialog] = useState(false)
   const sig = useRef<SignatureCanvas| null>(null)
-    const clear = () => {
+  const clear = () => {
     if (sig) {
         sig.current?.clear()
     }
-    }
-    const save = () => {
+  }
+  const save = () => {
     const canvas = sig.current?.getCanvas()
     if (canvas) {
       const dataUrl = canvas.toDataURL()
@@ -31,13 +31,13 @@ export function SignatureDialog(props: { name: string, setEditMode: (val: boolea
         toast('Workbook is not Loaded')
         return false
       }
-      workbook.student = {
+      const student = {
         name: props.name,
         signature: dataUrl,
         signatureDate: new Date().toLocaleString()
       }
-      setWorkbook(workbook)
-      saveWorkbook()
+      const newWorkbook = { ...workbook, student }
+      setWorkbook(newWorkbook)
       setopenDialog(false)
       props.setEditMode(false)
     }

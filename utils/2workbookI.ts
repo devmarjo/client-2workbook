@@ -1,3 +1,5 @@
+import { LogbookI } from "./2LogbookI";
+
 export interface WorkbookSection {
   BreakPage: string;
   title: string;
@@ -20,6 +22,7 @@ export interface WorkbookUnit {
       [key: string]: WorkbookSubUnitI
     };
 };
+
 export interface WorkbookSubUnitI  {
     title: string;
     questions: {
@@ -46,9 +49,10 @@ export interface WorkbookI {
   units: {
       [key: string]: WorkbookUnit;
   };
-  student: {
+  student?: {
     name: string,
     signature: string,
     signatureDate: string
-  }
+  };
+  logbook?: LogbookI
 }

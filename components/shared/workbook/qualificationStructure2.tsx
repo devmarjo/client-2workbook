@@ -13,7 +13,7 @@ import { WorkbookGroup } from "@/utils/2workbookI";
 import { useEffect, useState } from "react";
 
 export function QualificationStructure() {
-  const {workbook, setWorkbook, saveWorkbook} = useFile()
+  const {workbook, setWorkbook} = useFile()
   const [unitsOptional, setUnitsOptional] = useState<WorkbookGroup[]>([])
   useEffect(() => {
     if (workbook) {
@@ -37,7 +37,6 @@ export function QualificationStructure() {
       }
       workbook.unitsOptional = unitsOptional
       setWorkbook(workbook)
-      saveWorkbook()
     }
   }
   return(

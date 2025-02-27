@@ -37,8 +37,8 @@ export function ViewNavBar() {
   return (
     <div style={{position: 'fixed' , width: '100vw', top: '20px', zIndex: 30}} className="no-print" >  
       <Menubar style={{height: '3.5em', width: '80vw', margin: 'auto' }} className="w-full flex justify-between items-center px-4 py-2 border-b shadow-sm bg-white">
-        <Image className="lg:hidden" src="/images/2workbook32.jpg" width={32} height={32} alt={'2W'} />
-        <Image className="hidden lg:block" src="/images/2workbook.png" width={150} height={32} alt={'2W'} />
+        <Image onClick={() => router.push('/')} className="cursor-pointer lg:hidden" src="/images/2workbook32.jpg" width={32} height={32} alt={'2W'} />
+        <Image onClick={() => router.push('/')} className="cursor-pointer hidden lg:block" src="/images/2workbook.png" width={150} height={32} alt={'2W'} />
         <div className="hidden md:flex gap-2">
           <MenubarMenu>
             <a href="#start">

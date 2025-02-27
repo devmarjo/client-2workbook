@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useContext, useEffect, useState } from "react";
+import { createContext, useCallback, useContext, useEffect, useRef, useState } from "react";
 import { useAuth } from "@/hooks/useAuth";
 import { WorkbookI } from "@/utils/2workbookI";
 import { toast } from "sonner"
@@ -50,16 +50,19 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   // PROGRESS COMPUTED
   useEffect(() => {
     if (workbook) {
-      let countQuestion = 0
+      let countQuestion = 1 // iniciates 1 because signature countes like one question
       let countAnswer = 0
+      if (workbook?.student?.signature) {
+        countAnswer = 1
+      }
       const countUnitsState: UnitStateI = {}
       Object.entries(workbook.unitsMandatory).forEach(([, v]) => {
         v.units.map(unit => {
           countUnitsState[unit] = true
           Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
             countQuestion += Object.keys(v2.questions).length
-            if (v2.answers) {
-              countAnswer += Object?.keys(v2?.answers).length
+            if (v2?.answers) {
+              countAnswer += Object?.entries(v2.answers).filter(([, v]) => v.length > 0).length
               if (countUnitsState[unit] && Object.keys(v2.questions).length !== Object?.keys(v2?.answers).length) {
                 countUnitsState[unit] = false
               }
@@ -74,8 +77,8 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
           countUnitsState[unit] = true
           Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
             countQuestion += Object.keys(v2.questions).length
-            if (v2.answers) {
-              countAnswer += Object?.keys(v2?.answers).length
+            if (v2?.answers) {
+              countAnswer += Object?.entries(v2.answers).filter(([, v]) => v.length > 0).length
               if (countUnitsState[unit] && Object.keys(v2.questions).length !== Object?.keys(v2?.answers).length) {
                 countUnitsState[unit] = false
               }
@@ -85,8 +88,30 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
           })
         })
       })
-      setProgress(Math.round((countAnswer/countQuestion)*100))
+      const proprotion = countAnswer/countQuestion
+      setProgress(Math.round((proprotion)*100))
       setUnitsState(countUnitsState)
+      if (proprotion >= 1 && typeof workbook.logbook === 'undefined' ) {
+        const newWorkbook: WorkbookI = {
+          ...workbook,
+          logbook: {
+            assessor: {
+              name: '',
+              signature: '',
+              signatureDate: '',
+              info: ''
+            },
+            iqa: {
+              name: '',
+              signature: '',
+              signatureDate: '',
+              info: ''
+            },
+            units: {}
+          }
+        }
+        setWorkbook(newWorkbook)
+      }
     }
    
   }, [workbook]);
@@ -140,7 +165,8 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   }, [accessToken, fileId])
 
   //  Nova função para salvar as alterações no Google Drive
-  const saveWorkbook = () => {
+  const saveWorkbook = useCallback(() => {
+    console.log('workbook?.student', workbook?.student)
     if (viewer) {
       toast('This is View Mode, changes will be not saved, only chached')
       return
@@ -183,7 +209,64 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
         return e;
       },
     });
-  };
+  }, [accessToken, fileId, viewer, workbook])
+
+  const firstRender = useRef(true);
+  useEffect(() => {
+    console.log('workbook MUDOU ', workbook)
+    if (workbook && firstRender.current) {
+      firstRender.current = false; // Marca como já executado
+      return; // Impede a execução na primeira renderização
+    }
+  
+    if (workbook) {
+      saveWorkbook();
+    }
+  }, [saveWorkbook, workbook])
+  // const saveWorkbook = () => {
+  //   if (viewer) {
+  //     toast('This is View Mode, changes will be not saved, only chached')
+  //     return
+  //   }
+  //   if (!accessToken || !fileId || !workbook) {
+  //     console.error("Não há dados suficientes para salvar");
+  //     return;
+  //   }
+
+  //   const response = fetch(`/api/drive/file`, {
+  //     method: "PUT",
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //       Authorization: `Bearer ${accessToken}`,
+  //     },
+  //     body: JSON.stringify({ fileId, updatedContent: workbook }),
+  //   })
+  //   .then(res => {
+  //     if (res.ok) {
+  //       return res.json()
+  //     }
+  //     throw new Error(res.statusText);
+  //   })
+  //   .then(data => {
+  //     if (data.error) {
+  //       throw new Error(data.error || "Erro ao atualizar o arquivo");
+  //     } 
+  //     return true
+  //   })
+  //   .catch((e) => {
+  //     return e
+  //   })
+
+  //   toast.promise(response, {
+  //     loading: 'Saving...',
+  //     success: () => {
+  //       return 'Workbook saved!';
+  //     },
+  //     error: (e) => {
+  //       return e;
+  //     },
+  //   });
+  // };
 
   //  Nova função para Criar workbooks no GFrive
   const CreateNewFileWorkbook = (folderId: string) => {

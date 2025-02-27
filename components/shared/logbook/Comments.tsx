@@ -1,12 +1,16 @@
 import { Button } from "@/components/ui/button";
 import { useFile } from "@/hooks/useFile";
-import { WorkbookI, WorkbookUnit } from "@/utils/2workbookI";
+import { LogbookUnit } from "@/utils/2LogbookI";
+import { WorkbookI } from "@/utils/2workbookI";
 import PrintMiddleware from "@/utils/PrintMiddleware";
 import { Edit, Save, X } from "lucide-react";
 import { useEffect, useState } from "react"
 import Editor, { ContentEditableEvent } from 'react-simple-wysiwyg';
-
-export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: string | number, q: string }) {
+export enum commentatorEnum {
+  Assessor = 'assessorComment',
+  IQA = 'iqaComment',
+}
+export function LogbookComments(props: { unit: string, commentator: commentatorEnum, comment: string  }) {
   const [editMode, setEditMode] = useState(false)
   const [editValue, setEditValue] = useState('')
   const {workbook, setWorkbook } = useFile()
@@ -15,7 +19,7 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
   }
   const getAnswer = () => {
     if (workbook) { 
-      const t  = workbook?.units?.[props.unit]?.subUnits?.[props.subunit]?.answers?.[props.qkey]
+      const t  = workbook?.logbook?.units?.[props.unit]?.[props.commentator]
       if (t) {
         setEditValue(t)
       } 
@@ -30,15 +34,18 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [workbook]) 
   const save = () => {
-    if (workbook) {
-      const units: { [key: string]: WorkbookUnit } = {}
-      Object.entries(workbook.units).forEach(([k, v]) => units[k] = v)
-      if (!units?.[props.unit]?.subUnits?.[props.subunit]?.answers) {
-        units[props.unit].subUnits[props.subunit].answers = {}
+    if (workbook?.logbook) {
+      const units: { [key: string]: LogbookUnit } = {}
+      Object.entries(workbook.logbook?.units).forEach(([k, v]) => units[k] = v)
+      if (!units?.[props.unit]) {
+        units[props.unit] = {
+          assessorComment: '',
+          iqaComment: ''
+        }
       }
-      units[props.unit].subUnits[props.subunit].answers[props.qkey] = editValue
-      console.log(units)
-      const newWorkbook: WorkbookI = { ...workbook, units: units }
+      units[props.unit][props.commentator] = editValue
+      const newLogbook = {...workbook.logbook, units}
+      const newWorkbook: WorkbookI = { ...workbook, logbook: newLogbook }
       setWorkbook(newWorkbook)
       setEditMode(false)
     }
@@ -53,7 +60,6 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
   
   return(
     <div className="no-page-break">
-      <div className="p-5 py-5 text-left leading-none tracking-tight text-gray-900"> {props.qkey} - <span dangerouslySetInnerHTML={{__html: props.q}}></span>  </div>
       <div className="pb-10">
         {
           editMode ?
@@ -70,11 +76,11 @@ export function WorkbookQuestion(props: { unit: string, subunit: string, qkey: s
             {
               editValue.length > 0 ?
               <div style={{margin: 'auto', maxWidth: '720px'}}>
-                <p dangerouslySetInnerHTML={{__html:editValue}}></p>
+                <p className="py-10" dangerouslySetInnerHTML={{__html:editValue}}></p>
                 <Button  variant={'outline'} onClick={() => setEditMode(!editMode)} className="no-print" ><Edit/>Edit</Button>
               </div> :
               <div className="text-center print-space">
-                <Button className="bg-blue-500  no-print" onClick={() => setEditMode(!editMode)} ><Edit/>ANSWER</Button>
+                <Button className="bg-blue-500  no-print" onClick={() => setEditMode(!editMode)} ><Edit/>Comment</Button>
               </div>
               
             }
