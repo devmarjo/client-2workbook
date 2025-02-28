@@ -2,70 +2,68 @@
   "version": "ProQual 2019",
   "versionDate": "September 2023",
   "Organisation": "ProQual",
-  "specs": "https://www.proqualab.com/wp-content/uploads/2023/09/ProQual-Level-2-Certificate-in-Barbering.pdf",
-  "coverTitle": "Level 2 Certificate in Barbering",
-  "coverImg": "/images/workbooks/cover/BARBERING.png",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2023/09/ProQual-Level-2-Certificate-in-Womens-Hairdressing.pdf",
+  "coverTitle": " Level 2 Certificate in Women’s Hairdressing",
+  "coverImg": "/images/workbooks/cover/HAIRDRESSING.png",
   "coverAcademyImg": "",
   "sections": [
     {
       "title": "Introduction",
-      "content": "Welcome to the Workbook for the <b>Level 2 Certificate in Barbering</b>. This qualification is designed for individuals who wish to pursue a career in men’s hairdressing. It provides essential skills and knowledge for working in the barbering industry, covering key techniques such as cutting, styling, and maintaining facial hair. The qualification is endorsed by Habia, the standards-setting body for the hair, beauty, nails, and spa sector."
+      "content": "Welcome to the Workbook for the <b>ProQual Level 2 Certificate in Women's Hairdressing</b>. This qualification is designed for candidates aspiring to enter the hairdressing industry. It serves as the minimum requirement for working as a junior stylist and is endorsed by Habia, the standards-setting body for the hair, beauty, nails, and spa sector. The qualification is awarded by ProQual and regulated by Ofqual, ensuring its credibility and industry relevance. Candidates can progress to higher-level or specialist qualifications in hairdressing or barbering."
     },
     {
       "title": "Purpose of this Workbook",
-      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing skills in barbering techniques and services.</li><li>Support candidates in understanding key health and safety requirements in the salon environment.</li><li>Guide candidates in gathering evidence and demonstrating proficiency in all mandatory and optional units.</li><li>Ensure candidates meet industry standards and progress towards a successful barbering career.</li></ul>"
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing professional skills in women's hairdressing.</li><li>Help candidates understand industry standards and best practices.</li><li>Support candidates in gathering necessary evidence for assessment.</li><li>Ensure successful completion of all mandatory and optional units required for the qualification.</li></ul>"
     },
     {
       "title": "Structure of the Workbook",
-      "content": "<p>To achieve this qualification, candidates must complete a total of 28 credits:</p><h3>Mandatory Units (13 credits):</h3><ul><li><b>H/617/5998</b> - Working in the Hair Industry (4 credits, Level 2, 35 GLH)</li><li><b>K/617/5999</b> - Follow Health and Safety Practice in the Salon (3 credits, Level 2, 24 GLH)</li><li><b>L/617/6000</b> - Client Consultation for Hair Services (3 credits, Level 2, 30 GLH)</li><li><b>R/617/6001</b> - Shampoo and Condition the Hair and Scalp (3 credits, Level 2, 29 GLH)</li></ul><h3>Optional Units (Minimum of 15 credits):</h3><ul><li><b>A/617/6025</b> - Cut Men’s Hair (6 credits, Level 2, 53 GLH)</li><li><b>F/617/6026</b> - Cut Facial Hair (4 credits, Level 2, 32 GLH)</li><li><b>J/617/6027</b> - Styling Men’s Hair (3 credits, Level 1, 30 GLH)</li><li><b>H/617/6004</b> - Colour and Lighten Hair (10 credits, Level 2, 91 GLH)</li><li><b>K/617/6005</b> - Perm and Neutralise Hair (7 credits, Level 2, 60 GLH)</li><li><b>Y/617/6002</b> - Promote Products and Services to Clients in a Salon (3 credits, Level 2, 28 GLH)</li><li><b>L/617/6028</b> - Provide Threading Services for Hair Removal (4 credits, Level 2, 29 GLH)</li><li><b>F/617/6009</b> - Provide Scalp Massage Services (4 credits, Level 2, 33 GLH)</li><li><b>T/617/6010</b> - Salon Reception Duties (3 credits, Level 2, 24 GLH)</li></ul><p>Candidates may choose from the available optional units to tailor their learning experience to their career goals.</p>"
+      "content": "<p>To achieve this qualification, candidates must complete a minimum of 28 credits:</p><h3>Mandatory Units (18 credits):</h3><ul><li>Working in the Hair Industry</li><li>Follow Health and Safety Practice in the Salon</li><li>Client Consultation for Hair Services</li><li>Shampoo and Condition the Hair and Scalp</li><li>The Art of Dressing Hair</li></ul><h3>Optional Units (Minimum of 10 credits):</h3><ul><li>Cut Women’s Hair</li><li>Colour and Lighten Hair*</li><li>Perm and Neutralise Hair</li><li>Create an Image Based on a Theme within the Hair and Beauty Sector</li><li>The Art of Colouring Hair*</li><li>Promote Products and Services to Clients in a Salon</li><li>Provide Scalp Massage Services</li><li>Salon Reception Duties</li><li>Plaiting and Twisting Hair</li></ul><p>*Note: Colour and Lighten Hair and The Art of Colouring Hair cannot be taken together.</p>"
     },
     {
       "title": "How to Use This Workbook",
-      "content": "<ul><li>Read the learning objectives and assessment criteria carefully for each unit.</li><li>Engage in practical and theoretical learning activities to build expertise.</li><li>Complete the required assessments, including practical demonstrations, written assignments, and knowledge tests.</li><li>Use this workbook as a resource to track progress and ensure all qualification requirements are met before assessment.</li></ul>"
+      "content": "<ul><li>Read through each unit carefully to understand the learning objectives and assessment criteria.</li><li>Complete practical and theoretical tasks to develop hands-on skills.</li><li>Maintain a portfolio of evidence, including practical work, assignments, and professional discussions.</li><li>Use this workbook to track your progress and ensure all assessment criteria are met before final evaluation.</li></ul>"
     },
     {
       "BreakPage": "before",
       "title": "Qualification Profile",
-      "content": "<div><b>Qualification title:</b> ProQual Level 2 Certificate in Barbering</div><div><b>Ofqual qualification number:</b> 603/4539/1</div><div><b>Level:</b> 2</div><div><b>Total qualification time:</b> 280 hours</div><div><b>Guided learning hours:</b> 238</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 20/5/2019</div><div><b>Qualification end date:</b> 31/7/2026</div>"
+      "content": "<div><b>Qualification title:</b> ProQual Level 2 Certificate in Women's Hairdressing</div><div><b>Ofqual qualification number:</b> 603/4538/X</div><div><b>Level:</b> 2</div><div><b>Total qualification time:</b> 280 hours</div><div><b>Guided learning hours:</b> 236</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 20/5/2019</div><div><b>Qualification end date:</b> 31/7/2026</div>"
     }
   ],
   "unitsColumnsData": [ "Credit value", "Unit Level", "GHL"],
   "useCredits": 1,
   "unitsMandatory":[
     {
-      "groupName": "Mandatory Units – complete ALL units to achieve 13 credits",
-      "creditsRequired": 13,
-      "qtyRequired": 4,
+      "groupName": "Mandatory Units – complete ALL units to achieve 18 credits",
+      "creditsRequired": 18,
+      "qtyRequired": 5,
       "units": [
         "H/617/5998",
         "K/617/5999",
         "L/617/6000",
-        "R/617/6001"
+        "R/617/6001",
+        "M/617/6006"
       ]
     }
   ],
   "unitsOptional":[
     {
-      "groupName": "Optional Units – a minimum of 15 credits",
-      "creditsRequired": 15,
+      "groupName": "Optional Units – a minimum of 10 credits",
+      "creditsRequired": 10,
       "qtyRequired": 0,
       "units": [        
-        "Y/617/6002",
+        "D/617/6003",
         "H/617/6004",
         "K/617/6005",
-        "A/617/6025",
-        "F/617/6026",
         "T/617/6007",
         "K/617/6022",
+        "Y/617/6002",
         "F/617/6009",
         "T/617/6010",
-        "L/617/6028",
-        "J/617/6027"
+        "J/617/6013"
       ],
       "selected": []
     }],
   "units": {
-
     "H/617/5998": {
       "title": "Working in the Hair Industry",
       "credit": 4,
@@ -199,31 +197,69 @@
         }
       }
     },
-
-    "Y/617/6002": {
-      "title": "Promote products and services to clients in a salon",
-      "credit": 3,
-      "data": ["3", "2", "28"],
+    "M/617/6006": {
+      "title": "The art of dressing hair",
+      "credit": 5,
+      "data": ["5", "2", "30"],
       "subUnits": {
         "1": {
-          "title": "To promote products and services to the client",
+          "title": "Be able to prepare for dressing hair",
           "questions": {
-            "1.1": "Describe the benefits to the salon of promoting services and products to the client",
-            "1.2": "Describe the listening and questioning techniques used for promotion and selling",
-            "1.3": "Describe the different consultation techniques used to promote products andservices",
-            "1.4": "Explain the terms ‘features’ and ‘benefits’ as applied to services and products",
-            "1.5": "Describe the principles of effective face-to-face communication",
-            "1.6": "State the importance of effective personal presentation",
-            "1.7": "State the importance of good product and service knowledge",
-            "1.8": "Outline the stages of the sale process",
-            "1.9": "Describe how to interpret buying signals",
-            "1.10": "Describe how to secure agreement and close the sale",
-            "1.11": "Explain the legislation that affects the selling of services and products",
-            "1.12": "Describe m ethods of paym ent for services and products"
+            "1.1": "State the procedure for client preparation",
+            "1.2": "Describe the effects of different styling techniques",
+            "1.3": "Describe the factors that need to be considered when styling and dressing hair",
+            "1.4": "Describe the physical effects of styling on the hair structure",
+            "1.5": "Describe the effects of humidity on the hair structure and resulting style",
+            "1.6": "Explain how the incorrect use of heat can affect the hair and scalp"
+          }
+        },
+        "2": {
+          "title": "Be able to provide a dressing hair service",
+          "questions": {
+            "2.1": "Describe the correct use and routine maintenance of tools, equipm ent and accessories",
+            "2.2": "Describe the use for the range of styling products",
+            "2.3": "Describe how to secure and control the long hair looks",
+            "2.4": "State the purpose of back com bing and back brushing when dressing hair",
+            "2.5": "Describe the uses for the range of finishing products",
+            "2.6": "Describe the aftercare service that should be provided",
+            "2.7": "Outline safe and hygienic working practices when styling and dressing hair",
+            "2.8": "State how to com m unicate in a salon environment",
+            "2.9": "State the behavioural expectations within a salon environment"
+          }
+        }
+      }
+    },  
+    "D/617/6003": {
+      "title": "Cut Women’s hair",
+      "credit": 5,
+      "data": ["8", "2", "75"],
+      "subUnits": {
+        "1": {
+          "title": "Be able to prepare for cutting hair",
+          "questions": {
+            "1.1": "Explain the safety considerations that must be taken into account when cutting hair",
+            "1.2": "State the factors that need to be considered when cutting hair",
+            "1.3": "Describe the different consultation techniques used to identify service objectives",
+            "1.4": "Describe the salon’s requirement for client preparation, preparing self and the work area",
+            "1.5": "Describe a range of looks for women"
+          }
+        },
+        "2": {
+          "title": "Be able to provide a cutting service",
+          "questions": {
+            "2.1": "Describe the correct use, and routine maintenance of cutting tools and equipm ent",
+            "2.2": "Describe the effect of different cutting techniques",
+            "2.3": "State the effect cutting hair at different angles has on the finished look",
+            "2.4": "State the im portance of applying the correct degree of tension to the hair when cutting",
+            "2.5": "State the im portance of cross checking the cut",
+            "2.6": "Describe the aftercare advice that should be provided",
+            "2.7": "Outline safe and hygienic working practices",
+            "2.8": "State how to com m unicate and behave within a salon environment"
           }
         }
       }
     },
+
     "H/617/6004": {
       "title": "Colour and lighten hair* (units may not be taken together)",
       "credit": 10,
@@ -296,76 +332,6 @@
         }
       }
     },
-    "A/617/6025": {
-      "title": "Cut men’s hair",
-      "credit": 6,
-      "data": ["6", "2", "53"],
-      "subUnits": {
-        "1": {
-          "title": "To prepare for a cutting service",
-          "questions": {
-            "1.1": "Explain the safety considerations that must be taken into account when cutting hair",
-            "1.2": "State the factors that need to be considered when cutting hair",
-            "1.3": "Describe the typical patterns of male pattern baldness",
-            "1.4": "State the effects created by different sized clipper blades and attachments",
-            "1.5": "State the risk of in-growing hair from continual close cutting on the skin",
-            "1.6": "Describe the different consultation techniques used to identify service objectives",
-            "1.7": "Describe the salon's requirements for client preparation, preparing self and the work area",
-            "1.8": "Describe a range of looks for men"
-          }
-        },
-        "2": {
-          "title": "To provide a cutting service",
-          "questions": {
-            "2.1": "State how to com m unicate and behave within a salon environment",
-            "2.2": "Describe the correct use and routine maintenance of cutting tools and equipm ent",
-            "2.3": "Describe the effect of different cutting techniques",
-            "2.4": "State the effect cutting hair at different angles has on the finished look",
-            "2.5": "State the im portance of applying the correct degree of tension to the hair when cutting",
-            "2.6": "State the im portance of cutting to the natural hairline in barbering",
-            "2.7": "Explain how to ensure that sideburns are cut level",
-            "2.8": "State the im portance of cross checking the cut",
-            "2.9": "Describe the aftercare advice that should be provided",
-            "2.10": "Outline safe and hygienic working practices"
-          }
-        }
-      }
-    },
-    "F/617/6026": {
-      "title": "Cut facial hair",
-      "credit": 4,
-      "data": ["4", "2", "32"],
-      "subUnits": {
-        "1": {
-          "title": "To prepare for cutting facial hair service",
-          "questions": {
-            "1.1": "Explain the safety considerations that must be taken into account",
-            "1.2": "Describe the factors that need to be considered when cutting facial hair",
-            "1.3": "Explain how the factors may influence the way the hair is cut",
-            "1.4": "State the effects created by different sized clipper blades and attachments",
-            "1.5": "State the effects of continual close cutting on the skin",
-            "1.6": "Describe the potential risk of in-growing hair",
-            "1.7": "Describe the different consultation techniques used to identify service objectives",
-            "1.8": "Describe the salon’s requirements for client preparation, preparing self and the work area",
-            "1.9": "Describe a range of basic facial hair shapes and looks"
-          }
-        },
-        "2": {
-          "title": "To provide a cutting facial hair service",
-          "questions": {
-            "2.1": "Describe the correct use and routine maintenance of cutting equipm ent",
-            "2.2": "Describe the effect of cutting techniques",
-            "2.3": "Explain the cutting techniques to use for different facial hair types and looks",
-            "2.4": "State the im portance of cross checking the cut",
-            "2.5": "Describe how to cross check and balance the cut",
-            "2.6": "State the im portance of cutting to the natural facial hairline on full beards",
-            "2.7": "Describe the aftercare advice that should be provided",
-            "2.8": "Outline safe and hygienic working practices",
-            "2.9": "State how to com m unicate and behave in a salon environment"
-          }
-        }
-      }
-    },
     "T/617/6007": {
       "title": "Create an image based on a theme within the hair and beauty sector",
       "credit": 7,
@@ -421,6 +387,30 @@
             "2.3": "Describe the aftercare advice that should be provided",
             "2.4": "Outline safe and hygienic working practices",
             "2.5": "State how to com m unicate and behave within a salon environment"
+          }
+        }
+      }
+    },
+    "Y/617/6002": {
+      "title": "Promote products and services to clients in a salon",
+      "credit": 3,
+      "data": ["3", "2", "28"],
+      "subUnits": {
+        "1": {
+          "title": "To promote products and services to the client",
+          "questions": {
+            "1.1": "Describe the benefits to the salon of promoting services and products to the client",
+            "1.2": "Describe the listening and questioning techniques used for promotion and selling",
+            "1.3": "Describe the different consultation techniques used to promote products andservices",
+            "1.4": "Explain the terms ‘features’ and ‘benefits’ as applied to services and products",
+            "1.5": "Describe the principles of effective face-to-face communication",
+            "1.6": "State the importance of effective personal presentation",
+            "1.7": "State the importance of good product and service knowledge",
+            "1.8": "Outline the stages of the sale process",
+            "1.9": "Describe how to interpret buying signals",
+            "1.10": "Describe how to secure agreement and close the sale",
+            "1.11": "Explain the legislation that affects the selling of services and products",
+            "1.12": "Describe m ethods of paym ent for services and products"
           }
         }
       }
@@ -492,56 +482,24 @@
         }
       }
     },
-    "L/617/6028": {
-      "title": "Provide threading services for hair removal",
-      "credit": 4,
-      "data": ["4", "2", "29"],
-      "subUnits": {
-        "1": {
-          "title": "To prepare for threading",
-          "questions": {
-            "1.1": "Describe workplace requirements for preparing themselves, the client and the work area",
-            "1.2": "State the environm ental conditions suitable for threading",
-            "1.3": "Describe different consultation techniques used to identify treatment objectives",
-            "1.4": "Describe how to select product tools and equipm ent to suit client treatment needs",
-            "1.5": "Describe the contra-indications which prevent or restrict threading"
-          }
-        },
-        "2": {
-          "title": "To provide threading",
-          "questions": {
-            "2.1": "State how to com m unicate and behave in a professional manner",
-            "2.2": "Describe health and safety working practices",
-            "2.3": "State the importance of positioning themselves and the client correctly throughout the treatment",
-            "2.4": "State the importance of using products, tools, equipm ent and techniques to suit client’s treatment needs, skin types and conditions",
-            "2.5": "Describe how treatments can be adapted to suit client treatment needs",
-            "2.6": "State the contra-indications that may occur during and following treatments and how to respond",
-            "2.7": "State the importance of completing the treatment to the satisfaction of the client",
-            "2.8": "State the importance of completing treatment records",
-            "2.9": "State the aftercare advice that should be provided",
-            "2.10": "Describe the structure and functions of the skin",
-            "2.11": "Describe the structure and functions of the hair"
-          }
-        }
-      }
-    },
-    "J/617/6027": {
-      "title": "Styling men’s hair",
-      "credit": 3,
+    "J/617/6013": {
+      "title": "Plaiting and twisting hair",
+      "credit": 5,
       "data": ["3", "1", "30"],
       "subUnits": {
         "1": {
-          "title": "To prepare for styling for men",
+          "title": "Be able to prepare for hair plaiting and twisting",
           "questions": {
-            "1.1": "Identify basic techniques for styling men's hair",
-            "1.2": "State the factors that influence the choice of hair styling techniques for men",
-            "1.3": "State the importance of the preparation procedures for styling men's hair"
+            "1.1": "Identify the range of finished looks that use plaiting and twisting techniques",
+            "1.2": "State the factors that influence the choice of plaiting and twisting techniques",
+            "1.3": "State the importance of the preparation procedures for plaiting and twisting hair",
+            "1.4": "State when and how to use products, tools and equipm equipment"
           }
         },
         "2": {
-          "title": "To provide styling for men",
+          "title": "Be able to carry out hair plaiting and twisting techniques",
           "questions": {
-            "2.1": "State the purpose of basic hair styling and finishing products, tools and equipment"
+            "2.1": "State the purpose of home care advice"
           }
         }
       }
