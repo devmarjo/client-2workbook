@@ -43,9 +43,28 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   const { accessToken, clearTokens } = useAuth();
   console.log('# ASSSSSSS', accessToken)
   const [fileId, setFileId] = useState<string | null>(null);
+  // const [parentFolderId, setParentFolderId] = useState<string | null>(null);
   const [workbook, setWorkbook] = useState<WorkbookI | null>(null);
   const [progress, setProgress] = useState<number>(0);
   const [unitsState, setUnitsState] = useState<UnitStateI>({});
+
+  const getParentFolderId =  useCallback(() => {
+    fetch(`/api/drive/file/parent?id=${fileId}`, {
+      headers: { Authorization: `Bearer ${accessToken}`},
+    })            
+    .then((resHead) => {
+      console.log('HEAD', resHead)
+      try {
+        const text = resHead.json()
+        return text
+      } catch (error) {
+        console.log(error)
+      }
+    })            
+    .then((dataHEAD) => {
+      console.log('HEAD', dataHEAD)
+    })
+  }, [accessToken, fileId])
 
   // PROGRESS COMPUTED
   useEffect(() => {
@@ -59,7 +78,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       Object.entries(workbook.unitsMandatory).forEach(([, v]) => {
         v.units.map(unit => {
           countUnitsState[unit] = true
-          Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
+          Object.entries(workbook.units[unit].subUnits).filter(([,v]) => !(v?.isPratical)).map(([, v2]) => {
             countQuestion += Object.keys(v2.questions).length
             if (v2?.answers) {
               countAnswer += Object?.entries(v2.answers).filter(([, v]) => v.length > 0).length
@@ -75,7 +94,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       Object.entries(workbook.unitsOptional).forEach(([, v]) => {
         v.selected.map(unit => {
           countUnitsState[unit] = true
-          Object.entries(workbook.units[unit].subUnits).map(([, v2]) => {
+          Object.entries(workbook.units[unit].subUnits).filter(([,v]) => !(v?.isPratical)).map(([, v2]) => {
             countQuestion += Object.keys(v2.questions).length
             if (v2?.answers) {
               countAnswer += Object?.entries(v2.answers).filter(([, v]) => v.length > 0).length
@@ -114,7 +133,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       }
     }
    
-  }, [workbook]);
+  }, [getParentFolderId, workbook]);
   useEffect(() => {
     console.log("Novo token detectado:", accessToken);
   }, [accessToken]);
@@ -143,6 +162,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
             "units" in data
           ) {
             setWorkbook(data);
+            getParentFolderId()
           }
         })
         .catch((error) => {
@@ -150,16 +170,15 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
           router.push('/')
           throw new Error('WORKBOOK DATA IS NOT VALID')
         })
-        toast.promise(promise, {
-          loading: 'Loading...',
-          success: () => {
-            return 'Workbook loaded successfully!';
-          },
-          error: () => {
-            return 'Workbook is not valid';
-          },
-        });
-
+      toast.promise(promise, {
+        loading: 'Loading...',
+        success: () => {
+          return 'Workbook loaded successfully!';
+        },
+        error: () => {
+          return 'Workbook is not valid';
+        },
+      });
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [accessToken, fileId])

@@ -1,0 +1,198 @@
+{
+  "version": "ProQual 2021",
+  "versionDate": "November 2021",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/media/documents/ProQual-L3-Diploma-in-Beauty-Therapy-Treatments.pdf",
+  "coverTitle": "Level 3 Diploma in Beauty Therapy Treatments",
+  "coverImg": "/images/workbooks/cover/FACIAL.png",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 3 Diploma in Beauty Therapy Treatments</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program. This qualification is suitable for candidates who wish to pursue a career as a beauty therapist or further their skills and knowledge within the beauty therapy sector. It is accredited onto the Regulated Qualifications Framework (RQF) by Ofqual."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your competencies in beauty therapy treatments.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Units:</h3><ul><li>Understand health and safety in a salon environment</li><li>Client care and consultation in a salon environment</li><li>Facial treatments</li><li>Facial electrical treatments</li><li>Body electrical treatments</li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 3 Diploma in Beauty Therapy Treatments</div><div><b>Qualification number:</b> 610/0130/6</div><div><b>Level:</b> 3</div><div><b>Total qualification time:</b> 400 hours</div><div><b>Guided learning hours:</b> 305</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 08/11/2021</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 3,
+      "units": ["J/650/0569", "M/650/0570", "R/650/0571", "T/650/0572", "Y/650/0573"]
+    }
+  ],
+  "unitsOptional":[],
+  "units": {
+    "J/650/0569": {
+      "title": "Understand health and safety in a salon environment",
+      "data": ["3", "25"],
+      "subUnits": {
+        "1": {
+          "title": "Be able to carry out a health and safety risk assessment",
+          "questions": {
+            "1.1": "List all hazards present",
+            "1.2": "Describe the key factors to implement into the workplace for health, and safety to make sure their salon is operating in accordance with current regulations, laws and byelaws",
+            "1.3": "From the observation report from the health and safety risk assessment that was conducted in the workplace, recommend changes that will eradicate or minimise the risks present",
+            "1.4": "Detail how a risk report and inspection of the workplace should be conducted and by whom",
+            "1.5": "List the regulations and licences that are needed for the treatments and workplace to operate within the current requirements of law",
+            "1.6": "Describe how to make sure employees follow the health and safety rules in the workplace",
+            "1.7": "Describe how to disinfect, sterilise and prepare the treatment room for all treatments",
+            "1.8": "List tools, waste products and Personal Protective Equipment that must be present",
+            "1.9": "Detail how to dispose of waste including clinical waste and couch roll",
+            "1.10": "Explain why it is important for all employees to have regulated certificates in the treatments offered to clients"
+          }
+        }
+      }
+    },
+    "M/650/0570": {
+      "title": "Client care and consultation in a salon environment",
+      "data": ["3", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand the client consultation process",
+          "questions": {
+            "1.1": "Design a set of consultation forms, including pre-treatment and after care",
+            "1.2": "Describe how to complete a consultation",
+            "1.3": "Describe what aftercare advice they would give to a client",
+            "1.4": "Describe why it is important to obtain client feedback",
+            "1.5": "List 10 contraindications that would prevent them from performing the treatment and the steps to take",
+            "1.6": "Describe how their current workspace can be improved to make their client more comfortable and relaxed in a salon environment",
+            "1.7": "Analyse the most effective ways to engage staff to make sure that the client experience is always kept to a high standard",
+            "1.8": "Discuss salon systems that can be effective for keeping client records",
+            "1.9": "Discuss how to handle complaints from clients and how to resolve the complaint swiftly and professionally"
+          }
+        },
+        "2": {
+          "title": "Understand the client consultation process",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Complete the full consultation process, including: <ul><li>consultation forms</li><li>medical history</li><li>tools to be used</li><li>desired outcome</li><li>treatment history</li><li>skin/hair condition</li><li>indications/benefits of treatment</li><li>client signature</li><li>before/after photos</li><li>future treatment planning</li></ul>",
+            "2.2": "Perform pre-treatment tests on the client and assess the results",
+            "2.3": "Ask the client to complete a feedback form"
+          }
+        }
+      }
+    },
+    "R/650/0571": {
+      "title": "Facial treatments",
+      "data": ["2", "55"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to prepare forfacial treatments",
+          "questions": {
+            "1.1": "Describe how to prepare the workspace, trolley, couch, client and PPE for treatment",
+            "1.2": "Describe methods of cleaning, disinfecting and sterilising tools and equipment",
+            "1.3": "Describe how to conduct an effective skin analysis, identifying skin types, conditions and classifications",
+            "1.4": "Describe in detail associated anatomy and physiology",
+            "1.5": "Describe in detail the structure of the skin",
+            "1.6": "Describe how the natural ageing process affects facial skin and muscle tone",
+            "1.7": "State how to select products, tools and equipment to suit skin and client needs",
+            "1.8": "Explain the different types of massage techniques, their uses and effects"
+          }
+        },
+        "2": {
+          "title": "Be able to provide facial treatments",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Set up, position and maintain the work area, tools and self",
+            "2.2": "Complete the client consultation and prepare them for treatment, including explaining the sensation",
+            "2.3": "Perform effective skin cleansing and toning techniques",
+            "2.4": "Perform an exfoliation",
+            "2.5": "Perform a massage of the face, neck, chest and shoulders",
+            "2.6": "Apply and remove a mask",
+            "2.7": "Apply toner and moisturiser",
+            "2.8": "Ensure that the skin and hair is free of excess products",
+            "2.9": "Complete aftercare procedure and tidy workspace"
+          }
+        }
+      }
+    },
+    "T/650/0572": {
+      "title": "Facial electrical treatments",
+      "data": ["3", "105"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to prepare for facial electrical treatments",
+          "questions": {
+            "1.1": "Describe how to prepare the workspace, trolley, couch, client and PPE for treatment",
+            "1.2": "Describe methods of cleaning, disinfecting and sterilising tools and equipment",
+            "1.3": "Describe how to conduct an effective skin analysis, identifying skin types, conditions and classifications",
+            "1.4": "Describe in detail associated anatomy and physiology",
+            "1.5": "State how to select products, tools, equipment and machine settings to suit skin and client needs",
+            "1.6": "Explain the difference between positive and negative ions in an ultrasonic treatment",
+            "1.7": "Explain how to manage a skin reaction after a foundation chemical peel treatment",
+            "1.8": "Explain why a nourishing mask sheet and cold hammer is used in cavitation treatment",
+            "1.9": "Explain why an ultrasonic skin scrubber is used",
+            "1.10": "Describe: <ul> <li>the use and effects of LED blue and red light</li> <li>the aims of different LED light settings</li> </ul>"
+          }
+        },
+        "2": {
+          "title": "Be able to provide facial electrical treatments",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Set up, position and maintain the work area, tools and self",
+            "2.2": "Complete the client consultation and prepare them for treatment, including explaining the sensation",
+            "2.3": "Perform effective skin preparation and cleansing techniques",
+            "2.4": "Perform a foundation chemical peel treatment",
+            "2.5": "Perform a radio frequency treatment",
+            "2.6": "Perform a cavitation treatment",
+            "2.7": "Perform an ultrasonic treatment",
+            "2.8": "Perform a LED light therapy treatment",
+            "2.9": "Incorporate appropriate skin treatments to compliment the facial routine",
+            "2.10": "Ensure that the skin is free of excess products",
+            "2.11": "Complete aftercare procedure and tidy workspace"
+          }
+        }
+      }
+    },
+    "Y/650/0573": {
+      "title": "Body electrical treatments",
+      "data": ["3", "105"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to prepare for body electrical treatments",
+          "questions": {
+            "1.1": "Describe how to prepare the workspace, trolley, couch, client and PPE for treatment",
+            "1.2": "Describe methods of cleaning, disinfecting and sterilising tools and equipment",
+            "1.3": "Describe how to conduct an effective skin and body analysis",
+            "1.4": "Describe in detail associated anatomy and physiology",
+            "1.5": "State how to select products, tools, equipment and machine settings to suit client needs",
+            "1.6": "Explain why and how to observe client modesty",
+            "1.7": "Explain the importance of measuring the area prior to and after treatment",
+            "1.8": "Explain the importance of monitoring the client throughout treatment",
+            "1.9": "Describe the:<ul><li>benefits of using a combination of treatments</li><li>order of treatments</li><li>optimum treatment areas</li></ul>",
+            "1.10": "Explain the importance of the following in relation to vacuum suction treatment:<ul><li>caution when treating a mature client</li><li>using oil</li><li>checking intensity on self prior to treatment</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Be able to provide body electrical treatments",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Set up, position and maintain the work area, tools and self",
+            "2.2": "Complete the client consultation and prepare them for treatment, including explaining the sensation of treatment",
+            "2.3": "Perform a cavitation treatment",
+            "2.4": "Perform a radio frequency treatment",
+            "2.5": "Perform a vacuum suction treatment",
+            "2.6": "Complete aftercare procedure and tidy workspace"
+          }
+        }
+      }
+    }
+  }
+}

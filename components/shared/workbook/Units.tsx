@@ -36,7 +36,7 @@ export function WorkbookUnits() {
               {unit.unit} - {unit.title}
             </div>
             {
-              Object.entries(unit.subUnits).map(([k, ]) =>  <WorkbookSubUnit key={'SubUnit-' + unit.unit + '-' + k} unit={unit.unit} subunit={k} /> )
+              Object.entries(unit.subUnits).filter(([,v]) => !(v?.isPratical)).map(([k, ]) =>  <WorkbookSubUnit key={'SubUnit-' + unit.unit + '-' + k} unit={unit.unit} subunit={k} /> )
             }
           </div>
         )

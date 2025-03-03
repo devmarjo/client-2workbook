@@ -25,6 +25,7 @@ export interface WorkbookUnit {
 
 export interface WorkbookSubUnitI  {
     title: string;
+    isPratical?: boolean;
     questions: {
         [key: string]: string;
     };

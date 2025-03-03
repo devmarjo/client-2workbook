@@ -1,0 +1,520 @@
+{
+  "version": " V1.0",
+  "versionDate": "August 2024",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/media/documents/ProQual-L3-Diploma-in-Beauty-Therapy-Treatments.pdf",
+  "coverTitle": "Level 2 Diploma for Beauty Therapists",
+  "coverImg": "/images/workbooks/cover/FACIAL.png",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 2 Diploma for Beauty Therapists</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your competencies in beauty therapy treatments.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Units:</h3><ul><li>Working in a Salon Environment</li><li>Carrying Out Client Consultation as a Beauty Professional</li><li>Anatomy and Physiology for Beauty Professionals</li><li>Waxing the Face and Body</li><li>Providing Facial Skincare Treatments</li><li>Providing Make-Up Services</li><li>Providing Eyelash and Eyebrow Treatments</li><li>Providing Body Massage Treatments Using Fundamental Techniques</li><li>Providing Manicure Services</li><li>Providing Pedicure Services</li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 2 Diploma for Beauty Therapists</div><div><b>Qualification number:</b> 610/4530/5</div><div><b>Level:</b> 2</div><div><b>Total qualification time:</b> 580 Hours</div><div><b>Guided learning hours:</b> 445 Hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 02/09/2024</div><div><b>Qualification review date:</b> 02/09/2027</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "TQT", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 3,
+      "units": ["K/651/2430", "K/651/2421", "H/651/2493", "J/651/2494", "K/651/2495", "L/651/2496", "M/651/2497", "R/651/2498", "M/651/2423", "T/651/2425"]
+    }
+  ],
+  "unitsOptional":[],
+  "units": {
+    "K/651/2430": {
+      "title": "Working in a Salon Environment",
+      "data": ["2", "20", "10"],
+      "subUnits": {
+        "1": {
+          "title": "Understand health and safety requirements as a hair or beauty professional.",
+          "questions": {
+            "1.1": "Describe the requirements placed on hair professionals by:<ul><li>The Health and Safety at Work Act.</li><li>Control of Substances Hazardous to Health (COSHH).</li><li>Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR).</li><li>Local Authority regulations.</li></ul>",
+            "1.2": "Identify common hazards found within the salon environment.",
+            "1.3": "Explain how common hazards found within the salon environment can be controlled.",
+            "1.4": "Explain the importance of:<ul><li>Personal hygiene.</li><li>Personal presentation.</li><li>Personal Protective Equipment (PPE).</li></ul>",
+            "1.5": "Explain how a professional's physical and psychological wellbeing can impact on their ability to provide a service safely.",
+            "1.6": "State the causes and risks of microbial contamination.",
+            "1.7": "Explain how hard surface disinfectants are used to control and prevent infection, including:<ul><li>Their chemical compositions.</li><li>The risks associated with using them.</li><li>How contact times impact their effectiveness.</li></ul>",
+            "1.8": "Explain how skin disinfectants are used to control and prevent infection, including:<ul><li>Their chemical compositions.</li><li>The risks associated with using them.</li><li>Their impact on the skin's pH and barrier function.</li><li>How contact times impact the effectiveness.</li></ul>",
+            "1.9": "Explain the causes and hazards of accidental exposure to clinical waste and how to respond.",
+            "1.10": "Explain how safe positioning techniques and working practices can prevent work related injury and ill health.",
+            "1.11": "Explain the importance of ensuring the work environment is line with legislative requirements, including:<ul><li>Lighting and illumination.</li><li>Heating</li><li>Ventilation.</li><li>Fixtures, fittings and equipment.</li><li>Facilities and amenities.</li><li>Audit and accountability.</li></ul>",
+            "1.12": "Describe the purpose of insurance and indemnity for a hair professional.",
+            "1.13": "Explain why it is important to adhere to legislative, organisational and manufacturer safety instructions for equipment, materials and products, including:<ul><li>Storage.</li><li>Handling.</li><li>Usage.</li><li>Disposal.</li><li>Record keeping.</li></ul>",
+            "1.14": "Explain why it is important to ensure that all products sourced are for cosmetic use.",
+            "1.15": "Describe the purpose of carrying out tests prior to procedures, and how and when to carry out these tests."
+          }
+        },
+        "2": {
+          "title": "Understand how to contribute to the development of effective work relations within a salon environment.",
+          "questions": {
+            "2.1": "Describe how to find out:<ul><li>Information about own job role, responsibilities and expected standards.</li><li>Information about other people's areas of responsibility.</li></ul>",
+            "2.2": "Explain why it is important to work within own job responsibilities and the possible consequences of not doing so.",
+            "2.3": "Explain how to identify own strengths and weakness.",
+            "2.4": "Explain why it is important to be a reflective practitioner.",
+            "2.5": "Explain the importance of meeting own personal development and productivity targets and timescales.",
+            "2.6": "Explain the importance of continuous professional development, and how this affects own job role.",
+            "2.7": "Describe what a National Occupational Standard is, and how it can be used to identify training needs.",
+            "2.8": "Explain ways of maintaining awareness of current and emerging trends and developments within the Hair Industry.",
+            "2.9": "Explain how the following can be used as opportunities to learn:<ul><li>Conversations with colleagues.</li><li>Training and development activities.</li><li>Organisational activities.</li></ul>",
+            "2.10": "Explain why harmonious working relationships are important.",
+            "2.11": "Describe how to react positively to reviews and feedback, and why it is important.",
+            "2.12": "Explain how to support co-operative ways of working.",
+            "2.13": "Describe ways to make sure time is managed effectively.",
+            "2.14": "State who should be reported to when difficulties working with others arise.",
+            "2.15": "Describe how to the deal with relationships difficulties and conflicts when working with others."
+          }
+        },
+        "3": {
+          "title": "Understand how to promote positive impression of self, organisation and the hair and beauty industry.",
+          "questions": {
+            "3.1": "Describe the career routes within either:<ul><li>The hair industry.</li><li>The beauty industry.</li></ul>",
+            "3.2": "Explain the importance of following codes of conduct as a hair or beauty professional.",
+            "3.3": "Describe the basic employment rights and responsibilities of a hair or beauty professional, including:<ul><li>Contracts of employment.</li><li>Working hours.</li><li>Disciplinary and grievance procedures.</li><li>Holidays.</li><li>Sickness absence and pay.</li></ul>",
+            "3.4": "Explain how to promote respect, equality, diversity and inclusion as hair or beauty professional, including:<ul><li>Communication.</li><li>Confidentiality.</li><li>Discretion.</li><li>Comfort.</li><li>Modesty.</li><li>Privacy.</li></ul>",
+            "3.5": "Compare the effectiveness of different social channels for promoting a salon business.",
+            "3.6": "Explain how to promote environmentally sustainable practice as a hair or beauty professional, including:<ul><li>Recycling.</li><li>Limiting the use of single use plastics.</li><li>Mindful consumption of energy and water.</li><li>Choosing environmentally friendly products.</li></ul>",
+            "3.7": "Explain ways of supporting the mental health and wellbeing of self and client.",
+            "3.8": "Describe the role and function of the front of house or reception area in a hair or beauty business, including:<ul><li>Services.</li><li>Bookings.</li><li>Payments.</li><li>Retail.</li><li>Upselling</li><li>Sales.</li></ul>"
+          }
+        }
+      }
+    },
+    "K/651/2421": {
+      "title": "Carrying Out Client Consultation as a Beauty Professional",
+      "data": ["2", "30", "20"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to carry out a client consultation as a beauty professional.",
+          "questions": {
+            "1.1": "Explain the importance of taking account of:<ul><li>The client's declared medical history and current medical status.</li><li>The client's service history.</li><li>The client's service requirements.</li><li>The client's concerns, expectations and desired outcome.</li><li>The client's physical and psychological wellbeing</li><li>Any contra-indications.</li></ul>",
+            "1.2": "Explain why it is important to work with competent professionals to support effective and safe working practice.",
+            "1.3": "Explain what is meant by the terms:<ul><li>Relative contra-indication.</li><li>Absolute contra-indications.</li></ul>",
+            "1.4": "Identify common relative and absolute contraindications for common beauty services.",
+            "1.5": "Describe the visible symptoms of common contra-indications for beauty services.",
+            "1.6": "Explain the importance of referring contraindications and medical conditions to an appropriate professional.",
+            "1.7": "Explain why common medical conditions may contraindicate common beauty services",
+            "1.8": "Explain the importance of communicating with the client:<ul><li>In a professional manner.</li><li>Within the limits of your own competencies.</li></ul>",
+            "1.9": "Describe the impact of social influences, the media and current trends on the consultation process.",
+            "1.10": "Explain why it is important to assess, discuss, agree, review and document the consultation outcomes.",
+            "1.11": "Explain the importance of clearly explaining the service process, expected outcomes and associated risks.",
+            "1.12": "Describe the benefits of using visual aids during consultation.",
+            "1.13": "Explain how to manage a client's expectations.",
+            "1.14": "Identify beauty services that may be prohibited or restricted for minors.",
+            "1.15": "Identify beauty services that require a test to be carried out before they are supplied.",
+            "1.16": "Explain the importance of carrying out pretreatment tests.",
+            "1.17": "Describe the legislative requirements for gaining, recording, storing, protecting and retaining any client data.",
+            "1.18": "Describe the legislative and regulatory requirements for taking and storing visual media of the client's treatment area.",
+            "1.19": "Explain the client's rights, in relation to beauty services, including:<ul><li>Reflection time.</li><li>Informed consent.</li><li>Financial/contractual agreement.</li><li>The right to request the subject specific qualifications, training and indemnity insurance.</li></ul>",
+            "1.20": "Explain the importance of providing instructions and advice both pre and post the service."
+          }
+        },
+        "2": {
+          "title": "Carry out a client consultation as a beauty professional.",
+          "questions": {
+            "2.1": "Carry out a consultation, taking account of:<ul><li>The client's declared medical history and current medical status.</li><li>The client's service history.</li><li>The client's service requirements.</li><li>The client's concerns, expectations and desired outcome.</li><li>The client's physical and psychological wellbeing</li><li>Any contra-indications.</li></ul>",
+            "2.2": "Recognise, respond and sign-post appropriately in response to any disclosed conditions or contra-indications.",
+            "2.3": "Explain the fee structure.",
+            "2.4": "Provide the client with pre-treatment instructions and recommendations.",
+            "2.5": "Explain any associated risks to the client.",
+            "2.6": "Agree and document the consultation and expected service outcomes.",
+            "2.7": "Discuss any physical sensation that may occur during the service.",
+            "2.8": "Agree the service plan and obtain the client's informed consent for the treatment."
+          }
+        }
+      }
+    },
+    "H/651/2493": {
+      "title": "Anatomy and Physiology for Beauty Professionals",
+      "data": ["2", "40", "20"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how the integumentary, skeletal and muscular system work together.",
+          "questions": {
+            "1.1": "Describe the structure of the skin, including:<ul><li>The epidermis.</li><li>The dermis.</li><li>The hypodermis.</li></ul>",
+            "1.2": "Explain the function of the skin.",
+            "1.3": "Describe the structure of the nails, including:<ul><li>The nail plate.</li><li>The nail root.</li><li>The germinal matrix.</li><li>The nail bed.</li><li>The cuticle.</li><li>Surrounding tissue.</li></ul>",
+            "1.4": "Explain the function of the nail.",
+            "1.5": "State the function of the skeletal system.",
+            "1.6": "Identify the types of muscle found in the body.",
+            "1.7": "Describe the function of muscles.",
+            "1.8": "Describe the structure of a hinge joint.",
+            "1.9": "Explain the function of the following within a joint:<ul><li>Muscles.</li><li>Bones.</li><li>Tendons.</li><li>Ligaments.</li><li>Cartilage.</li><li>Synovial Fluid.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Understand basic anatomy and physiology of the upper extremities",
+          "questions": {
+            "2.1": "Describe what is meant by “the upper extremities”.",
+            "2.2": "Identify the bones of the hand.",
+            "2.3": "Identify the blood vessels of the hand.",
+            "2.4": "Identify the bones of the arm.",
+            "2.5": "Identify major blood vessels of the arm.",
+            "2.6": "Identify the muscles of the arm.",
+            "2.7": "Explain how the triceps and biceps work together to move the arm."
+          }
+        },
+        "3": {
+          "title": "Understand basic anatomy and physiology of the lower extremities.",
+          "questions": {
+            "3.1": "Describe what is meant by “the lower extremities”.",
+            "3.2": "Identify the bones of the foot.",
+            "3.3": "Identify the blood vessels of the foot.",
+            "3.4": "Identify the bones of the leg.",
+            "3.5": "Identify the major blood vessels of the leg.",
+            "3.6": "Identify the muscles of the leg."
+          }
+        },
+        "4": {
+          "title": "Understand basic anatomy and physiology head, neck and back.",
+          "questions": {
+            "4.1": "Identify the bones within the skull.",
+            "4.2": "Identify the major blood vessels within the head and neck.",
+            "4.3": "Identify the major muscles of the:<ul><li>Head.</li><li>Neck.</li><li>Back.</li></ul>",
+            "4.4": "Describe the structure of the spinal column."
+          }
+        },
+        "5": {
+          "title": "Understand the growth and pathology of the nails.",
+          "questions": {
+            "5.1": "Describe the following nail lengths and shapes:<ul><li>Long.</li><li>Mid-length.</li><li>Short.</li><li>Round.</li><li>Oval.</li><li>Square.</li><li>Fan.</li><li>Hook.</li><li>Spoon.</li><li>Squoval.</li><li>Almond.</li><li>Coffin.</li><li>Stiletto.</li></ul>",
+            "5.2": "Identify the nail shapes that can occur naturally.",
+            "5.3": "Describe the causes and symptoms of:<ul><li>Onychophagy.</li><li>Discolouration.</li><li>Misshapen nails.</li><li>Nails split above the hyponychium.</li><li>Beau lines.</li><li>Longitudinal and horizontal ridges.</li><li>Dehydrated nails.</li><li>Onychorrhexis.</li><li>Leukonychia.</li><li>Onycholysis.</li></ul>",
+            "5.4": "Describe the causes and symptoms of:<ul><li>Damaged cuticles.</li><li>Dry cuticles and skin.</li><li>Overgrown cuticles.</li><li>Fragile skin.</li><li>Calluses.</li><li>Superficial heel cracks.</li></ul>"
+          }
+        }
+      }
+    },
+    "J/651/2494": {
+      "title": "Waxing the Face and Body",
+      "data": ["2", "70", "65"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide a face and body wax.",
+          "questions": {
+            "1.1": "Explain why you must always work within your own competence when carrying out waxing treatments.",
+            "1.2": "Identify the absolute and relative contraindications for a waxing treatment.",
+            "1.3": "Explain the purpose, use and limitations of waxing treatments, in relation to:<ul><li>Medical history.</li><li>Current medical conditions.</li><li>Client expectations.</li></ul>",
+            "1.4": "Explain how the following historical treatments can affect the current waxing treatment:<ul><li>Waxing.</li><li>Tweezing</li><li>Threading.</li><li>Trimming.</li><li>Shaving</li><li>Depilatory creams.</li><li>Electrical depilatory.</li><li>Abrasive mitts.</li><li>Intense pulsed light.</li><li>Laser hair removal.</li><li>Electrical epilation.</li><li>Alkaline wash</li><li>Dermaplaning.</li></ul>",
+            "1.5": "Explain why stray and over long hairs should be cut prior to treatment.",
+            "1.6": "Explain why the skin must be kept taut throughout the waxing treatment.",
+            "1.7": "Describe how the client's comfort and modesty can be maintained throughout the treatment.",
+            "1.8": "Describe the types of hair that are and aren't suitable for waxing.",
+            "1.9": "Explain how the position of the client and therapist affects the treatment outcome.",
+            "1.10": "Describe the types of skin hygiene products available and suitable for use before waxing.",
+            "1.11": "Describe the different types of waxing products, including:<ul><li>Ingredients and composition.</li><li>Working temperatures.</li><li>Application and removal technique</li><li>Client's treatment area.</li></ul>",
+            "1.12": "Explain the importance of adhering to manufacturer instructions to prevent product incompatibilities and risks to health.",
+            "1.13": "Explain how hair and skin classification and the client's pain tolerance can affect the selection of products and equipment used in a waxing treatment.",
+            "1.14": "Describe the congenital, systemic and topical causes of unwanted hair growth.",
+            "1.15": "Describe the adaptations required when removing hair around conditions which restrict the treatment.",
+            "1.16": "Describe the signs and symptoms of the following adverse reactions:<ul><li>Bruising.</li><li>Excessive oedema.</li><li>Burns</li><li>Abrasions.</li><li>Broken hair.</li><li>Urticaria.</li><li>Excessive and diminished regrowth.</li><li>Abrasions / skin graze.</li><li>Allergy.</li></ul>",
+            "1.17": "Explain how waxing treatments can cause, and how to respond to, the following adverse reactions:<ul><li>Bruising.</li><li>Excessive oedema.</li><li>Burns</li><li>Abrasions.</li><li>Broken hair.</li><li>Urticaria.</li><li>Excessive and diminished regrowth.</li><li>Abrasions / skin graze.</li><li>Allergy.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide a face and body wax.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Carry out a concise and comprehensive consultation with the client, including discussion of:<ul><li>Treatment history.</li><li>Skincare regime.</li><li>Alternative treatment options.</li><li>Client's objectives and expectations.</li><li>Fees and timescales.</li><li>Identification of contra-indications.</li></ul>",
+            "2.2": "Carry out tests and record the outcome, to establish suitability for treatment.",
+            "2.3": "Confirm and agree with the client that they understand the proposed waxing treatment, including:<ul><li>Expected outcomes.</li><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Physical sensation of the treatment.</li></ul>",
+            "2.4": "Obtain and record the client's informed consent for the waxing treatment.",
+            "2.5": "Prepare the treatment area, including:<ul><li>Preparing an area on the body.</li><li>Preparing an area on the face.</li><li>Selecting and using an effective and appropriate hygiene preparation</li><li>Selecting and using an effective and appropriate pre-wax product.</li><li>Maintain the client's comfort and modesty.</li></ul>",
+            "2.6": "Carry out a safe and effective removal of hair using a strip wax system, including:<ul><li>Conducting a thermal patch test on the wrist and treatment area.</li><li>Establishing the hair growth pattern.</li><li>Trimming any long hair.</li><li>Transferring wax from the waxing unit, in such a way to minimise the risk of cross infection and contamination.</li><li>Apply the wax at an appropriate angle.</li><li>Apply the wax strip evenly</li><li>Remove the wax strip swiftly, ensuring the skin is taut.</li><li>Ensure the treatment area is free from wax and hair.</li><li>Apply a soothing product.</li><li>Ensure minimum wastage.</li></ul>",
+            "2.7": "Carry out a safe and effective removal of hair using a non- strip wax system, including:<ul><li>Conducting a thermal patch test on the wrist and treatment area.</li><li>Establishing the hair growth pattern.</li><li>Trimming any long hair.</li><li>Transferring wax from the waxing unit, in such a way to minimise the risk of cross infection and contamination.</li><li>Apply the wax at an appropriate angle.</li><li>Remove the wax swiftly, ensuring the skin is taut.</li><li>Ensure the treatment area is free from wax and hair.</li><li>Apply a soothing product.</li><li>Ensure minimum wastage.</li></ul>",
+            "2.8": "Monitor the client's health, wellbeing and skin reaction during the treatment and implement the correct course of action in the event of an adverse reaction.",
+            "2.9": "Conclude the treatment, including:<ul><li>Confirm with the client that they are happy with the outcome of the treatment.</li><li>Complete and store the client's treatment records in accordance with data legislation.</li><li>Provide appropriate post-treatment advice and guidance.</li></ul>",
+            "2.10": "Evaluate the treatment provided, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>Actions to be undertaken to implement improvement. </li></ul>"
+          }
+        }
+      }
+    },
+
+    "K/651/2495": {
+      "title": "Providing Facial Skincare Treatments",
+      "data": ["2", "80", "65"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide facial skincare treatments",
+          "questions": {                        
+            "1.1": "Explain why you must always work within your own competence when carrying out facial skincare treatments.",
+            "1.2": "Identify the absolute and relative contraindications for a facial skincare treatment.",
+            "1.3": "Explain the purpose, use and limitations of facial skincare treatments, in relation to:<ul><li>Medical history.</li><li>Current medical conditions.</li><li>Lifestyle factors.</li><li>Client expectations.</li></ul>",
+            "1.4": "Describe how the following techniques are used in facial treatments:<ul><li>Skin analysis.</li><li>Cleansing.</li><li>Exfoliating.</li><li>Comedone extraction.</li><li>Massage.</li><li>Mask application</li><li>Sun protection factor protection application.</li></ul>",
+            "1.5": "Explain the importance of magnification, illumination and preparation of the individual's treatment area when carrying out a skin analysis.",
+            "1.6": "Describe the types of skin hygiene products available and suitable for use as part of a facial treatment.",
+            "1.7": "Explain the importance of adhering to manufacturer instructions to prevent product incompatibilities and risks to health.",
+            "1.8": "Describe the types, uses, benefits and limitations of different skincare products used during facial treatments.",
+            "1.9": "Describe the types, uses, benefits and limitations of different equipment used during facial treatments, including:<ul><li>Magnifying light.</li><li>Skin warming devices.</li><li>Digital technologies.</li></ul>",
+            "1.10": "Explain the risks and limitations associated with self-heating masks.",
+            "1.11": "Explain the risks and restrictions associated with very superficial skin peels, including:<ul><li>How pH affects skin sensitivity.</li><li>The action of acid and alkaline concentrations on the skin.</li><li>How and why the skin's barrier function is impaired.</li><li>The increased risk of photosensitivity and ways to protect the skin</li><li>How, and why it's important, to carry out a skin test. </li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide facial skincare treatments.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Carry out a concise and comprehensive consultation with the client, including discussion of:<ul><li>Treatment history.</li><li>Skincare regime.</li><li>Lifestyle</li><li>Alternative treatment options.</li><li>Client's objectives and expectations.</li><li>Fees and timescales.</li><li>Identification of contra-indications.</li></ul>",
+            "2.2": "Carry out tests and record the outcome, to establish suitability for treatment.",
+            "2.3": "Confirm and agree with the client that they understand the proposed facial treatment, including:<ul><li>Expected outcomes</li><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Physical sensation of the treatment.</li></ul>",
+            "2.4": "Obtain and record the client's informed consent for the facial treatment.",
+            "2.5": "Prepare the treatment area, including:<ul><li>Illuminate and magnify the area.</li><li>Carrying out a skin analysis.</li><li>Selecting and using an appropriate skin hygiene product.</li></ul>",
+            "2.6": "Carry out a deep cleanse using an appropriate product.",
+            "2.7": "Carry out an exfoliation, including:<ul><li>Very superficial skin peels.</li><li>Physical exfoliation.</li><li>Chemical exfoliation.</li></ul>",
+            "2.8": "Select and use an appropriate skin warming technique, including:<ul><li>Hot towel.</li><li>Steam.</li></ul>",
+            "2.9": "Carry out safe and effective comedone extraction.",
+            "2.10": "Select and apply an appropriate massage medium, including:<ul><li>Oil.</li><li>Cream.</li><li>Serum</li><li>Oil free.</li></ul>",
+            "2.11": "Apply a massage medium using an appropriate technique, including:<ul><li>Relaxation</li><li>Effleurage.</li><li>Petrissage.</li><li>Tapotement.</li><li>Friction.</li><li>Vibrations.</li><li>Pressure point.</li><li>Lymphatic drainage.</li><li>Detoxifying.</li><li>Stimulating.</li><li>Toning.</li></ul>",
+            "2.12": "Select and apply an appropriate mask product, including:<ul><li>Self-heating.</li><li>Cooling.</li><li>Setting.</li><li>Non-setting.</li></ul>",
+            "2.13": "Monitor the client's health, wellbeing and skin reaction during the treatment and implement the correct course of action in the event of an adverse reaction.",
+            "2.14": "Conclude the treatment, including:<ul><li>Confirm with the client that they are happy with the outcome of the treatment.</li><li>Complete and store the client's treatment records in accordance with data legislation.</li><li>Provide appropriate post-treatment advice and guidance.</li></ul>",
+            "2.15": "Evaluate the treatment provided, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>Actions to be undertaken to implement improvement. </li></ul>"
+
+          }
+        }
+      }
+    },
+    "L/651/2496": {
+      "title": " Providing Make-Up Services",
+      "data": ["2", "50", "40"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide make-up services.",
+          "questions": {
+            "1.1": "Explain why you must always work within your own competence when providing make-up services.",
+            "1.2": "Identify the absolute and relative contraindications for make-up services.",
+            "1.3": "Explain the purpose, use and limitations of make-up services, in relation to:<ul><li>Medical history.</li><li>Current medical conditions.</li><li>Lifestyle factors.</li><li>Client expectations.</li></ul>",
+            "1.4": "Explain the importance of carrying out a skin and facial characteristics analysis to determine the treatment plan.",
+            "1.5": "Describe the types of hygiene products for the skin suitable for use pre-make-up service.",
+            "1.6": "Explain the reasons why make-up should be applied in the lighting it will be worn",
+            "1.7": "Describe the types, use, benefits and limitations of make-up tools, including:<ul><li>Make-up brushes.</li><li>Make-up palette.</li><li>Single use items.</li><li>Mirrors.</li><li>Sterile eyelash curlers.</li><li>Sterile Tweezers.</li><li>Hair protective equipment.</li></ul>",
+            "1.8": "Describe the types, use, benefits and limitations of make-up products, including:<ul><li>Primers.</li><li>Foundations.</li><li>Setting powder.</li><li>Bronzing products.</li><li>Concealer creams.</li><li>Brightening creams.</li><li>Cream and powder highlighters.</li><li>Cream and powder shaders.</li><li>Blush.</li><li>Eyebrow products.</li><li>Eye shadow.</li><li>Eye liner.</li><li>Mascara.</li><li>Lip products.</li><li>Strip lashes.</li><li>Strip lash glue.</li><li>Air brush equipment.</li><li>Setting/finishing spray.</li></ul>",
+            "1.9": "Describe the application techniques used to correct and enhance facial features, including:<ul><li>Eye shape.</li><li>Brow definition.</li><li>Face shape.</li><li>Lip shape.</li></ul>",
+            "1.10": "Describe the types of strip lashes including:<ul><li>Application techniques.</li><li>Associated risks.</li><li>The importance of measuring and trimming prior to application.</li><li>How strip lashes can influence the appearance of the eyes and facial dimensions.</li><li>How to achieve symmetry and balance.</li></ul>",
+            "1.11": "Explain the risks and restrictions associated with make-up products, including the benefits of using hypoallergenic products.",
+            "1.12": "Explain the importance of identifying if the individual is wearing contact lenses and associated risks.",
+            "1.13": "Explain the importance of identifying if the individual plans on wearing glasses post makeup service, including the adaptations to accommodate the magnification or demagnification of the eyes.",
+            "1.14": "Explain why cream-based products are applied before powders.",
+            "1.15": "Explain the purpose of tests and the reasons why you carry out a test using the product(s) to be used.",
+            "1.16": "Identify the signs and symptoms of the following adverse reactions:<ul><li>Hyperaemia.</li><li>Allergy.</li><li>Oedema.</li></ul>",
+            "1.17": "Explain how make-up services can cause, and the correct response to, the following adverse reactions:<ul><li>Hyperaemia.</li><li>Allergy.</li><li>Oedema.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide make-up services.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Carry out a concise and comprehensive consultation with the client, including discussion of:<ul><li>Treatment history.</li><li>Skincare regime.</li><li>Lifestyle.</li><li>Alternative treatment options.</li><li>Client’s objectives and expectations.</li><li>Fees and timescales.</li><li>Identification of contra-indications.</li></ul>",
+            "2.2": "Carry out tests and record the outcome, to establish suitability for treatment.",
+            "2.3": "Confirm and agree with the client that they understand the proposed make-up service, including:<ul><li>Expected outcomes.</li><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Physical sensation of the treatment.</li></ul>",
+            "2.4": "Obtain and record the client’s informed consent for the make-up service.",
+            "2.5": "Prepare the client’s treatment area, including:<ul><li>Selecting and using an appropriate skin hygiene product.</li><li>Ensuring lighting is the same as the make-up will be worn in.</li><li>Carrying out a skin and facial characteristic analysis.</li><li>Ensuring tools are sterile.</li></ul>",
+            "2.6": "Apply customized make-up, including:<ul><li>Selecting appropriate make-up products.</li><li>Safely decanting cream-based products onto a sterile palette.</li><li>Using sterile tools in powder-based products.</li><li>Using single use items to apply mascara and lip products.</li></ul>",
+            "2.7": "Apply a strip lash product, including:<ul><li>Preparing the client for a strip-lash treatment.</li><li>Selecting an appropriate strip lash product and eye lash adhesive.</li><li>Measure and trim the strip lash as required.</li><li>Apply adhesive on the strip lash base.</li><li>Apply the strip lash to the centre of the eye lash line and secure in the outer and inner corners.</li></ul>",
+            "2.8": "Monitor the client’s health, wellbeing and skin reaction during the treatment and implement the correct course of action in the event of an adverse reaction.",
+            "2.9": "Conclude the treatment, including:<ul><li>Apply a make-up setting spray for longevity.</li><li>Confirm with the client that they are happy with the outcome of the treatment.</li><li>Complete and store the client’s treatment records in accordance with data legislation.</li><li>Provide appropriate post-treatment advice and guidance.</li></ul>",
+            "2.10": "Evaluate the treatment provided, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>Actions to be undertaken to implement improvement. </li></ul>"
+          }
+        }
+      }
+    },
+    "M/651/2497": {
+      "title": " Providing Eyelash and Eyebrow Treatments",
+      "data": ["2", "80", "70"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide eyelash and eyebrow treatments.",
+          "questions": {
+            "1.1": "Explain why you must always work within your own competence when providing eyebrow and eyelash treatments.",
+            "1.2": "Identify the absolute and relative contraindications for eyebrow and eyelash treatments.",
+            "1.3": "Explain the purpose, use and limitations of eyebrow and eyelash treatments, in relation to:<ul><li>Medical history.</li><li>Current medical conditions.</li><li>Lifestyle factors.</li><li>Client expectations.</li></ul>",
+            "1.4": "Explain how to measure eyebrows and identify the anatomical facial structure and features, including:<ul><li>The types of eyebrow and eyelashes shapes.</li><li>How these influence facial dimensions,</li><li>How to achieve symmetry and balanced.</li></ul>",
+            "1.5": "Explain how hair growth patterns influence the treatment outcomes.",
+            "1.6": "Explain how magnifying and illuminating the individual's treatment area can support the brow shaping treatment.",
+            "1.7": "Explain the types, benefits and limitations of products and equipment used in eyelash and brow treatments, including:<ul><li>How oxidization affects the shelf-life of tint.</li><li>How hair classification and characteristics can affect the colour choice and development time of the tint.</li></ul>",
+            "1.8": "Describe the composition of henna used to colour eyebrow hair and the associated risks to health.",
+            "1.9": "Explain why henna is unsuitable for the eyelashes.",
+            "1.10": "Identify the signs and symptoms of the following adverse reactions:<ul><li>Hyperaemia.</li><li>Urticaria.</li><li>Abrasions.</li><li>Damage to the eye.</li><li>Eye irritation.</li><li>Oedema.</li><li>Eyelash loss.</li><li>Blindness.</li><li>Allergy.</li></ul>",
+            "1.11": "Explain how eyebrow and eyelash treatments can cause, and the correct response to, the following adverse effects:<ul><li>Hyperaemia.</li><li>Urticaria.</li><li>Abrasions.</li><li>Damage to the eye.</li><li>Eye irritation.</li><li>Oedema.</li><li>Eyelash loss.</li><li>Blindness.</li><li>Allergy</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide eyelash and eyebrow treatments.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Carry out a concise and comprehensive consultation with the client, including discussion of:<ul><li>Treatment history.</li><li>Skincare regime.</li><li>Lifestyle.</li><li>Alternative treatment options.</li><li>Client's objectives and expectations.</li><li>Fees and timescales.</li><li>Identification of contra-indications.</li></ul>",
+            "2.2": "Carry out tests and record the outcome, to establish suitability for treatment.",
+            "2.3": "Confirm and agree with the client that they understand the proposed eyebrow and eyelash treatment, including:<ul><li>Expected outcomes.</li><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Physical sensation of the treatment.</li></ul>",
+            "2.4": "Obtain and record the client's informed consent for the eyebrow and eyelash treatment.",
+            "2.5": "Prepare the treatment area, including:<ul><li>Magnify and illuminate the area.</li><li>Select and apply an appropriate hygiene product.</li><li>Carry out a hair and skin analysis.</li><li>Selecting appropriate eyebrow and eyelash products.</li></ul>",
+            "2.6": "Carry out an eyebrow shaping, including:<ul><li>Safe and effective manual removal of brow hair using tweezers.</li><li>Supporting the skin to be taut during treatment.</li><li>Tweezing hairs in the same direction as growth.</li></ul>",
+            "2.7": "Carry out an eyelash and eyebrow tinting, including:<ul><li>Application of protective barrier products and consumables adjacent to the treatment area.</li><li>Select and mix the tint and peroxide.</li><li>Accurate timing of the product.</li><li>Safe removal of the product.</li></ul>",
+            "2.8": "Carry out a cluster lash application, including:<ul><li>Ensure the client is in a semi-reclined position.</li><li>Measure the cluster lash and trim prior to application.</li><li>Apply adhesive accurately to the base of the cluster lash.</li><li>Accurate stroking of the natural lash and application of the cluster lash to the base of the natural lash.</li></ul>",
+            "2.9": "Carry out a safe removal of a cluster lash, including the use of oil-based remover or solvent.",
+            "2.10": "Monitor the client's health, wellbeing and skin reaction during the treatment and implement the correct course of action in the event of an adverse reaction.",
+            "2.11": "Conclude the treatment, including:<ul><li>Confirm with the client that they are happy with the outcome of the treatment.</li><li>Complete and store the client's treatment records in accordance with data legislation.</li><li>Provide appropriate post-treatment advice and guidance.</li></ul>",
+            "2.12": "Evaluate the treatment provided, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>Actions to be undertaken to implement improvement. </li></ul>"
+          }
+        }
+      }
+    },
+    "R/651/2498": {
+      "title": "Providing Body Massage Treatments Using Fundamental Techniques",
+      "data": ["2", "50", "45"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide body massage treatments using fundamental techniques.",
+          "questions": {
+            "1.1": "Explain why you must always work within your own competence when providing body massage treatments.",
+            "1.2": "Identify the absolute and relative contraindications for body massage treatments.",
+            "1.3": "Explain the purpose, use and limitations of body massage treatments, in relation to:<ul><li>Medical history.</li><li>Current medical conditions.</li></ul>",
+            "1.4": "Explain how the frequency of providing body massage treatments can impact on your own health and wellbeing, including:<ul><li>Ways in which risks to health and wellbeing can be avoided.</li><li>Avoidance of work-related injuries.</li><li>Maintaining own personal wellbeing.</li></ul>",
+            "1.5": "Describe the signs and symptoms of the following work-related injuries:<ul><li>Repetitive strain injury.</li><li>Postural.</li><li>Dermatitis.</li><li>Dehydration.</li><li>Fatigue.</li></ul>",
+            "1.6": "Explain the importance of maintaining your own posture and stance throughout a massage treatment.",
+            "1.7": "Explain how to maintain the client’s comfort and care throughout the treatment in accordance with the body massage.",
+            "1.8": "Explain the types, use, benefits and limitations of different massage mediums, including:<ul><li>Oil.</li><li>Cream.</li><li>Oil free.</li><li>Powder.</li></ul>",
+            "1.9": "Explain the types, use, benefits and limitations of different massage techniques, including:<ul><li>Effleurage.</li><li>Petrissage.</li><li>Tapotement.</li><li>Friction.</li></ul>",
+            "1.10": "Identify the signs and symptoms of the following adverse reactions:<ul><li>Hyperaemia.</li><li>Brusing.</li><li>Allergy.</li><li>Excessive healing response.</li></ul>",
+            "1.11": "Explain how body massage treatments can cause, and the correct response to, the following adverse reactions:<ul><li>Hyperaemia.</li><li>Brusing.</li><li>Allergy.</li><li>Excessive healing response.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide body massage treatments using fundamental techniques.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Carry out a concise and comprehensive consultation with the client, including discussion of:<ul><li>Treatment history.</li><li>Alternative treatment options.</li><li>Client’s objectives and expectations.</li><li>Fees and timescales.</li><li>Identification of contra-indications.</li></ul>",
+            "2.2": "Carry out tests and record the outcome, to establish suitability for treatment.",
+            "2.3": "Confirm and agree with the client that they understand the body massage treatment, including:<ul><li>Expected outcomes.</li><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Physical sensation of the treatment.</li></ul>",
+            "2.4": "Obtain and record the client’s informed consent for the body massage treatment.",
+            "2.5": "Carry out a skin and body analysis, including:<ul><li>Muscle tone.</li><li>Muscle tension.</li><li>Hair density.</li><li>Sluggish circulation.</li><li>Skin classification.</li><li>Skin condition.</li><li>Lax elasticity.</li><li>Posture.</li></ul>",
+            "2.6": "Provide the massage treatment, including:<ul><li>Selecting an appropriate massage medium.</li><li>Applying the massage medium, and carrying out an appropriate massage technique.</li><li>Maintaining own posture and stance.</li><li>Check the pressure, rhythm and flow of the massage with the client and adapt in accordance with the client’s needs.</li></ul>",
+            "2.7": "Monitor the client’s health, wellbeing and skin reaction during the treatment and implement the correct course of action in the event of an adverse reaction.",
+            "2.8": "Conclude the treatment, including:<ul><li>Confirm with the client that they are happy with the outcome of the treatment.</li><li>Complete and store the client’s treatment records in accordance with data legislation.</li><li>Provide appropriate post-treatment advice and guidance.</li></ul>",
+            "2.9": "Evaluate the treatment provided, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>Actions to be undertaken to implement improvement. </li></ul>"
+          }
+        }
+      }
+    },
+    "M/651/2423": {
+      "title": "Providing Manicure Services",
+      "data": ["2", "80", "55"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide manicure services.",
+          "questions": {
+            "1.1": "Explain the importance of working within your competence when providing manicure services.",
+            "1.2": "Identify relative and absolute contraindications for manicure services.",
+            "1.3": "Describe the signs and symptoms of contraindications for manicure services.",
+            "1.4": "Explain the purpose, use and limitations of manicure services in relation to:<ul><li>Past and current medical history.</li><li>Skin and nail condition.</li><li>Relevant lifestyle factors.</li><li>Client’s expectations.</li></ul>",
+            "1.5": "Explain how natural nail shape impacts the manicure treatment.",
+            "1.6": "Explain why it is important to carry out a nail and skin analysis to inform the treatment plan.",
+            "1.7": "Describe the manual techniques used in manicure treatments and how to adapt them for a client’s needs.",
+            "1.8": "Describe the types of hygiene products available for the skin.",
+            "1.9": "Describe the types, benefits and limitations of nail and skincare products and equipment used in manicures.",
+            "1.10": "Identify common allergens found in skincare products used in manicures.",
+            "1.11": "Describe the following massage techniques:<ul><li>Effleurage.</li><li>Petrissage.</li><li>Tapotement.</li><li>Frictions.</li></ul>",
+            "1.12": "Explain why it is important to clean and dry the natural nail prior to applying a nail finish.",
+            "1.13": "Describe the following nail finishes:<ul><li>Nail polish.</li><li>Glossing buffer.</li><li>Natural nail.</li><li>Nail strengthener.</li><li>French.</li><li>Dark colour.</li><li>Light colour.</li></ul>",
+            "1.14": "Describe the cause, symptoms and appropriate response to the following adverse reactions:<ul><li>Hyperaemia.</li><li>Allergic reaction.</li><li>Discolouration of the product.</li><li>Discolouration of the nail bed.</li><li>Discolouration of the nail plate.</li><li>Thinning of the nail plate.</li><li>Cuts and abrasions.</li><li>Brusing.</li><li>Lifting of the product.</li><li>Infection.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide manicure services.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Discuss and establish the service with the client, including:<ul><li>Nail concerns</li><li>Objectives, expectations, and desired outcome.</li><li>Treatment history.</li><li>Alternative treatment options.</li><li>Fees.</li><li>Service duration.</li></ul>",
+            "2.2": "Carry out a nail and skin analysis to determine:<ul><li>Skin condition.</li><li>Nail condition.</li><li>Length and shape of nail</li><li>Current nail finish.</li></ul>",
+            "2.3": "Identify and respond appropriately to any contra-indications.",
+            "2.4": "Confirm and agree with the client that they have understood the proposed service, including:<ul><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Associated risks.</li><li>The products to be used.</li><li>The desired length and shape of the nails.</li></ul>",
+            "2.5": "Obtain and record the client’s informed consent for the service.",
+            "2.6": "Prepare the treatment area, including removal of any existing product according to manufacturer’s instructions.",
+            "2.7": "Clip and shape the nails, ensuring a smooth free edge, including the following lengths and shapes:<ul><li>Long.</li><li>Mid-length.</li><li>Short.</li><li>Round.</li><li>Oval.</li><li>Square.</li><li>Squoval.</li><li>Almond.</li></ul>",
+            "2.8": "Select and use an appropriate exfoliator.",
+            "2.9": "Carry out cuticle work, including:<ul><li>Preparing a warm oil treatment.</li><li>Soaking the nails and cuticle.</li><li>Preparing cuticles in accordance with manufacturer’s instructions.</li><li>Using appropriate tools to remove cuticle from the visible nail plate without damaging the surrounding skin.</li></ul>",
+            "2.10": "Select and apply an appropriate massage medium, including:<ul><li>Oil.</li><li>Cream.</li><li>Oil free.</li></ul>",
+            "2.11": "Apply massage medium using appropriate massage techniques, including:<ul><li>Relaxation techniques.</li><li>Therapeutic techniques.</li><li>Effleurage.</li><li>Petrissage.</li><li>Tapotement.</li><li>Frictions.</li></ul>",
+            "2.12": "Carry out heat treatments, including:<ul><li>Selecting an appropriate mask treatment.</li><li>Selecting, preparing and applying an appropriate heat treatment</li><li>Using heated mitts.</li><li>Using paraffin wax.</li><li>Removing the mask product in accordance with manufacturer’s instructions.</li></ul>",
+            "2.13": "Prepare the nail plate for the nail finish.",
+            "2.14": "Apply the nail finish, including:<ul><li>Nail polish.</li><li>Glossing buffer.</li><li>Natural nail.</li><li>Nail strengthener.</li><li>French.</li><li>Dark colour.</li><li>Light colour.</li></ul>",
+            "2.15": "Maintain health and safety requirements throughout the service, including:<ul><li>Monitoring the client’s health, wellbeing and skin reaction.</li><li>Responding appropriately to any adverse effects.</li><li>Disposing of waste correctly.</li></ul>",
+            "2.16": "Confirm with the client that they are satisfied with the outcome of the service.",
+            "2.17": "Provide appropriate post treatment instructions.",
+            "2.18": "Record the outcome of the treatment in accordance with data legislation and organisational requirements.",
+            "2.19": "Carry out an evaluation of the service, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>How improvements will be made.</li></ul>"
+          }
+        }
+      }
+    },
+    "T/651/2425": {
+      "title": "Providing Pedicure Services",
+      "data": ["2", "80", "55"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide pedicure services.",
+          "questions": {
+            "1.1": "Explain the importance of working within your competence when providing pedicure services.",
+            "1.2": "Identify relative and absolute contraindications for pedicure services.",
+            "1.3": "Describe the signs and symptoms of contraindications for pedicure services.",
+            "1.4": "Explain the purpose, use and limitations of pedicure services in relation to:<ul><li>Past and current medical history.</li></ul><ul><li>Skin and nail condition.</li></ul><ul><li>Relevant lifestyle factors.</li></ul><ul><li>Client’s expectations.</li></ul>",
+            "1.5": "Explain how natural nail shape impacts the pedicure treatment.",
+            "1.6": "Explain why it is important to carry out a nail and skin analysis to inform the treatment plan.",
+            "1.7": "Explain how to prevent ingrowing toenails and how and when to refer to a medical professional.",
+            "1.8": "Describe the manual techniques used in pedicure treatments and how to adapt them for a client’s needs.",
+            "1.9": "Describe the types of hygiene products available for the skin.",
+            "1.10": "Describe the types, benefits and limitations of nail and skincare products and equipment used in pedicures.",
+            "1.11": "Identify common allergens found in skincare products used in pedicures.",
+            "1.12": "Describe the following massage techniques:<ul><li>Effleurage.</li></ul><ul><li>Petrissage.</li></ul><ul><li>Tapotement.</li></ul><ul><li>Frictions.</li></ul>",
+            "1.13": "Describe the physiological effects of massage techniques on the nails and skin.",
+            "1.14": "Explain why it is important to clean and dry the natural nail prior to applying a nail finish.",
+            "1.15": "Describe the following nail finishes:<ul><li>Nail polish.</li></ul><ul><li>Glossing buffer.</li></ul><ul><li>Natural nail.</li></ul><ul><li>Nail strengthener.</li></ul><ul><li>French.</li></ul><ul><li>Dark colour.</li></ul><ul><li>Light colour.</li></ul>",
+            "1.16": "Describe the cause, symptoms and appropriate response to the following adverse reactions:<ul><li>Hyperaemia.</li></ul><ul><li>Allergic reaction.</li></ul><ul><li>Discolouration of the product.</li></ul><ul><li>Discolouration of the nail bed.</li></ul><ul><li>Discolouration of the nail plate.</li></ul><ul><li>Thinning of the nail plate.</li></ul><ul><li>Cuts and abrasions.</li></ul><ul><li>Brusing.</li></ul><ul><li>Lifting of the product.</li></ul><ul><li>Infection.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide pedicure services.",
+          "isPratical": 1,
+          "questions": {
+              "2.1": "Discuss and establish the service with the client, including:<ul><li>Nail concerns.</li></ul><ul><li>Objectives, expectations, and desired outcome.</li></ul><ul><li>Treatment history.</li></ul><ul><li>Alternative treatment options.</li></ul><ul><li>Fees.</li></ul><ul><li>Service duration.</li></ul>",
+              "2.2": "Carry out a nail and skin analysis to determine:<ul><li>Skin condition.</li></ul><ul><li>Nail condition.</li></ul><ul><li>Length and shape of nail</li></ul><ul><li>Current nail finish.</li></ul>",
+              "2.3": "Identify and respond appropriately to any contra-indications.",
+              "2.4": "Confirm and agree with the client that they have understood the proposed service, including:<ul><li>Contra-actions.</li></ul><ul><li>Possible adverse reactions.</li></ul><ul><li>Associated risks.</li></ul><ul><li>The products to be used.</li></ul><ul><li>The desired length and shape of the nails.</li></ul>",
+              "2.5": "Obtain and record the client’s informed consent for the service.",
+              "2.6": "Prepare the treatment area, including removal of any existing product according to manufacturer’s instructions.",
+              "2.7": "Clip and shape the nails, ensuring a smooth free edge.",
+              "2.8": "Select and use an appropriate exfoliator.",
+              "2.9": "Carry out cuticle work, including:<ul><li>Preparing a warm oil treatment.</li></ul><ul><li>Soaking the nails and cuticle.</li></ul><ul><li>Preparing cuticles in accordance with manufacturer’s instructions.</li></ul><ul><li>Using appropriate tools to remove cuticle from the visible nail plate without damaging the surrounding skin.</li></ul>",
+              "2.10": "Select and apply an appropriate callus removal treatment to the underside of the feet.",
+              "2.11": "Select and apply an appropriate massage medium, including:<ul><li>Oil.</li></ul><ul><li>Cream.</li></ul><ul><li>Oil free.</li></ul>",
+              "2.12": "Apply massage medium using appropriate massage techniques, including:<ul><li>Relaxation techniques.</li></ul><ul><li>Therapeutic techniques.</li></ul><ul><li>Effleurage.</li></ul><ul><li>Petrissage.</li></ul><ul><li>Tapotement.</li></ul><ul><li>Frictions.</li></ul>",
+              "2.13": "Carry out heat treatments, including:<ul><li>Selecting an appropriate mask treatment.</li></ul><ul><li>Selecting, preparing and applying an appropriate heat treatment</li></ul><ul><li>Using heated boots.</li></ul><ul><li>Using paraffin wax.</li></ul><ul><li>Removing the mask product in accordance with manufacturer’s instructions.</li></ul>",
+              "2.14": "Prepare the nail plate for the nail finish.",
+              "2.15": "Apply the nail finish, including:<ul><li>Nail polish.</li></ul><ul><li>Glossing buffer.</li></ul><ul><li>Natural nail.</li></ul><ul><li>Nail strengthener.</li></ul><ul><li>French.</li></ul><ul><li>Dark colour.</li></ul><ul><li>Light colour.</li></ul>",
+              "2.16": "Maintain health and safety requirements throughout the service, including:<ul><li>Monitoring the client’s health, wellbeing and skin reaction.</li></ul><ul><li>Responding appropriately to any adverse effects.</li></ul><ul><li>Disposing of waste correctly.</li></ul>",
+              "2.17": "Confirm with the client that they are satisfied with the outcome of the service.",
+              "2.17a": "Provide appropriate post treatment instructions.",
+              "2.18": "Record the outcome of the treatment in accordance with data legislation and organisational requirements.",
+              "2.19": "Carry out an evaluation of the service, including:<ul><li>Areas of strength.</li></ul><ul><li>Areas for improvement.</li></ul><ul><li>How improvements will be made.</li></ul>"
+          }
+        }
+      }
+    }
+  }
+}
