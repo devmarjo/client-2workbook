@@ -1,0 +1,165 @@
+{
+  "version": "V1.1",
+  "versionDate": "August 2024",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/media/documents/ProQual-Level-2-Award-in-Body-Massage-Treatments.pdf",
+  "coverTitle": "Level 2 Award in Body Massage Treatments",
+  "coverImg": "/images/workbooks/cover/MASSAGE.png",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 2 Award in Body Massage Treatments</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your competencies in delivering body massage treatments.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Units:</h3><ul><li>Health and Safety in a Salon Environment</li><li>Carrying Out Client Consultation as a Beauty Professional</li><li>Providing Body Massage Treatments Using Fundamental Techniques</li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 2 Award in Body Massage Treatments</div><div><b>Qualification number:</b> 610/4536/6</div><div><b>Level:</b> 2</div><div><b>Total qualification time:</b> 90 hours</div><div><b>Guided learning hours:</b> 75 hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 02/09/2024</div><div><b>Qualification review date:</b> 02/09/2027</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "TQT", "GHL"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 1,
+      "units": [
+        "J/651/2395",
+        "K/651/2421",
+        "R/651/2498"
+      ]
+    }
+  ],
+  "unitsOptional":[],
+  "units": {
+    "J/651/2395": {
+      "title": "Health and Safety in a Salon Environment",
+      "data": ["2", "10", "10"],
+      "subUnits": {
+        "1": {
+          "title": "Prepare salon areas for treatment.",
+          "questions": {
+            "1.1": "Identify common hazards and risks in a salon environment.",
+            "1.2": "State the health and safety requirements for practitioners carrying out beauty treatments, including but not limited to:<ul><li>Health and Safety at Work Act.</li><li>The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR).</li><li>Manual Handling Operations Regulations.</li><li>Control of Substances Hazardous to Health Regulations (COSHH).</li></ul>",
+            "1.3": "Describe how to clean, disinfect and sterilise different types of tools and equipment.",
+            "1.4": "Explain the difference between sterilisation and disinfection.",
+            "1.5": "Explain why it is important to follow salon procedures and any given instructions when setting up tools and equipment for a given treatment.",
+            "1.6": "Describe the required environmental conditions for a given treatment, including:<ul><li>Lighting.</li><li>Heating.</li><li>Ventilation.</li><li>General Comfort.</li></ul>",
+            "1.7": "Explain why it is important that the above environmental conditions are provided.",
+            "1.8": "Explain why it is important to maintain personal hygiene, protection and appearance according to accepted industry and organisational standards.",
+            "1.9": "Explain the reasons and importance of keeping records of treatments."
+          }
+        },
+        "2": {
+          "title": "Maintain salon treatment areas.",
+          "questions": {
+            "2.1": "Explain how to safely dispose of waste materials and products from beauty treatments.",
+            "2.2": "Explain the requirements for re-stocking products and other items.",
+            "2.3": "Describe own responsibilities in relation to the storage of:<ul><li>Equipment.</li><li>Products.</li><li>Client Records.</li></ul>",
+            "2.4": "Describe how the work area should be left after a treatment.",
+            "2.5": "Explain why it is important to leave the work area in the condition described above."
+          }
+        },
+        "3": {
+          "title": "Be able to recognise contraindications of eyelash extension application",
+          "questions": {
+            "3.1": "Identify contraindications",
+            "3.2": "Describe procedures to be followed when contraindications are identified",
+            "3.3": "Describe situations when the application procedure should be stopped or postponed"
+          }
+        }
+      }
+    }, 
+    "K/651/2421": {
+      "title": "Carrying Out Client Consultation as a Beauty Professional",
+      "data": ["2", "30", "20"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to carry out a client consultation as a beauty professional.",
+          "questions": {
+            "1.1": "Explain the importance of taking account of:<ul><li>The client's declared medical history and current medical status.</li><li>The client's service history.</li><li>The client's service requirements.</li><li>The client's concerns, expectations and desired outcome.</li><li>The client's physical and psychological wellbeing.</li><li>Any contra-indications.</li></ul>",
+            "1.2": "Explain why it is important to work with competent professionals to support effective and safe working practice.",
+            "1.3": "Explain what is meant by the terms:<ul><li>Relative contra-indications.</li><li>Absolute contra-indications.</li></ul>",
+            "1.4": "Identify common relative and absolute contra- indications for common beauty services.",
+            "1.5": "Describe the visible symptoms of common contra-indications for beauty services.",
+            "1.6": "Explain the importance of referring contraindications and medical conditions to an appropriate professional.",
+            "1.7": "Explain why common medical conditions may contraindicate common beauty services.",
+            "1.8": "Explain the importance of communicating with the client:<ul><li>In a professional manner.</li><li>Within the limits of your own competencies.</li></ul>",
+            "1.9": "Describe the impact of social influences, the media and current trends on the consultation process.",
+            "1.10": "Explain why it is important to assess, discuss, agree, review and document the consultation outcomes.",
+            "1.11": "Explain the importance of clearly explaining the service process, expected outcomes and associated risks.",
+            "1.12": "Describe the benefits of using visual aids during consultation.",
+            "1.13": "Explain how to manage a client's expectations.",
+            "1.14": "Identify beauty services that may be prohibited or restricted for minors.",
+            "1.15": "Identify beauty services that require a test to be carried out before they are supplied.",
+            "1.16": "Explain the importance of carrying out pre- treatment tests.",
+            "1.17": "Describe the legislative requirements for gaining, recording, storing, protecting and retaining any client data.",
+            "1.18": "Describe the legislative and regulatory requirements for taking and storing visual media of the client's treatment area.",
+            "1.19": "Explain the client's rights, in relation to beauty services, including:<ul><li>Reflection time.</li><li>Informed consent.</li><li>Financial/contractual agreement.</li><li>The right to request the subject specific qualifications, training and indemnity insurance.</li></ul>",
+            "1.20": "Explain the importance of providing instructions and advice both pre and post the service."
+          }
+        },
+        "2": {
+          "title": "Carry out a client consultation as a beauty professional.",
+          "questions": {
+            "2.1": "Carry out a consultation, taking account of:<ul><li>The client's declared medical history and current medical status.</li><li>The client's service history.</li><li>The client's service requirements.</li><li>The client's concerns, expectations and desired outcome.</li><li>The client's physical and psychological wellbeing</li><li>Any contra-indications.</li></ul>",
+            "2.2": "Recognise, respond and sign-post appropriately in response to any disclosed conditions or contra-indications.",
+            "2.3": "Explain the fee structure.",
+            "2.4": "Provide the client with pre-treatment instructions and recommendations.",
+            "2.5": "Explain any associated risks to the client.",
+            "2.6": "Agree and document the consultation and expected service outcomes.",
+            "2.7": "Discuss any physical sensation that may occur during the service.",
+            "2.8": "Agree the service plan and obtain the client's informed consent for the treatment."
+          }
+        }
+      }
+    },
+    "R/651/2498": {
+      "title": "Providing Body Massage Treatments Using Fundamental Techniques",
+      "data": ["2", "50", "45"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how to provide body massage treatments using fundamental techniques.",
+          "questions": {
+            "1.1": "Explain why you must always work within your own competence when providing body massage treatments.",
+            "1.2": "Identify the absolute and relative contra- indications for body massage treatments.",
+            "1.3": "Explain the purpose, use and limitations of body massage treatments, in relation to:<ul><li>Medical history.</li><li>Current medical conditions.</li></ul>",
+            "1.4": "Explain how the frequency of providing body massage treatments can impact on your own health and wellbeing, including:<ul><li>Ways in which risks to health and wellbeing can be avoided.</li><li>Avoidance of work-related injuries.</li><li>Maintaining own personal wellbeing.</li></ul>",
+            "1.5": "Describe the signs and symptoms of the following work-related injuries:<ul><li>Repetitive strain injury.</li><li>Postural.</li><li>Dermatitis.</li><li>Dehydration.</li><li>Fatigue.</li></ul>",
+            "1.6": "Explain the importance of maintaining your own posture and stance throughout a massage treatment.",
+            "1.7": "Explain how to maintain the client’s comfort and care throughout the treatment in accordance with the body massage.",
+            "1.8": "Explain the types, use, benefits and limitations of different massage mediums, including:<ul><li>Oil.</li><li>Cream.</li><li>Oil free.</li><li>Powder.</li></ul>",
+            "1.9": "Explain the types, use, benefits and limitations of different massage techniques, including:<ul><li>Effleurage.</li><li>Petrissage.</li><li>Tapotement.</li><li>Friction.</li></ul>",
+            "1.10": "Identify the signs and symptoms of the following adverse reactions:<ul><li>Hyperaemia.</li><li>Brusing.</li><li>Allergy.</li><li>Excessive healing response.</li></ul>",
+            "1.11": "Explain how body massage treatments can cause, and the correct response to, the following adverse reactions:<ul><li>Hyperaemia.</li><li>Brusing.</li><li>Allergy.</li><li>Excessive healing response.</li></ul>"
+          }
+        },
+        "2": {
+          "title": "Provide body massage treatments using fundamental techniques.",
+          "questions": {                        
+            "2.1": "Carry out a concise and comprehensive consultation with the client, including discussion of:<ul><li>Treatment history.</li><li>Alternative treatment options.</li><li>Client’s objectives and expectations.</li><li>Fees and timescales.</li><li>Identification of contra-indications.</li></ul>",
+            "2.2": "Carry out tests and record the outcome, to establish suitability for treatment.",
+            "2.3": "Confirm and agree with the client that they understand the body massage treatment, including:<ul><li>Expected outcomes</li><li>Contra-actions.</li><li>Possible adverse reactions.</li><li>Physical sensation of the treatment.</li></ul>",
+            "2.4": "Obtain and record the client’s informed consent for the body massage treatment.",
+            "2.5": "Carry out a skin and body analysis, including:<ul><li>Muscle tone.</li><li>Muscle tension.</li><li>Hair density.</li><li>Sluggish circulation.</li><li>Skin classification.</li><li>Skin condition.</li><li>Lax elasticity.</li><li>Posture.</li></ul>",
+            "2.6": "Provide the massage treatment, including:<ul><li>Selecting an appropriate massage medium.</li><li>Applying the massage medium, and carrying out an appropriate massage technique.</li><li>Maintaining own posture and stance.</li><li>Check the pressure, rhythm and flow of the massage with the client and adapt in accordance with the client’s needs.</li></ul>",
+            "2.7": "Monitor the client’s health, wellbeing and skin reaction during the treatment and implement the correct course of action in the event of an adverse reaction.",
+            "2.8": "Conclude the treatment, including:<ul><li>Confirm with the client that they are happy with the outcome of the treatment.</li><li>Complete and store the client’s treatment records in accordance with data legislation.</li><li>Provide appropriate post-treatment advice and guidance.</li></ul>",
+            "2.9": "Evaluate the treatment provided, including:<ul><li>Areas of strength.</li><li>Areas for improvement.</li><li>Actions to be undertaken to implement improvement.</li></ul>"
+          }
+        }
+      }
+    }
+  }
+}
