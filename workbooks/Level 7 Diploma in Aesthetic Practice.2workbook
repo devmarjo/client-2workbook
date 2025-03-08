@@ -1,0 +1,277 @@
+{
+   "version":"V1.2",
+   "versionDate":"February 2025",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/media/documents/ProQual-Level-7-Diploma-in-Aesthetic-Practice~1.pdf",
+   "coverTitle":"Level 7 Diploma in Aesthetic Practice",
+   "coverImg":"/images/workbooks/cover/BOTOX.png",
+   "coverAcademyImg":"",
+   "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 7 Diploma in Aesthetic Practice</b>. This qualification is designed for professionals in the beauty and aesthetics industry seeking to develop and demonstrate their expertise in advanced aesthetic treatments, including botulinum toxin and dermal fillers. This program ensures that practitioners meet the highest standards of safety, ethics, and professional competency."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to achieving competency in aesthetic practice at Level 7.</li><li>Guide learners in gathering evidence to demonstrate proficiency in essential aesthetic procedures.</li><li>Support the organization and presentation of the required portfolio for assessment and certification.</li><li>Ensure that practitioners adhere to industry standards, legislation, and ethical considerations.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you must complete all mandatory units:</p><h3>Mandatory Units:</h3><ul><li>Consultation for Individualized Facial Aesthetic Treatments</li><li>Psychological Aspects of Facial Aesthetics</li><li>Values, Ethics, and Professionalism in Aesthetic Practice</li><li>Aesthetic Injectable Therapies for Facial Treatments with Botulinum Toxin</li><li>Aesthetic Injectable Therapies for Facial Treatments with Temporary Dermal Fillers</li><li>Management of Complications for Aesthetic Practice</li></ul><p>The workbook is divided into sections that correspond to these units, allowing you to work systematically towards your qualification.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Review the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities and include all required evidence, such as observation reports, assignments, and professional discussions.</li><li>Use this workbook to track progress and ensure all requirements are met before final assessment.</li><li>Refer to the provided resources and guidelines to maintain compliance with industry regulations and ethical standards.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification Title:</b> ProQual Level 7 Diploma in Aesthetic Practice</div><div><b>Qualification Number:</b> 610/4479/9</div><div><b>Level:</b> 7</div><div><b>Total Qualification Time (TQT):</b> 660 Hours</div><div><b>Guided Learning Hours (GLH):</b> 380 Hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual Verifiers</div><div><b>Qualification Start Date:</b> 02/09/2024</div><div><b>Qualification Review Date:</b> 02/09/2027</div>"
+    }
+   ],
+   "unitsColumnsData":[
+      "Unit Level",
+      "TQT",
+      "GHL"
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory units",
+         "qtyRequired":6,
+         "units":[
+            "R/651/2415",
+            "T/651/2416",
+            "Y/651/2417",
+            "A/651/2418",
+            "D/651/2419",
+            "J/651/2420"
+         ]
+      }
+   ],
+   "unitsOptional":[],
+   "units":{
+      "R/651/2415":{
+         "title":"Consultation for Individualized Facial Aesthetic Treatments",
+         "data":[
+            "7",
+            "120",
+            "100"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the importance of individualised consultation for facial aesthetic treatments.",
+               "questions":{
+                  "1.1":"Analyse how a “client centred approach” to aesthetic procedures can enhance the client experience.",
+                  "1.2":"Discuss the reasons why a physical examination of the client is essential proper to any aesthetic procedure.",
+                  "1.3":"Explain why it is important to only work within own competence and scope of practice.",
+                  "1.4":"Discuss how clients can be supported to make educated, voluntary decisions about their:<ul><li>Pre-treatment care.</li><li>Treatment.</li><li>Post-treatment care.</li></ul>",
+                  "1.5":"Explain the benefits of providing clients opportunities to reflect prior to embarking on aesthetic procedures.",
+                  "1.6":"Discuss the factors that dictate timescales, in relation to aesthetic treatments."
+               }
+            },
+            "2":{
+               "title":"Understand how to assess the suitability of a client for facial aesthetic procedures.",
+               "questions":{
+                  "2.1":"Explain the effects of ageing on a client’s facial characteristics and morphology.",
+                  "2.2":"Evaluate the impact of health conditions on carrying out facial aesthetic procedures."
+               }
+            },
+            "3":{
+              "title":"Assess the suitability of a client for aesthetic treatment and agree a treatment plan.",
+              "questions":{
+                  "3.1":"Obtain relevant information from the client.",
+                  "3.2":"Analyse a client’s aesthetic and medical history, including but not limited to:<ul><li>Making a determination on their suitability for aesthetic procedures.</li><li>Explaining why you have come to this determination.</li><li>Highlighting any factors that may prevent the process.</li></ul>",
+                  "3.3":"Discuss with the client the potential side effects, complications, and risks of the procedure.",
+                  "3.4":"Explain to the client how the any risks associated with the procedure will be mitigated.",
+                  "3.5":"Follow appropriate referral procedures, working within own competence and scope of practice.",
+                  "3.6":"Explore the range of support pathways, justifying choices as relevant to the client’s specialist needs.",
+                  "3.7":"Educate the client on the range of treatment options and how to optimize treatment outcomes."
+              }
+            }
+         }
+      },
+      "T/651/2416":{
+        "title":"Psychological Aspects of Facial Aesthetics",
+        "data":[
+            "7",
+            "80",
+            "30"
+        ],
+        "subUnits":{
+            "1":{
+              "title":"Understand the key factors that drive the global facial aesthetics industry.",
+              "questions":{
+                  "1.1":"Analyse the current trends in facial aesthetics and how these have changed over time.",
+                  "1.2":"Evaluate the key psychological factors that have driven the growth of the facial aesthetics market."
+              }
+            },
+            "2":{
+              "title":"Understand the psychology of self- image.",
+              "questions":{
+                  "2.1":"Discuss the impact of social and cultural influences on the perception of beauty.",
+                  "2.2":"Explain facial symmetry and discuss how it can influence an individual’s perception of beauty.",
+                  "2.3":"Analyse the reasons for rising levels of body dissatisfaction in the UK.",
+                  "2.4":"Analyse the effect of aesthetic procedures on self-image and psychological well-being."
+              }
+            },
+            "3":{
+              "title":"Understand the processes that can help recognise and shield clients with mental health issues.",
+              "questions":{
+                  "3.1":"Evaluate the variety of screen tools and techniques available and techniques used to identify potential mental health issues.",
+                  "3.2":"Assess the impact of legislation on the protection of vulnerable client groups.",
+                  "3.3":"Analyse the potential negative effects of carrying out facial aesthetic procedures on individuals with body dysmorphic disorders.",
+                  "3.4":"Evaluate the range of strategies that may be used to help manage post-procedural psychological issues."
+              }
+            }
+        }
+      },
+      "Y/651/2417":{
+        "title":"Values, Ethics and Professionalism in Aesthetic Practice",
+        "data":[
+            "7",
+            "80",
+            "30"
+        ],
+        "subUnits":{
+            "1":{
+              "title":"Understand legislation, guidance and professional standards in a clinical injectable therapy setting.",
+              "questions":{
+                  "1.1":"Describe the key regulations, standards and guidance relevant to aesthetic practice.",
+                  "1.2":"Discuss the limitations of placed on prescribing and administration of medicines relevant to cosmetic and aesthetic injectable practice."
+              }
+            },
+            "2":{
+              "title":"Understand the role of team working, leadership and management in a clinical injectable therapy setting.",
+              "questions":{
+                  "2.1":"Critically evaluate the factors involved in effective team working in a clinical practice."
+              }
+            }
+        }
+      },
+      "A/651/2418":{
+        "title":"Aesthetic Injectable Therapies for Facial Treatments with Botulinum Toxin",
+        "data":[
+            "7",
+            "150",
+            "100"
+        ],
+        "subUnits":{
+            "1":{
+              "title":"Understand the principles of botulinum toxin injections.",
+              "questions":{
+                  "1.1":"Describe the guidelines and treatment protocols for injecting botulinum toxin.",
+                  "1.2":"Explain, with examples, how to calculate the dosage of botulinum toxin required for different treatments.",
+                  "1.3":"Highlight and justify the required dosage of a range of botulinum toxin products in order to achieve the desired outcomes.",
+                  "1.4":"Assess the pharmacology of botulinum toxin, comparing the and contrasting its cosmetic and therapeutic indications.",
+                  "1.5":"Outline the guidelines for the reconstitution and storage of botulinum toxin products.",
+                  "1.6":"Analyse the effects of botulinum toxin on the body’s systemic circulation.",
+                  "1.7":"Evaluate the effects of botulinum toxin on neuromuscular transition.",
+                  "1.8":"Identify the anatomical landmarks which provide safe and most effective points of entry for injections.",
+                  "1.9":"Evaluate the importance of continuing care following botulinum toxin procedures.",
+                  "1.10":"Evaluate the importance of continuing care following botulinum toxin procedures.",
+                  "1.11":"Discuss solutions to situations where botulinum toxin procedures have led to undesired outcomes in relation to desired treatment outcomes.",
+                  "1.12":"Explain the role and effectiveness of reflective practice in a clinical setting."
+              }
+            },
+            "2":{
+              "isPratical": 1,
+              "title":"Carry out and provide injectable therapies for facial treatments with botulinum toxin.",
+              "questions":{
+                  "2.1":"Prepare the treatment area in accordance with treatment protocols, including marking out the treatment areas as appropriate.",
+                  "2.2":"Demonstrate adherence to manufacturer’s guidelines and treatment protocols for injecting botulinum toxin.",
+                  "2.3":"Demonstrate how to adjust botulinum dosage, administering techniques and product placement for an individualized treatment in observance of the treatment plan.",
+                  "2.4":"Following the prescribed prescription plan, administer botulinum toxin to the correct anatomical site, clearly injecting to the correct depth.",
+                  "2.5":"Ensure the client’s comfort and safety are maintained throughout the procedure.",
+                  "2.6":"Securely store client records, photographic evidence and client confidentiality documentation."
+              }
+            },
+            "3":{
+              "title":"Review client responses to botulinum toxin injections and provide post procedural guidance.",
+              "questions":{
+                  "3.1":"Make post-procedural recommendations on continuing care, justifying these recommendations with reference to:<ul><li>The treatment objectives.</li><li>The manufacturer’s guidelines.</li><li>Industry codes of practice.</li></ul>",
+                  "3.2":"Evaluate the importance of continuing care following botulinum toxin procedures.",
+                  "3.3":"Reflect on own practice, identifying areas of strength and weakness and producing an action plan for improvement."
+              }
+            }
+        }
+      },
+      "D/651/2419":{
+        "title":"Aesthetic Injectable Therapies for Facial Treatments with Temporary Dermal Fillers",
+        "data":[
+            "7",
+            "150",
+            "100"
+        ],
+        "subUnits":{
+            "1":{
+              "title":"Understand the principles of temporary dermal fillers injections.",
+              "questions":{
+                  "1.1":"Evaluate the use of, risks associated with and limitations of topical anaesthetics licenced in the UK.",
+                  "1.2":"Explain, with examples, how to calculate the required units and viscosity for dermal fillers to achieve desired outcomes for treatment.",
+                  "1.3":"Compare the pharmacological differences and clinical implications for temporary and permanent fillers.",
+                  "1.4":"Analyse the biochemistry of dermal fillers, explaining their cosmetic and therapeutic implications.",
+                  "1.5":"Identify facial anatomical landmarks for injections and product placement.",
+                  "1.6":"Analyse the purpose of aspiration and when to administer it.",
+                  "1.7":"Analyse the efficacy and safety of dermal fillers.",
+                  "1.8":"Discuss the legal, litigation and insurance implications of poor record keeping.",
+                  "1.9":"Evaluate the importance of continuing care following dermal filler procedures.",
+                  "1.10":"Discuss solutions for where dermal filler procedures have led to undesired outcomes in relation to desired treatment outcomes.",
+                  "1.11":"Justify the role and effectiveness of reflective practice in a clinical setting."
+              }
+            },
+            "2":{
+              "title":"Safely administer dermal filler injections to the face.",
+              "questions":{
+                  "2.1":"Prepare the treatment area in accordance with treatment protocols, including marking out the treatment areas as appropriate.",
+                  "2.2":"Demonstrate adherence to manufacturer’s guidelines and treatment protocols for injecting temporary dermal fillers.",
+                  "2.3":"Demonstrate how to adjust the dermal filler units and viscosity, techniques and product placement for an individualised treatment",
+                  "2.4":"Ensure the client’s comfort and safety are maintained throughout the procedure.",
+                  "2.5":"Securely store client records, photographic evidence and client confidentiality documentation."
+              }
+            },
+            "3":{
+              "title":"Review client responses to temporary dermal fillers injections and provide post procedural guidance.",
+              "questions":{
+                  "3.1":"Make post-procedural recommendations on continuing care, justifying these recommendations with reference to:<ul><li>The treatment objectives.</li><li>The manufacturer’s guidelines.</li><li>Industry codes of practice.</li></ul>",
+                  "3.2":"Evaluate the importance of continuing care following temporary dermal fillers procedures.",
+                  "3.3":"Reflect on own practice, identifying areas of strength and weakness and producing an action plan for improvement."
+              }
+            }
+        }
+      },
+      "J/651/2420":{
+        "title":"Management of Complications for Aesthetic Practice",
+        "data":[
+            "7",
+            "80",
+            "20"
+        ],
+        "subUnits":{
+            "1":{
+              "title":"Understand how to manage the risks and complications associated with administration of botulinum toxin.",
+              "questions":{
+                  "1.1":"Evaluate botulinum toxin and dermal filler potential risks and complications associated with administration.",
+                  "1.2":"Analyse the strategies available in managing a situation where the client suffers an adverse effect during and post-treatment for botulinum toxin and dermal filler.",
+                  "1.3":"Explain the guidance offered to clients on how to deal with common side effects of botulinum toxin and dermal filler procedures."
+              }
+            },
+            "2":{
+              "title":"Manage the risks associated with cosmetic/aesthetic injectable procedures.",
+              "questions":{
+                  "2.1":"Describe the fundamental principles of emergency management.",
+                  "2.2":"Evaluate the suitability and effectiveness of the systems and protocols in place to prevent a medical emergency associated with facial aesthetic procedures.",
+                  "2.3":"Evaluate the suitability and effectiveness of the systems and protocols in place to deal with a medical emergency associated with facial aesthetic procedures.",
+                  "2.4":"Justify the need for monitoring post-procedural communication and offering client advice, explaining the methods that are used to do this."
+              }
+            },
+            "3":{
+              "title":"Understand the importance of quality assurance for facial aesthetic service improvements and the systems and processes that are in place to support this.",
+              "questions":{
+                  "3.1":"Analyse how clinical audits can help to improve clinical performance.",
+                  "3.2":"Explain and justify the regulatory requirements for reporting safety concerns and adverse incidents that have been associated with botulinum toxin and dermal filler procedures."
+              }
+            }
+        }
+      }
+   }
+}
