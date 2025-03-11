@@ -1,0 +1,626 @@
+{
+  "version": "V1",
+  "versionDate": "May 2024",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/wp-content/uploads/2024/07/ProQual-Level-Five-Diploma-in-Teaching-Further-Education-and-Skills.pdf",
+  "coverTitle": "Level 5 Diploma in Teaching",
+  "coverImg": "/images/workbooks/cover/TEACHING.png",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 5 Diploma in Teaching (Further Education and Skills)</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your competencies in teaching within the further education and skills sector.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Units:</h3><ul><li>Teaching Your Subject</li><li>Learners and Learning</li><li>Teachers and Teaching</li><li>Professional Practice</li><li>Digital and Online Pedagogies</li></ul><h3>Optional Units (Choose Two):</h3><ul><li>Inclusive Teaching and Learning</li><li>Assessing Occupational and Vocational Skills</li><li>Principles of Quality Assurance</li><li>Mentoring and Coaching</li><li>Behaviour Management in the Further Education and Skills Classroom</li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 5 Diploma in Teaching (Further Education and Skills)</div><div><b>Ofqual qualification number:</b> 610/4229/8</div><div><b>Level:</b> 5</div><div><b>Total qualification time:</b> 1200</div><div><b>Guided learning hours:</b> 360</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 01/09/2024</div></div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level", "GHL", "Credits"],
+  "unitsMandatory":[
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 1,
+      "units": [
+        "R/651/1632",
+        "T/651/1633",
+        "Y/651/1634",
+        "A/651/1635",
+        "D/651/1636"
+      ]
+    }
+  ],
+  "unitsOptional":[
+    {
+      "groupName": "Optional Units – Candidates must complete TWO units in this group",
+      "qtyRequired": 2,
+      "units": [
+        "F/651/1637",
+        "H/651/1638",
+        "J/651/1639",
+        "M/651/1640",
+        "R/651/1641"
+      ],
+      "selected": []
+    }
+  ],
+  "units": {
+    "R/651/1632": {
+      "title": "Teaching Your Subject",
+      "data": ["5", "50", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand how a curriculum is constructed within own subject specialism.",
+          "questions": {
+            "1.1": "Explain why it is important for topics within a curriculum to be sequenced in a logical order.",
+            "1.2": "Explain how curricula related new knowledge to previous learning.",
+            "1.3": "Explain how curricula can be constructed to address gaps in previous learning.",
+            "1.4": "Identify difficult concepts and common misconceptions within own subject specialism.",
+            "1.5": "Explain how curricula are constructed to allow difficult concepts and common misconceptions to be addressed."
+          }
+        },
+        "2": {
+          "title": "Explore teaching methods within own subject specialism.",
+          "questions": {
+            "2.1": "Describe common teaching methods used within own subject specialism.",
+            "2.2": "Explain why the common teaching methods identified are used within own subject specialism.",
+            "2.3": "Evaluate the common teaching methods identified as methods for teaching own subject specialism.",
+            "2.4": "Describe recent innovations in teaching methods within own subject specialism.",
+            "2.5": "Describe teaching methods commonly used to teach difficult concepts and overcome common misconceptions.",
+            "2.6": "Explain teaching methods commonly used to teach difficult concepts and overcome common misconceptions.",
+            "2.7": "Describe ways of embedding numeracy and broader mathematical skills within the teaching of own subject specialism.",
+            "2.8": "Describe ways of embedding literacy and broader English skills within the teaching of own subject specialism."
+          }
+        },
+        "3": {
+          "title": "Understand prerequisite knowledge for students of own subject specialism.",
+          "questions": {
+            "3.1": "Identify prerequisite knowledge for students of own subject specialism.",
+            "3.2": "Describe sources of prerequisite knowledge for students of own specialism.",
+            "3.3": "Explain why some students may have gaps in prerequisite knowledge required for own subject specialism.",
+            "3.4": "Explain ways of addressing gaps in prerequisite knowledge for students of own subject specialism."
+          }
+        },
+        "4": {
+          "title": "Understand progression opportunities for students of own subject specialism.",
+          "questions": {
+            "4.1": "Identify common qualifications in own subject specialism.",
+            "4.2": "Explain career pathways available to students of own subject specialism.",
+            "4.3": "Identify any regulatory requirements for those wishing to pursue a career in own subject specialism."
+          }
+        },
+        "5": {
+          "title": "Understand ways to develop and maintain subject expertise.",
+          "questions": {
+            "5.1": "Identify strengths and weaknesses regarding knowledge of own subject area.",
+            "5.2": "Describe ways that teaching professionals within the Further Skills and Education sector maintain and develop own subject knowledge.",
+            "5.3": "Create a personal CPD plan that includes:<ul><li>Actions to address identified weaknesses in knowledge of own subject specialism.</li><li>Actions to maintain current knowledge of own subject specialism.</li></ul>"
+          }
+        }
+      }
+    },
+
+    "T/651/1633": {
+      "title": "Learners and Learning",
+      "data": ["5", "50", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand the needs of learners in the further education and skills sector.",
+          "questions": {
+            "1.1": "Describe ways of getting to know learners in the further education and skills sector.",
+            "1.2": "Describe the possible routes into further education for students of own subject specialism.",
+            "1.3": "Explain the importance of carrying out initial assessment of learners in the further education and skills sector.",
+            "1.4": "Evaluate at least three different methods of carrying out an initial assessment of learners in the further education and skills sector.",
+            "1.5": "Describe the potential barriers to learning for learners in the further education and skills sector."
+          }
+        },
+
+        "2": {
+          "title": "Support the needs of learners in the further education and skills sector.",
+          "questions": {
+            "2.1": "Describe how the five categories of SEND present barriers to learning:<ul><li>Cognition and learning.</li><li>Communication and interaction.</li><li>Sensory and/or physical.</li><li>Social, emotional, and mental health.</li><li>Medical conditions.</li></ul>",
+            "2.2": "Explain how the following strategies that can be used to support learners with SEND in the further education and skills sector:<ul><li>Scaffolding.</li><li>Metacognition.</li><li>Dual Coding.</li><li>Direct Instruction.</li><li>Individual Interventions.</li></ul>",
+            "2.3": "Explain at least two strategies that can be used to support learners to overcome non-SEND barriers to learning.",
+            "2.4": "Describe how to identify potential SEND needs in learners in the further education and skills sector.",
+            "2.5": "Describe how to refer learners for further internal support within the further education and skills sector.",
+            "2.6": "Describe how to refer learners for external support, within the context of the further education and skills sector.",
+            "2.7": "Describe ways to encourage all learners to be independent learners.",
+            "2.8": "Describe ways to encourage all learners to have high aspirations."
+          }
+        },
+
+
+
+
+
+        "3": {
+          "title": "Safeguard learners in the further education and skills sector.",
+          "questions": {
+            "3.1": "Explain what is meant by safeguarding.",
+            "3.2": "Explain what is meant by a “vulnerable adult”.",
+            "3.3": "Explain the importance of following and maintain safeguarding policies and good practice.",
+            "3.4": "Describe the signs of a potential safeguarding concern, within the context of the further education and skills sector.",
+            "3.5": "Explain the steps that would be followed if a potential safeguarding concern was identified, within the context of the further education and skills sector.",
+            "3.6": "Describe what is meant by an “inclusive classroom”.",
+            "3.7": "Explain how diversity and inclusion can be promoted within the further education and skills sector."
+          }
+        },
+
+
+
+
+        "4": {
+          "title": "Understand the impact of contemporary learning theory and neuroscience on teaching practice in the further education and skills sector.",
+          "questions": {
+            "4.1": "Describe the key characteristics of:<ul><li>Behaviourism.</li><li>Constructivism.</li><li>Cognitivism.</li></ul>",
+            "4.2": "Evaluate the impact of behaviourism on teaching methods, with reference to the further education and skills sector.",
+            "4.3": "Evaluate the impact of constructivism on teaching methods, with reference to the further education and skills sector.",
+            "4.4": "Evaluate the impact of cognitivism on teaching methods, with reference to the further education and skills sector."
+          }
+        }
+
+      }
+    },
+
+    "Y/651/1634": {
+      "title": "Teachers and Teaching",
+      "data": ["5", "50", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand the role of the teacher in the further education and skills sector.",
+          "questions": {
+            "1.1": "Describe the characteristics and qualities of a good teacher.",
+            "1.2": "Describe the skills of a good teacher.",
+            "1.3": "Explain the role of the teacher with respect to planning teaching and learning, within the context of the further education and skills sector.",
+            "1.4": "Explain the role of the teacher with respect to delivering teaching and learning, within the context of the further education and skills sector.",
+            "1.5": "Explain the role of the teacher with respect to assessing teaching and learning, within the context of the further education and skills sector.",
+            "1.6": "Explain the importance of being a reflective practitioner."
+          }
+        },
+        "2": {
+          "title": "Understand how teachers can work collaboratively to support learners in the further education and skills sector.",
+          "questions": {
+            "2.1": "Describe what is meant by collaborative learning.",
+            "2.2": "Describe ways of establishing a collaborative working relationship with colleagues, including but not limited to, other teachers, line managers and pastoral staff.",
+            "2.3": "Explain the importance of establishing a collaborative working relationship with colleagues, including but not limited to, other teachers, line managers and pastoral staff.",
+            "2.4": "Identify internal sources of support available to teachers in the further education and skills sector.",
+            "2.5": "Identify external sources of support available to teachers in the further education and skills sector."
+          }
+        },
+
+
+        "3": {
+          "title": "Plan for effective teaching and learning.",
+          "questions": {
+            "3.1": "Explain the key features of a learner-centred approach.",
+            "3.2": "Describe what is meant by the term “knowledge rich curriculum”.",
+            "3.3": "Identify the key features of a scheme of work.",
+            "3.4": "Produce a short scheme of work for a topic within own subject specialism.",
+            "3.5": "Discuss the impact of learning theories on the features of a scheme of work within own subject specialism.",
+            "3.6": "Identify the key features of a lesson plan.",
+            "3.7": "Produce a lesson plan for a single topic within own subject specialism.",
+            "3.8": "Discuss the impact of learning theories on the planned teaching methods and strategies, within own subject specialism.",
+            "3.9": "Explain how teaching and learning resources can be developed to meet learner needs, including:<ul><li>SEND needs.</li><li>The needs of EAL students.</li><li>The needs of students with other barriers to learning.</li></ul>",
+            "3.10": "Produce an example resource for a single topic, within subject specialism, that is designed to meet a specific learner need.",
+            "3.11": "Discuss how maths, English and digital skills can be embedded when planning teaching and learning within own subject specialism.",
+            "3.12": "Discuss how classroom management and teacher expectations of learners can be planned for when planning teaching and learning within own subject specialism.",
+            "3.13": "Evaluate the effectiveness of face-to-face and remote methods of delivering teaching and learning."
+
+          }
+        },
+
+
+
+        "4": {
+          "title": "Understand the role of assessment for learning.",
+          "questions": {
+            "4.1": "Describe the different types of assessment, including:<ul><li>Diagnostic assessment.</li><li>Formative assessment.</li><li>Summative assessment.</li></ul>",
+            "4.2": "Describe at least four different methods of assessment, within the context of the further education and skills sector.",
+            "4.3": "Evaluate the effective of at least four different methods of assessment within own subject specialism and within the context of the further education and skills sector.",
+            "4.4": "Explain how the results of formative assessment can be used to plan future teaching and learning, including:<ul><li>Changes to a lesson in progress.</li><li>The planning of future lessons.</li></ul>",
+            "4.5": "Identify the features of effective feedback to students of own subject specialism, within the context of the further education and skills sector.",
+            "4.6": "Discuss the impact and importance of effective feedback to students of own subject specialism, within the context of the further education and skills sector.",
+            "4.7": "Explain what is meant by the following terms, in regard to assessment:<ul><li>Reliability.</li><li>Fairness.</li><li>Validity.</li></ul>",
+            "4.8": "Explain how the authenticity of assessment can be established.",
+            "4.9": "Describe the types of reasonable adjustments and special consideration and when these might be applied to assessment."
+          }
+        }
+
+      }
+    },
+
+    "A/651/1635": {
+      "title": "Professional Practice",
+      "data": ["5", "100", "30"],
+      "subUnits": {
+        "1": {
+          "title": "Prepare for a placement within the further education and skills sector.",
+          "questions": {
+            "1.1": "Plan the delivery of a micro-teach to a peer-group.",
+            "1.2": "Deliver a micro-teach to a peer group.",
+            "1.3": "Reflect on a micro-teach to a peer group, including a discussion of:<ul><li>Assessor feedback.</li><li>Peer feedback.</li><li>Self-evaluation.</li></ul>",
+            "1.4": "Identify areas of development within own practice, following a micro-teach to a peer group.",
+            "1.5": "Discuss how areas of weakness within own practice can be developed, following a micro-teach to a peer group.",
+            "1.6": "Identify the following information in regard to both the First Placement and the Second Placement:<ul><li>Name of placement provider.</li><li>Name and position of Subject Mentor.</li><li>Name and position of Pastoral Mentor.</li><li>Contact details for the Subject and Pastoral Mentors.</li><li>Own role and responsibilities when on the placement.</li></ul>"
+          }
+        },
+
+
+
+        "2": {
+          "title": "Plan, deliver and assess teaching and learning within own subject specialism, in the further education and skills sector.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Observe an experienced teacher within own subject specialism in the further education and skills sector. The observation process should include:<ul><li>Own notes of the observation.</li><li>A professional discussion with the observed teacher.</li><li>Reflection on own practice following the observation.</li></ul>",
+            "2.2": "Produce schemes of work for topics within own subject specialism, for delivery within the further education and skills sector.",
+            "2.3": "Review schemes of work for topics within own subject specialism, for delivery within the further education and skills sector.",
+            "2.4": "Produce lesson plans for topics within own subject specialism, for delivery within the further education and skills sector.",
+            "2.5": "Adapt lesson plans to meet the needs of individual learners.",
+            "2.6": "Demonstrate evidence based teaching methods, as appropriate to own subject specialism within the further education and skills sector.",
+            "2.7": "Demonstrate adaptations to delivery of teaching and learning in order to meet learner’s individual needs.",
+            "2.8": "Reflect on own delivery of teaching and learning, including a discussion of:<ul><li>Assessor feedback.</li><li>Self-evaluation.</li></ul>",
+            "2.9": "Plan assessment of teaching and learning for students of own subject specialism, within the further education and skills sector. This should include planning for:<ul><li>Diagnostic assessment.</li><li>Formative assessment.</li><li>Summative assessment.</li></ul>",
+            "2.10": "Carry out assessment of teaching and learning for students of own subject specialism, within the further education and skills sector. This should include:<ul><li>Diagnostic assessment.</li><li>Formative assessment.</li><li>Summative assessment.</li></ul>",
+            "2.11": "Provide feedback to students of own subject specialism, following an assessment.",
+            "2.12": "Provide advice and guidance to students of own subject specialism, following an assessment.",
+            "2.13": "Demonstrate appropriate behaviour management techniques with learners in the further education and skills sector.",
+            "2.14": "Evaluate behaviour management techniques within the further education and skills sector."
+          }
+        },
+
+
+
+        "3": {
+          "title": "Understand the impact of standards and regulation within own subject specialism.",
+          "questions": {
+            "3.1": "Discuss the content of the occupational standards for own subject specialism.",
+            "3.2": "Explain any relevant regulations related to own subject specialism.",
+            "3.3": "Explain the impact of occupational standards and regulations for own subject specialism on own teaching practice.",
+            "3.4": "Discuss the impact of CPD on own teaching practice.",
+            "3.5": "Evaluate own collaborative relationships with colleagues in the further education and skills sector.",
+            "3.6": "Discuss ways to gain and maintain professional status as a teacher."
+          }
+        },
+
+
+
+        "4": {
+          "title": "Understand the further education and skills sector.",
+          "questions": {
+            "4.1": "Discuss the role of different types of provider within the further education and skills sector, including:<ul><li>Colleges.</li><li>Independent training providers.</li><li>Adult education centres.</li><li>Community and voluntary organisations.</li></ul>",
+            "4.2": "Discuss the range of courses, qualifications and learning programmes offered within the further education and skills sector.",
+            "4.3": "Discuss current government policy relating to the further education and skills sector.",
+            "4.4": "Explain the current funding arrangements within the further education and skills sector, including:<ul><li>Apprenticeship funding.</li><li>14-19 funding.</li><li>Adult funding.</li></ul>",
+            "4.5": "Discuss the role of the following organisations, as they relate to the further education and skills sector:<ul><li>Ofsted.</li><li>Ofqual.</li><li>Awarding Organisations.</li></ul>",
+            "4.6": "Explain current legislation and regulations relating to the further education and skills sector, including but not limited to: <ul><li>Prevent.</li><li>Safeguarding.</li><li>Health and Safety.</li><li>GDPR.</li></ul>",
+            "4.7": "Discuss internal support available to the further education and skills sector, including internal quality assurance and HR staff.",
+            "4.8": "Discuss external support available to the further education and skills sector, including occupational health and unions."
+          }
+        }
+      }
+    },
+
+    "D/651/1636": {
+      "title": "Digital and Online Pedagogies",
+      "data": ["5", "50", "15"],
+      "subUnits": {
+
+        "1": {
+          "title": "Explore own, personal digital skills.",
+          "questions": {
+            "1.1": "Identify a range of digital skills that are required to teach effectively in the further education and skills sector.",
+            "1.2": "Evaluate own digital skills, including an identification of areas of strength or weakness.",
+            "1.3": "Produce a plan to develop own areas of weakness, with regards to digital skills."
+          }
+        },
+        "2": {
+          "title": "Understand the role and impact of digital technologies within the further education and skills sector.",
+          "questions": {
+            "2.1": "Identify a range, of at least four, digital tools that can be used to support learning in own subject specialism within the further education and skills sector.",
+            "2.2": "Evaluate a range, of at least four, digital tools that can be used to support learning in own subject specialism within the further education and skills sector.",
+            "2.3": "Identify a range, of at least four, digital tools that can be used to support assessment in own subject specialism within the further education and skills sector.",
+            "2.4": "Evaluate a range, of at least four, digital tools that can be used to support assessment in own subject specialism within the further education and skills sector.",
+            "2.5": "Explain how digital tools can be used store and track learner’s progress within the further education and skills sector.",
+            "2.6": "Evaluate the use of digital tools to develop learner autonomy in own subject specialism within the further education and skills sector.",
+            "2.7": "Evaluate the use of digital tools to develop learner collaboration in own subject specialism within the further education and skills sector."
+          }
+        },
+
+
+
+        "3": {
+          "title": "Understand the impact of artificial intelligence, augmented reality and virtual reality in the further education and skills sector.",
+          "questions": {
+            "3.1": "Describe what is meant by:<ul><li>Artificial Intelligence.</li><li>Augmented reality.</li><li>Virtual reality.</li></ul>",
+            "3.2": "Discuss how artificial intelligence, augmented reality and virtual reality can be used to deliver teaching and learning in own subject specialism within the further education and skills sector.",
+            "3.3": "Evaluate the risks of artificial intelligence, augmented reality, and virtual reality in the context of the further education and skills sector."
+          }
+        },
+
+
+
+        "4": {
+          "title": "Understand how the use of digital technologies is managed within the further education and skills sector.",
+          "questions": {
+            "4.1": "Identify potential barriers to the use of digital technologies in own subject specialism, within the further education and learning sector.",
+            "4.2": "Discuss ways to overcome potential barriers to the use of digital technologies in own subject specialism, within the further education and learning sector.",
+            "4.3": "Discuss the importance of following safeguarding, Prevent and GDPR policies when using digital technologies within the further education and learning sector.",
+            "4.4": "Explain how the inappropriate use of digital technologies can be managed within the further education and skills sector."
+          }
+        }
+      }
+    },
+
+    "F/651/1637": {
+      "title": "Inclusive Teaching and Learning",
+      "data": ["5", "30", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand factors that create barriers to learning.",
+          "questions": {
+
+            "1.1": "Describe the five types of SEND need:<ul><li>Cognition and learning.</li><li>Communication and interaction.</li><li>Sensory and/or physical.</li><li>Social, emotional, and mental health.</li><li>Medical conditions.</li></ul>",
+            "1.2": "Explain how a SEND need in relation to cognition and learning can present barriers to learning.",
+            "1.3": "Explain how a SEND need in relation to communication and interaction can present barriers to learning.",
+            "1.4": "Explain how a SEND need in relation to a sensory and/or physical need can present barriers to learning.",
+            "1.5": "Explain how a SEND need in relation to social, emotional and mental health can present barriers to learning.",
+            "1.6": "Explain how medical conditions can present barriers to learning.",
+            "1.7": "Explain how social and cultural factors can present barriers to learning.",
+            "1.8": "Explain how having a first language other than English can present barriers to learning."
+          }
+        },
+
+
+        "2": {
+          "title": "Understand own role in delivering inclusive teaching and learning.",
+          "questions": {
+            "2.1": "Summarise the responsibilities of teacher, with regards to meeting the needs of all learners.",
+            "2.2": "Explain strategies that can be used to support learners with a range of cognition and learning related SEND needs, with reference to at least:<ul><li>Reading, writing, and spelling.</li><li>Numerosity.</li><li>Comprehension.</li><li>Working memory.</li><li>Processing difficulties.</li></ul>",
+            "2.3": "Explain strategies that can be used to support learners with communication and interaction related SEND needs, with reference to at least: <ul><li>Supporting learners understand what is being said to them.</li><li>Supporting learners to say what they want to say.</li><li>Supporting learners who don’t understand or use social rules.</li></ul>",
+            "2.4": "Explain strategies that can be used to support learners with sensory and/or physical related SEND needs, with reference to at least:<ul><li>Visual impairments.</li><li>Hearing impairments.</li></ul>",
+            "2.5": "Explain strategies that can be used to support learners with social, emotional, and mental health related SEND needs, with reference to at least:<ul><li>Anxiety.</li><li>Challenging behaviours.</li><li>Antipathy.</li><li>Struggles with attention.</li></ul>",
+            "2.6": "Explain strategies that can be used to support learners with medical conditions, with reference to at least two named medical conditions.",
+            "2.7": "Explain strategies that can be used to support learners with social and cultural barriers to learning.",
+            "2.8": "Explain strategies that can be used to support learners who speak English as an additional language.",
+            "2.9": "Describe the relationship between the role of the teacher, and the role of other professionals, with regards to supporting learners to overcome barriers to learning.",
+            "2.10": "Describe what is meant by equality and diversity.",
+            "2.11": "Evaluate strategies for promoting equality and diversity in the further education and skills classroom."
+          }
+        },
+    
+        "3": {
+          "title": "Understand legislation and regulation relating to inclusive teaching and learning.",
+          "questions": {
+            "3.1": "Summarise the current legislation relating to learners with SEND needs.",
+            "3.2": "Summarise the current legislation relating to inclusive practice.",
+            "3.3": "Summarise the current regulatory frameworks relating to learners with SEND needs.",
+            "3.4": "Summarise the current regulatory frameworks relating to inclusive practice.",
+            "3.5": "Explain how the current legislation and regulatory frameworks impact providers of education and training in the further education and skills sector.",
+            "3.6": "Explain how the current legislation and regulatory frameworks impact individual practice within the further education and skills sector."
+          }
+        }
+
+      }
+    },
+
+    "H/651/1638": {
+      "title": "Assessing Occupational and Vocational Skills",
+      "data": ["5", "30", "15"],
+      "subUnits": {
+
+
+        "1": {
+          "title": "Understand methods used to assess occupational and vocational skills.",
+          "questions": {
+            "1.1": "Compare “occupational skills” and “vocational skills”.",
+            "1.2": "Describe how the following methods can be used to make assessment decisions about a learner’s occupational and/or vocational skills:<ul><li>Observation of performance in the workplace.</li><li>Observation of performance in a simulated environment.</li><li>Professional discussions with a learner.</li><li>Oral questioning of a learner.</li><li>Witness testimony.</li><li>Examination of products of work.</li><li>Written work produced by the learner.</li><li>Recognition of prior learning.</li></ul>",
+            "1.3": "Evaluate the following methods of making assessment decisions about a learner’s occupational and/or vocational skills:<ul><li>Observation of performance in the workplace.</li><li>Observation of performance in a simulated environment.</li><li>Professional discussions with a learner.</li><li>Oral questioning of a learner.</li><li>Witness testimony.</li><li>Examination of products of work.</li><li>Written work produced by the learner.</li><li>Recognition of prior learning.</li></ul>"
+          }
+        },
+
+
+        "2": {
+          "title": "Make assessment decisions about a learner’s occupational and/or vocational skills.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Produce a plan(s) to carry out assessment of occupational and/or vocational skills, using the following methods:<ul><li>Observation of performance in the workplace.</li><li>Observation of performance in a simulated environment.</li><li>Professional discussions with a learner.</li><li>Oral questioning of a learner.</li><li>Witness testimony.</li><li>Examination of products of work.</li><li>Written work produced by the learner.</li><li>Recognition of prior learning.</li></ul>",
+            "2.2": "Communicate the requirements and processes of assessment with learners.",
+            "2.3": "Make fair and valid assessment decisions about learners occupational and/or vocational skills using the following methods: <ul><li>Observation of performance in the workplace.</li><li>Observation of performance in a simulated environment.</li><li>Professional discussions with a learner.</li><li>Oral questioning of a learner.</li><li>Witness testimony.</li><li>Examination of products of work.</li><li>Written work produced by the learner.</li><li>Recognition of prior learning.</li></ul>",
+            "2.4": "Provide feedback to leaners that affirms their learning and allows them to develop their skills.",
+            "2.5": "Evaluate own performance at carrying out assessment of occupational and/or vocational skills, including a discussion of:<ul><li>Assessor feedback.</li><li>Self-evaluation.</li></ul>"
+          }
+        },
+
+
+
+
+        "3": {
+          "title": "Understand good practice with regards to assessing occupational and vocational skills.",
+          "questions": {
+
+            "3.1": "Describe what records should be kept when carrying out assessment of occupational and/or vocational skills.",
+            "3.2": "Maintain appropriate records of assessment of occupational and/or vocational skills.",
+            "3.3": "Explain the importance of maintaining confidentiality of assessment records relating to occupational and/or vocational skills.",
+            "3.4": "Explain the importance of standardisation in relation to the assessment of occupational and/or vocational skills.",
+            "3.5": "Take part in standardisation of assessment decisions of occupational and/or vocational skills.",
+            "3.6": "Explain what is meant by a “reasonable adjustment” in relation to the assessment of occupational and/or vocational skills."
+
+          }
+        }
+      }
+    },
+
+    "J/651/1639": {
+      "title": "Principles of Quality Assurance",
+      "data": ["5", "30", "15"],
+      "subUnits": {
+
+        "1": {
+          "title": "Understand the principles of internal quality assurance.",
+          "questions": {
+            "1.1": "Explain the importance of carrying out internal quality assurance.",
+            "1.2": "Explain the roles of the assessor and internal quality verifier in relation to internal quality assurance.",
+            "1.3": "Explain the internal quality assurance requirements of at least two awarding bodies that offer qualifications in own subject specialism.",
+            "1.4": "Describe the preparations that need to be made for internal quality assurance.",
+            "1.5": "Explain the importance of planning and preparing for internal quality assurance.",
+            "1.6": "Explain the value of reflective practice and continuing professional development in relation to internal quality assurance."
+          }
+        },
+
+
+
+
+        "2": {
+          "title": "Carry out internal quality assurance.",
+          "isPratical": 1,
+          "questions": {
+            "2.1": "Produce a plan for internal quality assurance.",
+            "2.2": "Carry out internal quality assurance, taking account of:<ul><li>Determining whether assessment decisions are safe, fair, valid and reliable.</li><li>Determining whether assessment decisions were made using the specified criteria.</li><li>Consistency of assessment decisions across an assessment team.</li></ul>",
+            "2.3": "Provide feedback to assessors that affirms good practice, and enables them to develop the quality of assessment.",
+            "2.4": "Maintain appropriate records of internal quality assurance."
+          }
+        },
+
+
+
+        "3": {
+          "title": "Understand the principles of external quality assurance.",
+          "questions": {
+            "3.1": "Explain the importance of carrying out external quality assurance.",
+            "3.2": "Explain the roles of the assessor, internal quality verifier and external quality verifier in relation to external quality assurance.",
+            "3.3": "Explain the external quality assurance requirements of at least two awarding bodies that offer qualifications in own subject specialism.",
+            "3.4": "Describe the preparations that need to be made for external quality assurance.",
+            "3.5": "Explain the importance of planning and preparing for external quality assurance.",
+            "3.6": "Explain the value of reflective practice and continuing professional development in relation to external quality assurance."
+          }
+        }
+      }
+    },
+
+    "M/651/1640": {
+      "title": "Mentoring and Coaching",
+      "data": ["5", "30", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand the importance of mentoring and coaching.",
+          "questions": {
+
+            "1.1": "Explain the benefits of mentoring and coaching for organisations.",
+            "1.2": "Explain the benefits of mentoring and coaching for individuals.",
+            "1.3": "Describe the difference between mentoring and coaching.",
+            "1.4": "Explain the situations where mentoring would be more suitable than coaching.",
+            "1.5": "Explain the situations where coaching would be more suitable than mentoring.",
+            "1.6": "Describe potential barriers to mentoring and coaching.",
+            "1.7": "Explain how barriers to mentoring and coaching can be overcome."
+
+          }
+        },
+
+
+
+        "2": {
+          "title": "Understand the role of a mentor.",
+          "questions": {
+            "2.1": "Explain the role of a mentoring agreement.",
+            "2.2": "Explain the skills and qualities required by a mentor.",
+            "2.3": "Explain how own values, attitudes and emotional awareness can impact on the mentoring role.",
+            "2.4": "Evaluate methods for building a relationship between mentor and mentee.",
+            "2.5": "Explain the responsibilities of a mentor with regards to:<ul><li>Data protection.</li><li>Privacy.</li><li>Confidentiality.</li><li>Safeguarding.</li></ul>",
+            "2.6": "Describe what is meant by a “safe and comfortable” mentoring environment.",
+            "2.7": "Identify internal and external sources of support for mentors.",
+            "2.8": "Evaluate methods for identifying, agreeing, and measuring outcomes and goals between a mentor and mentee.",
+            "2.9": "Explain the responsibilities for the mentee in regard to their autonomy for making changes.",
+            "2.10": "Explain why it is important for mentors to be reflective practitioners."
+          }
+        },
+
+
+
+        "3": {
+          "title": "Understand the role of a coach.",
+          "questions": {
+            "3.1": "Explain the role of a coaching agreement.",
+            "3.2": "Explain the skills and qualities required by a coach.",
+            "3.3": "Explain how own values, attitudes and emotional awareness can impact on the coaching role.",
+            "3.4": "Evaluate methods for building a relationship between coach and coachee.",
+            "3.5": "Explain the responsibilities of a coach with regards to:<ul><li>Data protection.</li><li>Privacy.</li><li>Confidentiality.</li><li>Safeguarding.</li></ul>",
+            "3.6": "Describe what is meant by a “safe and comfortable” coaching environment.",
+            "3.7": "Identify internal and external sources of support for coaches.",
+            "3.8": "Evaluate methods for identifying, agreeing and measuring outcomes and goals between a coach and coachee.",
+            "3.9": "Explain the responsibilities for the coachee in regard to their autonomy for making changes.",
+            "3.10": "Explain why it is important for coaches to be reflective practitioners."
+          }
+        }
+      }
+    },
+
+    "R/651/1641": {
+      "title": "Behaviour Management in the Further Education and Skills Classroom",
+      "data": ["5", "30", "15"],
+      "subUnits": {
+        "1": {
+          "title": "Understand the impact of behaviours in the further education and skills classroom.",
+          "questions": {
+            "1.1": "Describe the positive behaviours that learners can present in the further education and skills classroom.",
+            "1.2": "Describe the negative behaviours that learners can present in the further education and skills classroom.",
+            "1.3": "Explain the impact of positive behaviours on:<ul><li>The learner exhibiting the behaviour.</li><li>Other learners.</li><li>The teacher/trainer/assessor.</li><li>The education/training provider.</li></ul>",
+            "1.4": "Explain the impact of negative behaviours on:<ul><li>The learner exhibiting the behaviour.</li><li>Other learners.</li><li>The teacher/trainer/assessor.</li><li>The education/training provider.</li></ul>"
+          }
+        },
+
+
+
+        "2": {
+          "title": "Understand the factors that influence behaviours in the further education and skills classroom.",
+          "questions": {
+            "2.1": "Describe the factors that can influence the behaviour of learners in the further education and skills classroom.",
+            "2.2": "Explain how the identified factors can positively influence the behaviour of a learner.",
+            "2.3": "Explain how the identified factors can negatively influence the behaviour of a learner.",
+            "2.4": "Analyse which factors have the largest influence on the behaviour of a leaner in the further education and skills classroom."
+          }
+        },
+
+
+        "3": {
+          "title": "Understand how to manage behaviours in the further education and skills classroom.",
+          "questions": {
+            "3.1": "Summarise the following theories of behaviour management:<ul><li>Behaviourist.</li><li>Cognitive.</li><li>Democratic.</li><li>Humanistic.</li><li>Pragmatist.</li></ul>",
+            "3.2": "Explain the impact of behaviour management theories on practical behaviour management in the further education and skills classroom.",
+            "3.3": "Evaluate the use of behaviour management theories in the further education and skills classroom.",
+            "3.4": "Discuss methods used to establish a calm and purposeful learning environment in the further education and skills classroom.",
+            "3.5": "Discuss methods used to minimise and pre-empt negative behaviours in the further education and skills classroom.",
+            "3.6": "Discuss methods used to address negative behaviours in the further education and skills classroom.",
+            "3.7": "Evaluate own behaviour management practice, including a discussion of:<ul><li>Assessor feedback.</li><li>Self-evaluation.</li></ul>",
+            "3.8": "Produce an action plan to improve own areas of weakness relating to behaviour management.",
+            "3.9": "Explain why it is important to be a reflective practitioner in regard to behaviour management in the further education and skills classroom."
+          }
+        },
+
+
+        "4": {
+          "title": "Understand the role of legislation, regulation, and policy in behaviour management.",
+          "questions": {
+            "4.1": "Summarise the current legislation and regulatory guidelines which impact behaviour management in the further education and skills sector, including:<ul><li>Keeping Children Safe in Education.</li><li>The Prevent Duty.</li><li>The Children’s Act.</li><li>The Equality Act.</li><li>Human rights legislation.</li><li>The Ofsted inspection framework.</li><li>Health and safety legislation.</li></ul>",
+            "4.2": "Explain how current legislation and regulatory guidelines impact the practice of behaviour management in the further education and skills classroom.",
+            "4.3": "Identify the policies a provider of further education or training should have in place in relation to behaviour management.",
+            "4.4": "Explain the policies a provider of further education or training should have in place in relation to behaviour management.",
+            "4.5": "Explain the importance of applying policies relating to behaviour management in a fair and consistent manner."
+          }
+        }
+      }
+    }
+  }
+}
