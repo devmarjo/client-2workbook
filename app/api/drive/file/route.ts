@@ -9,12 +9,17 @@ async function getTokenScopes(accessToken: string) {
       version: "v2",
       auth: auth, // Usar o auth que já tem o token
   });
-
   try {
-      const res = await oauth2.tokeninfo({ access_token: accessToken });
-      console.log("Escopos disponíveis:", res.data.scope);
-  } catch (error) {
-      console.error("Erro ao obter escopos:", error || error);
+    const res = await oauth2.tokeninfo({ access_token: accessToken });
+    console.log("Escopos disponíveis:", res.data.scope);
+    return res.data.scope;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  } catch (error: any ) {
+    console.error("Erro ao obter escopos:", error);
+    if (error?.response && error?.response?.status === 400) {
+      throw new Error("Access token expirado");  // Lançar erro em vez de retornar
+    }
+    throw new Error("Erro ao validar token");
   }
 }
 
@@ -92,8 +97,12 @@ export async function PUT(req: NextRequest) {
     });
 
     return NextResponse.json({ success: true, message: "Arquivo atualizado com sucesso" });
-  } catch (error) {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  } catch (error: any) {
     console.log(error)
+    if (error?.message === "Access token expirado") {
+      return NextResponse.json({ error: "Access token expirado" }, { status: 401 });
+    }
     return NextResponse.json({ error: "Erro ao atualizar o arquivo", details: error }, { status: 500 });
   }
 }

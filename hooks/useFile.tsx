@@ -40,8 +40,8 @@ export const useFile = () => {
 // Criando o Provider para armazenar os dados
 export const FileProvider = ({ children, viewer = false }: { children: React.ReactNode, viewer: boolean }) => {
   const router = useRouter()
-  const { accessToken, clearTokens } = useAuth();
-  console.log('# ASSSSSSS', accessToken)
+  const auth = useAuth();
+  console.log('# ASSSSSSS', auth)
   const [fileId, setFileId] = useState<string | null>(null);
   // const [parentFolderId, setParentFolderId] = useState<string | null>(null);
   const [workbook, setWorkbook] = useState<WorkbookI | null>(null);
@@ -50,7 +50,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
 
   const getParentFolderId =  useCallback(() => {
     fetch(`/api/drive/file/parent?id=${fileId}`, {
-      headers: { Authorization: `Bearer ${accessToken}`},
+      headers: { Authorization: `Bearer ${auth?.accessToken}`},
     })            
     .then((resHead) => {
       console.log('HEAD', resHead)
@@ -64,7 +64,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
     .then((dataHEAD) => {
       console.log('HEAD', dataHEAD)
     })
-  }, [accessToken, fileId])
+  }, [auth?.accessToken, fileId])
 
   // PROGRESS COMPUTED
   useEffect(() => {
@@ -135,14 +135,14 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
    
   }, [getParentFolderId, workbook]);
   useEffect(() => {
-    console.log("Novo token detectado:", accessToken);
-  }, [accessToken]);
+    console.log("Novo token detectado:", auth?.accessToken);
+  }, [auth?.accessToken]);
   
   // Busca o conteúdo do arquivo
   useEffect(() => {
-    if (accessToken && fileId) {
+    if (auth?.accessToken && fileId) {
       const promise = fetch(`/api/drive/file?id=${fileId}`, {
-        headers: { Authorization: `Bearer ${accessToken}` },
+        headers: { Authorization: `Bearer ${auth?.accessToken}` },
       })
         .then((res) => {
           try {
@@ -181,16 +181,15 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       });
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [accessToken, fileId])
+  }, [auth?.accessToken, fileId])
 
   //  Nova função para salvar as alterações no Google Drive
   const saveWorkbook = useCallback(() => {
-    console.log('workbook?.student', workbook?.student)
     if (viewer) {
       toast('This is View Mode, changes will be not saved, only chached')
       return
     }
-    if (!accessToken || !fileId || !workbook) {
+    if (!auth?.accessToken || !fileId || !workbook) {
       console.error("Não há dados suficientes para salvar");
       return;
     }
@@ -199,11 +198,12 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${accessToken}`,
+        Authorization: `Bearer ${auth?.accessToken}`,
       },
       body: JSON.stringify({ fileId, updatedContent: workbook }),
     })
     .then(res => {
+      console.log('@@@', res)
       if (res.ok) {
         return res.json()
       }
@@ -216,7 +216,9 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       return true
     })
     .catch((e) => {
-      return e
+      console.log('!!!!', e)
+      auth?.clearTokens()
+      throw e
     })
 
     toast.promise(response, {
@@ -225,10 +227,10 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
         return 'Workbook saved!';
       },
       error: (e) => {
-        return e;
+        return e?.message;
       },
     });
-  }, [accessToken, fileId, viewer, workbook])
+  }, [auth?.accessToken, fileId, viewer, workbook])
 
   const firstRender = useRef(true);
   useEffect(() => {
@@ -247,7 +249,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   //     toast('This is View Mode, changes will be not saved, only chached')
   //     return
   //   }
-  //   if (!accessToken || !fileId || !workbook) {
+  //   if (!auth?.accessToken || !fileId || !workbook) {
   //     console.error("Não há dados suficientes para salvar");
   //     return;
   //   }
@@ -256,7 +258,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
   //     method: "PUT",
   //     headers: {
   //       "Content-Type": "application/json",
-  //       Authorization: `Bearer ${accessToken}`,
+  //       Authorization: `Bearer ${auth?.accessToken}`,
   //     },
   //     body: JSON.stringify({ fileId, updatedContent: workbook }),
   //   })
@@ -293,8 +295,8 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       toast('This functions is only for View Mode')
       return
     }
-    // folderId, accessToken, workbook
-    if (!accessToken || !folderId || !workbook) {
+    // folderId, auth?.accessToken, workbook
+    if (!auth?.accessToken || !folderId || !workbook) {
       console.error("Não há dados suficientes para salvar");
       return;
     }
@@ -304,7 +306,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
       method: "GET",
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${accessToken}`,
+        Authorization: `Bearer ${auth?.accessToken}`,
       }
     }).then((res) => {
       if(res.ok) {
@@ -312,7 +314,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            Authorization: `Bearer ${accessToken}`,
+            Authorization: `Bearer ${auth?.accessToken}`,
           },
           body: JSON.stringify({ folderId, workbook }),
         })
@@ -376,7 +378,7 @@ export const FileProvider = ({ children, viewer = false }: { children: React.Rea
         })
         .catch((error) => {
           console.error("Erro ao buscar arquivo:", error);
-          clearTokens();
+          auth?.clearTokens();
           throw new Error('WORKBOOK DATA IS NOT VALID')
         })
         toast.promise(promise, {

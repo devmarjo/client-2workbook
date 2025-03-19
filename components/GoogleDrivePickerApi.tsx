@@ -23,7 +23,7 @@ interface GoogleDrivePickerProps {
 
 const GoogleDrivePicker: React.FC<GoogleDrivePickerProps> = ({ onPicked, folder, onCancel }) => {
   const [pickerApiLoaded, setPickerApiLoaded] = useState(false);
-  const {accessToken} = useAuth()
+  const auth = useAuth()
 
   // Load the Google API script (if not already loaded)
   useEffect(() => {
@@ -46,15 +46,15 @@ const GoogleDrivePicker: React.FC<GoogleDrivePickerProps> = ({ onPicked, folder,
   };
 
   useEffect(() => {
-    if (accessToken && pickerApiLoaded) {
+    if (auth?.accessToken && pickerApiLoaded) {
       createPicker()
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [accessToken, pickerApiLoaded])
+  }, [auth?.accessToken, pickerApiLoaded])
 
   // Function to create and show the picker
   const createPicker = () => {
-    if (pickerApiLoaded && accessToken) {
+    if (pickerApiLoaded && auth?.accessToken) {
       const developerKey = process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
       // const developerKey = process.env.NEXT_PUBLIC_GOOGLE_CLIENT_ID;
       // const clientId = process.env.NEXT_PUBLIC_GOOGLE_CLIENT_ID;
@@ -70,7 +70,7 @@ const GoogleDrivePicker: React.FC<GoogleDrivePickerProps> = ({ onPicked, folder,
       // Build the picker
       const picker = new window.google.picker.PickerBuilder()
         .addView(docsView)
-        .setOAuthToken(accessToken)
+        .setOAuthToken(auth?.accessToken)
         .setDeveloperKey(developerKey)
         .setCallback(pickerCallback)
         .build();

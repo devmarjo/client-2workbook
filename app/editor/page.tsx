@@ -4,6 +4,7 @@ import { useFile } from "@/hooks/useFile";
 import dynamic from "next/dynamic";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect } from "react";
+// import usePageVisibility from "@/hooks/usePageVisibility";
 const EditorComponent = dynamic(() => import("@/components/Editor"), { ssr: false });
 
 export default function EditorPage() {
@@ -35,6 +36,14 @@ export default function EditorPage() {
   useEffect(() => {
     console.log('workbook', workbook)
   }, [workbook])
+
+    // const file =  useFile()
+    // usePageVisibility(
+    //   () => {
+    //     // file.saveWorkbook()
+    //   }
+    // );
+
   return (
     <>
         { workbook ?
