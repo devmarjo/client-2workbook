@@ -1,0 +1,313 @@
+{
+   "version":"V1.1",
+   "versionDate":"August 2024",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/media/documents/ProQual-Level-3-Certificate-in-Pathway-to-Aesthetic-Practice.pdf",
+   "coverTitle":"Level 3 Diploma in Pathway to Aesthetic Practice",
+   "coverImg":"/images/workbooks/cover/BOTOX.png",
+   "coverAcademyImg":"",
+   "sections":[
+      {
+         "title":"Introduction",
+         "content":"Welcome to the Workbook for the <b>ProQual Level 3 Diploma in Pathway to Aesthetic Practice</b>. This material is designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+      },
+      {
+         "title":"Purpose of this Workbook",
+         "content":"<p>This workbook aims to:</p><ul><li>Develop an understanding of the key knowledge required to perform aesthetic treatments, such as skin analysis, skincare, and anatomy.</li><li>Assist individuals seeking to enter the beauty sector.</li><li>Provide an accelerated pathway to ProQual’s Level 4 suite of aesthetic practice qualifications.</li></ul>"
+      },
+      {
+         "title":"Structure of the Workbook",
+         "content":"<p>To achieve this qualification, you will need to complete five mandatory units:</p><h3>Mandatory Units:</h3><ul><li>Health and Safety in a Salon Environment</li><li>Infection Control and Prevention for Cosmetic, Aesthetic, and Needle-Related Treatments</li><li>Principles of Skin Analysis and Client Consultation</li><li>Anatomy and Physiology for Aesthetic Practice</li><li>Pathology for Aesthetic Practice</li></ul><p>This workbook is structured to help you systematically develop the competencies needed to meet the qualification requirements.</p>"
+      },
+      {
+         "title":"How to Use This Workbook",
+         "content":"<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the activities, ensuring you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook to track your progress and ensure all requirements are met before the final assessment.</li></ul>"
+      },
+      {
+         "BreakPage":"before",
+         "title":"Qualification Profile",
+         "content":"<div><b>Qualification title:</b> ProQual Level 3 Diploma in Pathway to Aesthetic Practice</div><div><b>Ofqual qualification number:</b> 610/4465/9</div><div><b>Level:</b> 3</div><div><b>Total qualification time (TQT):</b> 385 Hours</div><div><b>Guided learning hours (GLH):</b> 190 Hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual Verifiers</div><div><b>Qualification start date:</b> 02/09/2024</div><div><b>Qualification review date:</b> 02/09/2027</div>"
+      }
+   ],
+   "unitsColumnsData":[
+      "Unit Level",
+      "TQT",
+      "GHL"
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory units",
+         "qtyRequired":5,
+         "units":[
+            "J/651/2395",
+            "L/651/2397",
+            "M/651/2398",
+            "R/651/2399",
+            "F/651/2400"
+         ]
+      }
+   ],
+   "unitsOptional":[
+      
+   ],
+   "units":{
+      "J/651/2395":{
+         "title":"Health and Safety in a Salon Environment",
+         "data":[
+            " 2",
+            " 10",
+            " 10"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Prepare salon areas for treatment.",
+               "questions":{
+                  "1.1":"Identify common hazards and risks in a salonenvironment.",
+                  "1.2":"State the health and safety requirements forpractitioners carrying out beauty treatments,including but not limited to:<ul><li>Health and Safety at Work Act.</li><li>The Reporting of Injuries, Diseases andDangerous Occurrences Regulations (RIDDOR).</li><li>Manual Handling OperationsRegulations.</li><li>Control of Substances Hazardous toHealth Regulations (COSHH).</li></ul>",
+                  "1.3":"Describe how to clean, disinfect and sterilisedifferent types of tools and equipment.",
+                  "1.4":"Explain the difference between sterilisationand disinfection.",
+                  "1.5":"Explain why it is important to follow salonprocedures and any given instructions whensetting up tools and equipment for a giventreatment.",
+                  "1.6":"Describe the required environmentalconditions for a given treatment, including:<ul><li>Lighting.</li><li>Heating.</li><li>Ventilation.</li><li>General Comfort.</li></ul>",
+                  "1.7":"Explain why it is important that the aboveenvironmental conditions are provided.",
+                  "1.8":"Explain why it is important to maintain personalhygiene, protection and appearanceaccording to accepted industry andorganisational standards.",
+                  "1.9":"Explain the reasons and importance ofkeeping records of treatments."
+               }
+            },
+            "2":{
+               "title":"Maintain salon treatment areas.",
+               "questions":{
+                  "2.1":"Explain how to safely dispose of wastematerials and products from beautytreatments.",
+                  "2.2":"Explain the requirements for re-stockingproducts and other items.",
+                  "2.3":"Describe own responsibilities in relation to thestorage of:<ul><li>Equipment.</li><li>Products.</li><li>Client Records.</li></ul>",
+                  "2.4":"Describe how the work area should be leftafter a treatment.",
+                  "2.5":"Explain why it is important to leave the workarea in the condition described above."
+               }
+            }
+         }
+      },
+      "L/651/2397":{
+         "title":"Infection Control and Prevention for Cosmetic, Aesthetic and Needle Related Treatments",
+         "data":[
+            " 2",
+            " 25",
+            " 20"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand non-infectious and infectious hazards that are associated with cosmetic, aesthetic and needle treatments.",
+               "questions":{
+                  "1.1":"Describe the cell structure and key features of:<ul><li>Bacteria.</li><li>Fungi.</li><li>Viruses.</li></ul>",
+                  "1.2":"Describe the ideal conditions for the growth ofmicro-organisms.",
+                  "1.3":"Define the term “pathogen”.",
+                  "1.4":"List five common illness caused by:<ul><li>Bacteria.</li><li>Fungi.</li><li>Viruses.</li></ul>",
+                  "1.5":"Define the term “parasite”.",
+                  "1.6":"Explain the difference between anendoparasite and an ectoparasite.",
+                  "1.7":"Identify three common ectoparasites thatcolonise humans.",
+                  "1.8":"Explain the difference between infection andcolonisation.",
+                  "1.9":"Describe what is meant by:<ul><li>Localised infection.</li><li>Systemic infection.</li></ul>",
+                  "1.10":"Describe what is meant by:<ul><li>Direct transmission.</li><li>Indirect transmission.</li><li>Vector transmission.</li></ul>",
+                  "1.11":"Describe how, within the salon environment, aninfective agent could:<ul><li>Enter the body.</li><li>Be transmitted from person to person.</li></ul>",
+                  "1.12":"Identify common non-infectious hazards thatmight arise as part of cosmetic, aesthetic orneedle treatments.",
+                  "1.13":"Explain how an injury to the skin can be a risk toan individual.",
+                  "1.14":"Identify treatments within the salon that wouldrequire the use of infection control procedures."
+               }
+            },
+            "2":{
+               "title":"Understand how to control non-infectious and infectious risk.",
+               "questions":{
+                  "2.1":"Explain the roles and responsibilities of theemployer and employee in the prevention andcontrol of infection.",
+                  "2.2":"Explain how the skin acts as a defence againstinfection.",
+                  "2.3":"Describe the procedures that would befollowed, in relation to infection prevention andcontrol, for:<ul><li>Consultation.</li><li>Aftercare.</li><li>Hand Hygiene.</li><li>Environment management.</li><li>Equipment management.</li><li>Cleaning, disinfecting and sterilisation.</li><li>Personal protective equipment.</li><li>Management of body fluids.</li><li>Needle stick injuries.</li><li>Waste disposal and collection.</li><li>Management of occupationalexposure.</li></ul>"
+               }
+            }
+         }
+      },
+      "M/651/2398":{
+         "title":"Principles of Skin Analysis and Client Consultation",
+         "data":[
+            " 3",
+            " 110",
+            " 80"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the client consultation process.",
+               "questions":{
+                  "1.1":"Describe the importance of collaboration withcompetent professionals to support effectiveand safe working practices, including how andwhen to refer to other non-healthcare andhealthcare professionals.",
+                  "1.2":"Explain why you must comply with ethicalpractice and work within the legislativerequirements, when undertaking a clientconsultation.",
+                  "1.3":"Describe the importance of engaging in, anddocumenting continuous professionaldevelopment including:<ul><li>Up-to-date information.</li><li>Policies.</li><li>Procedures.</li><li>Best practice guidance.</li></ul>",
+                  "1.4":"Explain the reasons why medical conditionsmay contraindicate the non-surgical cosmeticprocedure.",
+                  "1.5":"Explain the legislative and insurancerequirements for obtaining medical diagnosisand referral.",
+                  "1.6":"Explain the importance of communicating withthe client in a professional manner and withinthe limits of your own competencies.",
+                  "1.7":"Explain why you must develop and agree anon-surgical cosmetic procedure planincluding:<ul><li>Declared current medical status.</li><li>Procedure history.</li><li>Relative and absolutecontraindications.</li><li>Skin classification, condition andsensitivity.</li><li>Skin healing capacity.</li><li>Client's expectations.</li><li>The client's physical and psychologicalsuitability for the non-surgical cosmeticprocedure.</li></ul>",
+                  "1.8":"Discuss the relationship and impact betweenthe following needs:<ul><li>Social.</li><li>Physical.</li><li>Psychological.</li><li>Physiological.</li><li>Social influences.</li><li>The media.</li><li>Trends.</li></ul>",
+                  "1.9":"Explain how your own continuous professionaldevelopment can support the client to makean informed choice, including alternativetreatment options.",
+                  "1.10":"Explain how to manage the client’sexpectations, including the importance ofexplaining:<ul><li>Procedure process.</li><li>Expected outcomes.</li><li>Associated risks.</li></ul>",
+                  "1.11":"Describe the benefits of using visual aids duringconsultation.",
+                  "1.12":"Describe the legislative, insurance andorganisational requirements for:<ul><li>Gaining signed, informed consent fromthe client for the non-surgical cosmeticprocedure.</li><li>Upholding the rights of the client andpractitioner.</li><li>Taking and storing of visual media of theclients treatment area.</li><li>Completing and storing the clients non-surgical cosmetic procedure records.</li></ul>",
+                  "1.13":"Explain why non-surgical cosmetic proceduresare prohibited for minors, including the age atwhich a client is classed as a minor and howthis differs nationally.",
+                  "1.14":"Explain the importance of explaining thephysical sensation created by the procedureto the client, including how pain threshold andsensitivity varies from client to client, includingthe types of pain management andassociated risks.",
+                  "1.15":"State the reasons for providing and obtainingconfirmation of receipt from the client for theverbal and written instructions and advice preand post the non-surgical cosmetic procedure."
+               }
+            },
+            "2":{
+               "title":"Understand the skin analysis process.",
+               "questions":{
+                  "2.1":"Explain the legal requirements and otherrelevant standards, insurance guidelines andorganisational protocols when carrying out askin analysis, including the importance ofworking within the scope of your practice.",
+                  "2.2":"Describe how to maintain your role andresponsibilities for the health, safety andwelfare of the individual and yourself before,during and after the skin analysis.",
+                  "2.3":"Explain the rationale for carrying out skinanalysis, expected findings in different skintypes and the role of evidence-basedpractice.",
+                  "2.4":"State the protocols for the correct and safeuse of skin analysis technologies.",
+                  "2.5":"Describe how to interpret outcomes from theskin analysis procedure, including how toevaluate the features and severity ofpresenting skin conditions in relation to knownskin classifications.",
+                  "2.6":"Describe how to review and monitor thefollowing skin conditions including:<ul><li>Lax elasticity.</li><li>Hyper and hypo pigmentation.</li><li>Congested.</li><li>Pustular.</li><li>Fragile.</li><li>Vascular.</li><li>Sensitised.</li><li>Sensitive.</li><li>Dehydrated.</li><li>Photo-sensitive.</li><li>Photo-aged.</li><li>Lacklustre.</li></ul>",
+                  "2.7":"Explain the reasons for taking consensual visualmedia of the individuals treatment area andstoring in accordance with the service,legislative, insurance and organisationalrequirements.",
+                  "2.8":"Describe how the skin consultation, initialassessment, available evidence and the skinanalysis outcomes collectively inform abespoke treatment plan.",
+                  "2.9":"Describe the importance of recognisingsuspicious skin irregularities and lesions, andreferring to a relevant health professionalwhere necessary.",
+                  "2.10":"Explain how to develop an agreed treatmentplan with the individual based on theconclusion of the skin analysis, to include:<ul><li>The impact on the prognosis.</li><li>The variety of options available formanagement.</li></ul>",
+                  "2.11":"Describe how to complete accurate, secureand contemporaneous records of theinformation gathered and the outcomes of theskin analysis to meet legal requirements andorganisational protocols, considering:<ul><li>The rights of the individual.</li><li>Audit and accountability.</li></ul>",
+                  "2.12":"Explain how and why the skins barrier functionis impaired by aesthetic procedures, including:<ul><li>The increased risk of photosensitivity andways to protect the skin.</li></ul>",
+                  "2.13":"Describe the adverse reactions associatedwith aesthetic procedures and how torespond, including:<ul><li>Infection.</li><li>Wounds.</li><li>Oedema.</li><li>Hypertrophic and atrophic scarring.</li><li>Increased photosensitivity reaction.</li></ul>"
+               }
+            }
+         }
+      },
+      "R/651/2399":{
+         "title":"Anatomy and Physiology for Aesthetic Practice",
+         "data":[
+            " 3",
+            " 120",
+            " 40"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand how the human body is organised.",
+               "questions":{
+                  "1.1":"State what is meant by:<ul><li>Cell.</li><li>Tissue.</li><li>Organ.</li><li>Organ System.</li><li>Organism.</li></ul>",
+                  "1.2":"Describe the structure of a typical animal cell,including:<ul><li>Cell membrane.</li><li>Cytoplasm.</li><li>Cytoplasmic matrix.</li><li>Nucleus.</li><li>Other organelles.</li></ul>",
+                  "1.3":"Describe the structure of the phospholipidbilayer.",
+                  "1.4":"Describe the function of:<ul><li>The Nucleus</li><li>Mitochondria.</li><li>Golgi Apparatus.</li><li>Lysosome.</li><li>Cell Membrane.</li></ul>",
+                  "1.5":"Describe how substances pass through the cellmembrane by:<ul><li>Osmosis.</li><li>Diffusion.</li><li>Active Transport.</li></ul>",
+                  "1.6":"Identify the stages of mitosis.",
+                  "1.7":"Describe the different types of tissue foundwithin the body, including:<ul><li>Epithelial.</li><li>Connective.</li><li>Nervous.</li><li>Muscular.</li></ul>",
+                  "1.8":"Describe what is meant by the term “homeostasis”."
+               }
+            },
+            "2":{
+               "title":"Understand the structure and function of the integumentary system.",
+               "questions":{
+                  "2.1":"Identify the parts of the body that belong tothe integumentary system.",
+                  "2.2":"Describe the structure of the skin, including:<ul><li>Epidermis.</li><li>Dermis.</li><li>Subcutaneous layer.</li></ul>",
+                  "2.3":"Explain the functions of the skin.",
+                  "2.4":"Describe what is meant by the following, inrelation to the appearance and classificationof the skin:<ul><li>Genotype.</li><li>Phenotype.</li></ul>",
+                  "2.5":"Describe how the Fitzpatrick Scale is used toclassify the skin.",
+                  "2.6":"Describe how the Lancer scale is used toclassify the skin.",
+                  "2.7":"Describe the types of hair found on the humanbody, including:<ul><li>Lanugo.</li><li>Vellus.</li><li>Terminal.</li></ul>",
+                  "2.8":"Describe the structure of the hair, including:<ul><li>Shaft.</li><li>Medulla.</li><li>Cortex.</li><li>Cuticle.</li><li>Root Sheath.</li><li>Germinal Matrix.</li></ul>",
+                  "2.9":"Describe how hair grows.",
+                  "2.10":"Describe the structure of the nails, including:<ul><li>Nail plate.</li><li>Nail bed.</li><li>Nail grooves.</li><li>Geminal Matrix.</li><li>Cuticle.</li></ul>",
+                  "2.11":"Describe the function of nails.",
+                  "2.12":"Describe how the nails grow."
+               }
+            },
+            "3":{
+               "title":"Understand the structure and function of the skeletal system, within the face.",
+               "questions":{
+                  "3.1":"Describe the types of bone found within thehuman body, including:<ul><li>Long.</li><li>Short.</li><li>Irregular.</li><li>Flat.</li><li>Sesmoid.</li></ul>",
+                  "3.2":"Describe the function of the bones, including:<ul><li>Protection of organs.</li><li>Movement.</li><li>Structure and support.</li><li>Production of blood cells.</li></ul>",
+                  "3.3":"Describe the different types of joint, including:<ul><li>Fixed.</li><li>Hinge.</li><li>Ball and Socket.</li><li>Pivot.</li><li>Condyloid.</li><li>Saddle.</li><li>Gilding.</li><li>Cartilaginous.</li></ul>",
+                  "3.4":"Identify the position and function of thefollowing bones:<ul><li>Frontal.</li><li>Parietal.</li><li>Occipital.</li><li>Temporal.</li><li>Sphenoid.</li><li>Ethmoid.</li><li>Nasal.</li><li>Maxillae.</li><li>Lacrimal.</li><li>Zygomatic.</li><li>Palatine.</li><li>Vomer.</li><li>Mandible.</li></ul>",
+                  "3.5":"Describe what a foramen is.",
+                  "3.6":"Identify the position of the foramina within thefacial bones."
+               }
+            },
+            "4":{
+               "title":"Understand the structure and function of the muscular system, within the face and neck.",
+               "questions":{
+                  "4.1":"Describe the different types of muscle foundwithin the human body, including:<ul><li>Skeletal.</li><li>Smooth.</li><li>Cardiac.</li></ul>",
+                  "4.2":"Describe the function of muscles.",
+                  "4.3":"Explain how a muscle contracts.",
+                  "4.4":"Identify the position and function of themuscles of the following muscles:<ul><li>Orbital.</li><li>Nasal.</li><li>Oral.</li></ul>"
+               }
+            },
+            "5":{
+               "title":"Understand the structure and function of the circulatory system, within the face and neck.",
+               "questions":{
+                  "5.1":"Describe the composition of the blood.",
+                  "5.2":"Explain the function of:<ul><li>Plasma.</li><li>Erythrocytes.</li><li>Leucocytes</li><li>Thrombocytes.</li></ul>",
+                  "5.3":"Compare the structures of veins, arteries andcapillaries.",
+                  "5.4":"Identify the position of the following arterieswithin the head and neck:<ul><li>Common carotid.</li><li>External carotid.</li><li>Occipital.</li><li>Facial.</li><li>Maxillary</li><li>Lingual.</li><li>Superficial.</li><li>Temporal.</li><li>Thyroid.</li></ul>",
+                  "5.5":"Identify the position of the following veinswithin the head and neck:<ul><li>External jugular.</li><li>Internal jugular.</li><li>Common facial.</li><li>Anterior facial.</li><li>Maxillary.</li><li>Superficial.</li><li>Temporal.</li></ul>"
+               }
+            },
+            "6":{
+               "title":"Understand the structure and function of the nervous system, within the face and neck.",
+               "questions":{
+                  "6.1":"Describe the structure of structure of a nervecell, including:<ul><li>Cell body.</li><li>Dendrite.</li><li>Axon.</li><li>Myelin Sheath.</li><li>Node of Ranvier.</li><li>Synapse.</li></ul>",
+                  "6.2":"Explain how a synapse works.",
+                  "6.3":"Describe the function of the nervous system.",
+                  "6.4":"Compare the sympathetic andparasympathetic nervous system.",
+                  "6.5":"Compare a sensory neurone and a motorneurone.",
+                  "6.7":"Compare the central nervous system and theperipheral nervous system.",
+                  "6.8":"Describe the structure of the nervous systemincluding:<ul><li>Brain.</li><li>Spinal cord.</li><li>The 12 pairs of cranial nerves.</li><li>The 31 pairs of spinal nerves.</li></ul>",
+                  "6.9":"Describe the position and function of thefollowing nerves within the head and neck:<ul><li>Trigeminal Nerve.</li><li>Facial Nerve.</li><li>Accessory Nerve.</li></ul>",
+                  "6.10":"Explain why it is important to be aware of thelocation of these nerves when carrying outaesthetic facial treatments."
+               }
+            },
+            "7":{
+               "title":"Understand the structure of the breast.",
+               "questions":{
+                  "7.1":"Describe the structure of the breast, including:<ul><li>Glandular tissue.</li><li>Adipose tissue.</li><li>Nipple.</li><li>Areola.</li><li>Montgomery’s Tubules.</li><li>Ligaments of Cooper.</li><li>Blood supply.</li><li>Lymph supply.</li><li>Nerve supply.</li></ul>",
+                  "7.2":"Describe the function of the breast.",
+                  "7.3":"Explain why it is important to be aware of thestructure of the breast when carrying outaesthetic treatment on the areola."
+               }
+            }
+         }
+      },
+      "F/651/2400":{
+         "title":"Pathology for Aesthetic Practice",
+         "data":[
+            " 3",
+            " 120",
+            " 40"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand pathologies of the skin, relevant to aesthetic practice.",
+               "questions":{
+                  "1.1":"Describe the signs and symptoms of thefollowing:<ul><li>Moles.</li><li>Skin Tags.</li><li>Blemishes.</li><li>Age Spots.</li><li>Common Warts.</li><li>Planar Warts.</li><li>Poikiloderma.</li><li>Sebaceous Cysts.</li><li>Sebaceous Hyperplasia.</li><li>Xanthelasma Palperbratum.</li><li>Verrucae.</li><li>Syringgoma.</li><li>Sebaceous Keratosis.</li></ul>",
+                  "1.2":"Explain the causes of the following:<ul><li>Moles.</li><li>Skin Tags.</li><li>Blemishes.</li><li>Age Spots.</li><li>Common Warts.</li><li>Planar Warts.</li><li>Poikiloderma.</li><li>Sebaceous Cysts.</li><li>Sebaceous Hyperplasia.</li><li>Xanthelasma Palperbratum.</li><li>Verrucae.</li><li>Syringgoma.</li><li>Sebaceous Keratosis.</li></ul>",
+                  "1.3":"Explain how to identify a mole that may bepotentially cancerous, including:<ul><li>Asymmetry.</li><li>Border.</li><li>Colour.</li><li>Diameter.</li><li>Elevation.</li></ul>",
+                  "1.4":"Describe the steps that should be taken if aclient requests removal of a suspicious mole."
+               }
+            },
+            "2":{
+               "title":"Understand pathologies of the nails, relevant to aesthetic practice.",
+               "questions":{
+                  "2.1":"Describe the signs and symptoms of thefollowing:<ul><li>Hang nails.</li><li>Onychorcryptosis.</li><li>Fragilitas unguinum.</li><li>Pterygium unguium.</li><li>Leukonychia.</li><li>Onychorrhexis.</li><li>Onychoschizia.</li><li>Beau’s lines.</li><li>Hapalonychia.</li><li>Paronychia.</li><li>Tinea ugnuium.</li><li>Tinea manuum.</li></ul>",
+                  "2.2":"Explain the causes of the following:<ul><li>Hang nails.</li><li>Onychorcryptosis.</li><li>Fragilitas unguinum.</li><li>Pterygium unguium.</li><li>Leukonychia.</li><li>Onychorrhexis.</li><li>Onychoschizia.</li><li>Beau’s lines.</li><li>Hapalonychia.</li><li>Paronychia.</li><li>Tinea ugnuium.</li><li>Tinea manuum.</li></ul>"
+               }
+            },
+            "3":{
+               "title":"Understand contra-indications for aesthetic practice.",
+               "questions":{
+                  "3.1":"State what is meant by the term “contra-indication”.",
+                  "3.2":"Explain the difference between:<ul><li>Absolute contra-indication.</li><li>Relative contra-indication.</li></ul>",
+                  "3.3":"Explain why the following may be contra-indications for aesthetic treatments:<ul><li>Active infection at the treatment site.</li><li>Allergies to products used.</li><li>Auto-immune disorders.</li><li>Bleeding disorders.</li><li>Poorly controlled medical conditions.</li><li>Taking steroids.</li><li>Taking aspirin or warfarin.</li><li>Under the age of 18.</li><li>Pregnant or breastfeeding.</li></ul>",
+                  "3.4":"Explain the steps that should be taken if youidentified a potential contra-indication duringa consultation."
+               }
+            },
+            "4":{
+               "title":"Understand how to recognise and manage allergic reactions.",
+               "questions":{
+                  "4.1":"Explain why an allergic reaction occurs.",
+                  "4.2":"Identify common allergens within aestheticpractice.",
+                  "4.3":"Describe the signs and symptoms of a mildallergic reaction.",
+                  "4.4":"Describe the signs and symptoms of a severeallergic reaction, including anaphylaxis.",
+                  "4.5":"Explain the steps that should be taken if aclient shows signs of a mild allergic reaction toa product.",
+                  "4.6":"Explain the steps that should be taken if aclient shows signs of a severe allergic reaction.",
+                  "4.7":"Explain why it is important to discuss anyallergies with a client before commencingtreatment."
+               }
+            }
+         }
+      }
+   }
+}
