@@ -1,0 +1,99 @@
+{
+   "version":"ProQual 2020",
+   "versionDate":"August 2020",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/media/documents/ProQual-L2-Award-in-Diversity-and-Inclusion.pdf",
+   "coverTitle":"ProQual Level 2 Award in Diversity and Inclusion",
+   "coverImg":"/images/workbooks/cover/DIVERSITY.png",
+   "coverAcademyImg":"",
+   "sections":[
+      {
+         "title":"Introduction",
+         "content":"Welcome to the Workbook for the <b>Level 2 Award in Diversity and Inclusion</b>. This material has been carefully developed to support you in completing your qualification by guiding you through the essential principles, legal frameworks, and practical applications of diversity and inclusion in the workplace."
+      },
+      {
+         "title":"Purpose of this Workbook",
+         "content":"<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your understanding and skills in promoting diversity and inclusion.</li><li>Help you build a comprehensive portfolio of evidence that demonstrates your knowledge of key concepts such as equality, discrimination, and the Equality Act 2010.</li><li>Support your learning with a clear assessment structure and practical guidance for application in real-life workplace scenarios.</li></ul>"
+      },
+      {
+         "title":"Structure of the Workbook",
+         "content":"<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Unit:</h3><ul><li>Diversity and Inclusion (Unit code: L/618/3576)</li></ul><p>This workbook is structured to follow the learning outcomes and assessment criteria, providing space and direction for gathering evidence and reflections that meet qualification requirements.</p>"
+      },
+      {
+         "title":"How to Use This Workbook",
+         "content":"<ul><li>Read each learning outcome and assessment criterion carefully.</li><li>Complete all required tasks and collect evidence such as written answers, scenarios, or reflections.</li><li>Use the workbook to track your progress and ensure that all assessment requirements are addressed before submission for internal and external quality assurance.</li></ul>"
+      },
+      {
+         "BreakPage":"before",
+         "title":"Qualification Profile",
+         "content":"<div><b>Qualification title:</b> ProQual Level 2 Award in Diversity and Inclusion</div><div><b>Ofqual qualification number:</b> 603/6334/4</div><div><b>Level:</b> 2</div><div><b>Total qualification time:</b> 10 hours</div><div><b>Guided learning hours:</b> 5</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 24/08/2020</div>"
+      }
+   ],
+   "unitsColumnsData":[
+      
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory unit",
+         "qtyRequired":1,
+         "units":[
+            "L/618/3576"
+         ]
+      }
+   ],
+   "unitsOptional":[
+      
+   ],
+   "units":{
+      "L/618/3576":{
+         "title":"Diversity and inclusion",
+         "data":[
+            
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the terms Equality, Diversity and Inclusion in the workplace",
+               "questions":{
+                  "1.1":"Explain what is meant by the term ‘Equality in the workplace’",
+                  "1.2":"Explain what is meant by the term ‘Diversity in the workplace’",
+                  "1.3":"Explain what is meant by the term ‘Inclusion in the workplace’",
+                  "1.4":"Describe the benefits of having a diverse workplace"
+               }
+            },
+            "2":{
+               "title":"Understand the basic key principles of the Equality Act 2010",
+               "questions":{
+                  "2.1":"Explain what is meant by the term ‘Protected Characteristics’ as defined in the Equality Act 2010",
+                  "2.2":"State the ‘Protected Characteristics’ covered by the Equality Act 2010"
+               }
+            },
+            "3":{
+               "title":"Understand types of discrimination within the workplace",
+               "questions":{
+                  "3.1":"Explain what is meant by the term ‘direct discrimination’",
+                  "3.2":"Explain what is meant by the term ‘indirect discrimination’",
+                  "3.3":"Explain what is meant by the term ‘harassment’",
+                  "3.4":"Explain what is meant by the term ‘victimisation’"
+               }
+            },
+            "4":{
+               "title":"Understand how to apply their new knowledge when working",
+               "questions":{
+                  "4.1":"Explain how to identify suspicious behaviour which would require an intervention",
+                  "4.2":"List the steps they would need to take to explain their actions when making an intervention",
+                  "4.3":"Describe how to defuse a situation arising from an intervention which becomes tense or negative",
+                  "4.4":"List the actions they need to take post event, such as note taking and notifications"
+               }
+            },
+            "5":{
+               "title":"Understand what action can be taken with discrimination complaints",
+               "questions":{
+                  "5.1":"List what actions they can take if a discrimination complaint is made against them",
+                  "5.2":"Explain what they can do if they are the victim of discrimination",
+                  "5.3":"Identify organisations and websites that can offer them advice around discrimination"
+               }
+            }
+         }
+      }
+   }
+}
