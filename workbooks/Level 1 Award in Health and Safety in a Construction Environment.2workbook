@@ -1,0 +1,121 @@
+{
+   "version":"ProQual 2017",
+   "versionDate":"October 2017",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/wp-content/uploads/2016/10/ProQual-L1-Award-Health-and-Safety-in-a-Construction-Environment-From-1st-December-2017.pdf",
+   "coverTitle":"Level 1 Award in Health and Safety in a Construction Environment",
+   "coverImg":"/images/workbooks/cover/CONSTRUCTION_SAFETY.png",
+   "coverAcademyImg":"",
+   "sections":[
+      {
+         "title":"Introduction",
+         "content":"Welcome to the Workbook for the <b>Level 1 Award in Health and Safety in a Construction Environment</b>. This qualification is suitable for individuals aiming to apply for the CSCS Green Card and access UK construction sites as non-skilled workers. It supports your understanding of essential health and safety practices and ensures you are equipped with the knowledge needed to work safely in the construction environment."
+      },
+      {
+         "title":"Purpose of this Workbook",
+         "content":"<p>This workbook aims to:</p><ul><li>Support learners in preparing for and achieving the Level 1 Award in Health and Safety in a Construction Environment.</li><li>Ensure candidates understand key safety procedures and legal responsibilities within a construction setting.</li><li>Assist in gathering and presenting evidence required to meet ProQual’s assessment standards.</li></ul>"
+      },
+      {
+         "title":"Structure of the Workbook",
+         "content":"<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Unit:</h3><ul><li>Health and Safety in a Construction Environment (Unit Reference Number: R/616/6181)</li></ul><p>This workbook is structured to reflect the learning outcomes and assessment criteria of this unit, offering activities and guidance throughout.</p>"
+      },
+      {
+         "title":"How to Use This Workbook",
+         "content":"<ul><li>Study each learning outcome and the associated assessment criteria carefully.</li><li>Use the workbook activities and guidance to produce valid, authentic, and sufficient evidence for each criterion.</li><li>Keep track of your progress and use the workbook to prepare for internal and external quality assurance checks.</li></ul>"
+      },
+      {
+         "BreakPage":"before",
+         "title":"Qualification Profile",
+         "content":"<div><b>Qualification title:</b> ProQual Level 1 Award in Health and Safety in a Construction Environment</div><div><b>Ofqual qualification number:</b> 603/2515/X</div><div><b>Level:</b> 1</div><div><b>Total qualification time:</b> 29 hours</div><div><b>Guided learning hours:</b> 21</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 01/12/17</div><div><b>Entry Requirements:</b> There are no formal entry requirements. Initial assessment should be conducted to identify candidate needs.</div>"
+      }
+   ],
+   "unitsColumnsData":[
+      "Unit Level",
+      "GHL"
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory units",
+         "qtyRequired":1,
+         "units":[
+            "R/616/6181"
+         ]
+      }
+   ],
+   "unitsOptional":[
+      
+   ],
+   "units":{
+      "R/616/6181":{
+         "title":"Health and Safety in a Construction Environment",
+         "data":[
+            "1",
+            "21"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Know the principles of risk assessment for maintaining and improving health and safety at work.",
+               "questions":{
+                  "1.1":"State the purpose of risk assessments and method statements.",
+                  "1.2":"State the legal requirements of risk assessments and method statements.",
+                  "1.3":"State common causes of work-related:<ul><li>fatalities</li><li>injuries.</li></ul>",
+                  "1.4":"State the implications of not preventing accidents and ill health at work.",
+                  "1.5":"State the meaning of the following in relation to health and safety at work:<ul><li>accident</li><li>near miss</li><li>hazard</li><li>risk</li><li>competence</li></ul>",
+                  "1.6":"List typical hazards and potential risks associated with the following:<ul><li>resources</li><li>equipment</li><li>obstructions</li><li>storage</li><li>services</li><li>wastes</li><li>work activities.</li></ul>",
+                  "1.7":"State the importance of reporting accidents and near misses.",
+                  "1.8":"State typical accident reporting procedures.",
+                  "1.9":"State who is responsible for making accident reports.",
+                  "1.10":"State the purpose of dynamic risk assessments"
+               }
+            },
+            "2":{
+               "title":"Know the importance of safe manual handling in the workplace.",
+               "questions":{
+                  "2.1":"State the reasons for ensuring safe manual handling in the workplace.",
+                  "2.2":"State the potential injuries and ill health that may occur from incorrect manual handling.",
+                  "2.3":"State the employee’s responsibilities under current legislation and official guidance for:<ul><li>moving and storing materials</li><li>manual handling</li><li>mechanical lifting</li></ul>",
+                  "2.4":"State the procedures for safe lifting in accordance with official guidance.",
+                  "2.5":"State the importance of using site safety equipment when handling materials and equipment.",
+                  "2.6":"List aids available to assist manual handling in the workplace.",
+                  "2.7":"State how to apply safe work practices, follow procedures and report problems when carrying out safe manual handling in the workplace."
+               }
+            },
+            "3":{
+               "title":"Know the importance of working safely at height in the workplace.",
+               "questions":{
+                  "3.1":"Define the term ‘working at height’",
+                  "3.2":"State the employee’s responsibilities under current legislation and official guidance whilst working at height.",
+                  "3.3":"List hazards and potential risks associated with the following:<ul><li>dropping tools and debris</li><li>stability of ladders</li><li>overhead cables</li><li>fragile roofs</li><li>scaffolds</li><li>internal voids</li><li>equipment</li><li>the working area</li><li>other people</li></ul>",
+                  "3.4":"State how hazards and potential risks associated with working at height can be controlled.",
+                  "3.5":"State the regulation that controls the use of suitable equipment for working at height."
+               }
+            },
+            "4":{
+               "title":"Know risks to health within a construction environment.",
+               "questions":{
+                  "4.1":"List the main groups of substances hazardous to health under current regulations.",
+                  "4.2":"List common risks to health within a construction environment.",
+                  "4.3":"State the types of hazards and potential risks that may occur in the workplace linked with the use of drugs and alcohol.",
+                  "4.4":"State the importance of the correct storage of combustibles and chemicals on site.",
+                  "4.5":"State the importance of personal hygiene within a construction environment.",
+                  "4.6":"State the potential risks to the health of workers exposed to asbestos.",
+                  "4.7":"State the types of asbestos waste.",
+                  "4.8":"State the types of personal protective equipment (PPE) that may be used when dealing with hazardous materials."
+               }
+            },
+            "5":{
+               "title":"Know the importance of working around plant and equipment safely.",
+               "questions":{
+                  "5.1":"List ways in which moving plant, machinery or equipment can cause injuries.",
+                  "5.2":"State the hazards/risks relating to the use of plant and equipment.",
+                  "5.3":"State the importance of safeguards located near where plant, machinery and equipment are being used.",
+                  "5.4":"State the importance of keeping a safe distance away from plant, machinery or equipment until clear contact is made with the operator.",
+                  "5.5":"Outline how method statements can assist in ensuring the safety of workers where moving plant, machinery or equipment is in use.",
+                  "5.6":"State the ways to eliminate or control risks relating to working around plant, machinery or equipment.",
+                  "5.7":"Identify hazard warning signs and symbols used when operating, working with, around or in close proximity to plant, machinery or equipment."
+               }
+            }
+         }
+      }
+   }
+}
