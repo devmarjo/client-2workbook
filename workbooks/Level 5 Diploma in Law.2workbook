@@ -1,0 +1,779 @@
+{
+   "version":"V1.1",
+   "versionDate":"January 2025",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/media/documents/ProQual-Level-5-Diploma-in-Law.pdf",
+   "coverTitle":"Level 5 Diploma in Law",
+   "coverImg":"/images/workbooks/cover/LAWYER.png",
+   "coverAcademyImg":"",
+   "sections":[
+      {
+         "title":"Introduction",
+         "content":"Welcome to the Workbook for the <b>ProQual Level 5 Diploma in Law</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+      },
+      {
+         "title":"Purpose of this Workbook",
+         "content":"<p>This workbook aims to:</p><ul><li>Provide learners with a comprehensive understanding of the legal system, including key legal concepts, theories, and practices.</li><li>Equip learners with the skills necessary to apply legal knowledge effectively in practical scenarios.</li><li>Develop critical thinking, analytical skills, and a detailed understanding of various areas of law such as contract law, criminal law, and property law.</li></ul>"
+      },
+      {
+         "title":"Structure of the Workbook",
+         "content":"<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Units:</h3><ul><li>Contract Law</li><li>Tort Law</li><li>Criminal Law</li><li>Constitutional and Administrative Law</li><li>European Union Law</li><li>Family Law</li><li>Property Law</li><li>Land Law</li><li>Company Law</li><li>Employment Law</li><li>Legal Research and Writing</li><li>Dispute Resolution and Alternative Dispute Resolution (ADR)</li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+      },
+      {
+         "title":"How to Use This Workbook",
+         "content":"<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+      },
+      {
+         "BreakPage":"before",
+         "title":"Qualification Profile",
+         "content":"<div><b>Qualification title:</b> ProQual Level 5 Diploma in Law</div><div><b>Qualification number:</b> 610/5251/6</div><div><b>Level:</b> 5</div><div><b>Total qualification time:</b> 2400 Hours</div><div><b>Credits:</b> 240</div><div><b>Guided learning hours:</b> 1200 Hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• Externally verified by ProQual Verifiers</div><div><b>Qualification start date:</b> 24/01/2025</div><div><b>Qualification review date:</b> 24/01/2028</div>"
+      }
+   ],
+   "unitsColumnsData":[
+      "Unit Level",
+      "TQT",
+      "GLH"
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory units",
+         "qtyRequired":12,
+         "units":[
+            "R/651/4602",
+            "T/651/4603",
+            "Y/651/4604",
+            "A/651/4605",
+            "D/651/4606",
+            "F/651/4607",
+            "H/651/4608",
+            "J/651/4609",
+            "M/651/4610",
+            "R/651/4611",
+            "T/651/4612",
+            "Y/651/4613"
+         ]
+      }
+   ],
+   "unitsOptional":[
+      
+   ],
+   "units":{
+      "R/651/4602":{
+         "title":"Contract Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the fundamental principles of contract law.",
+               "questions":{
+                  "1.1":"Define contract law and its role in regulating agreements.",
+                  "1.2":"Explain the key principles of contract law, including:<ul><li>Offer.</li><li>Acceptance.</li><li>Consideration.</li></ul>",
+                  "1.3":"Discuss the concept of legal capacity and consent in contract formation.",
+                  "1.4":"Identify the role of contract law in protecting the interests of the parties.",
+                  "1.5":"Discuss the common sources of contract law, including:<ul><li>Case Law.</li><li>Statutes.</li></ul>"
+               }
+            },
+            "2":{
+               "title":"Understand the formation and elements of a valid contract.",
+               "questions":{
+                  "2.1":"Explain the process of contract formation and the elements of a valid contract.",
+                  "2.2":"Discuss the importance of intention to create legal relations in contract law.",
+                  "2.3":"Evaluate the concept of capacity to contract and its legal implications.",
+                  "2.4":"Analyse the role of consideration and its validity in contracts.",
+                  "2.5":"Discuss the impact of misrepresentation and mistake on contract validity."
+               }
+            },
+            "3":{
+               "title":"Analyse the rights and obligations of parties under a contract.",
+               "questions":{
+                  "3.1":"Discuss the rights of parties in a contract.",
+                  "3.2":"Evaluate the duties and responsibilities of the offeror and offeree.",
+                  "3.3":"Discuss the concept of privity of contract and its exceptions.",
+                  "3.4":"Analyse the impact of third-party rights under contract law.",
+                  "3.5":"Discuss the effects of contract terms (express and implied) on parties’ obligations."
+               }
+            },
+            "4":{
+               "title":"Examine the legal remedies for breach of contract.",
+               "questions":{
+                  "4.1":"Identify and explain the different types of contract breaches.",
+                  "4.2":"Discuss the legal remedies available for breach of contract.",
+                  "4.3":"Analyse the principles of compensation in breach of contract cases.",
+                  "4.4":"Discuss the role of liquidated damages clauses in contracts.",
+                  "4.5":"Evaluate the role of the court in enforcing contract terms and remedies."
+               }
+            },
+            "5":{
+               "title":"Assess the impact of statutory laws and regulations on contracts.",
+               "questions":{
+                  "5.1":"Discuss statutory regulations affecting contracts, including but not limited to:<ul><li>Consumer Protection Act.</li><li>Sale of Goods Act.</li></ul>",
+                  "5.2":"Analyse the impact of the Unfair Contract Terms Act on contract law.",
+                  "5.3":"Discuss the role of contract law in consumer protection and fair trading.",
+                  "5.4":"Discuss the implications of the Electronic Contracts Regulations on online agreements.",
+                  "5.5":"Evaluate the interaction between contract law and other areas of law."
+               }
+            }
+         }
+      },
+      "T/651/4603":{
+         "title":"Tort Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the fundamental principles of tort law.",
+               "questions":{
+                  "1.1":"Define “tort law”.",
+                  "1.2":"Explain the role of protecting individual’s rights.",
+                  "1.2x":"Explain the difference between tort law and contract law.",
+                  "1.3":"Discuss the classification of torts, including:<ul><li>Negligence.</li><li>Trespass.</li><li>Defamation.</li></ul>",
+                  "1.4":"Identify the main principles underlying tortious liability.",
+                  "1.5":"Analyse the role of tort law in providing compensation and justice."
+               }
+            },
+            "2":{
+               "title":"Analyse the elements of negligence and liability.",
+               "questions":{
+                  "2.1":"Explain the elements of negligence, including:<ul><li>Duty of care.</li><li>Breach of duty.</li><li>Causation.</li><li>Damages.</li></ul>",
+                  "2.2":"Analyse key cases in negligence law.",
+                  "2.3":"Evaluate the role of foreseeability and proximity in negligence claims.",
+                  "2.4":"Discuss the concept of contributory negligence and comparative negligence.",
+                  "2.5":"Assess defences available to negligence claims."
+               }
+            },
+            "3":{
+               "title":"Evaluate the concept of intentional torts and defences.",
+               "questions":{
+                  "3.1":"Define intentional torts and identify their key characteristics.",
+                  "3.2":"Discuss torts such as:<ul><li>Assault.</li><li>Battery.</li><li>False imprisonment.</li><li>Defamation.</li></ul>",
+                  "3.3":"Analyse the defences available in intentional tort claims (e.g., consent, self-defence).",
+                  "3.4":"Evaluate the impact of intentional torts on personal injury claims.",
+                  "3.5":"Discuss the role of tort law in protecting reputation and privacy."
+               }
+            },
+            "4":{
+               "title":"Examine the principles of strict liability and vicarious liability.",
+               "questions":{
+                  "4.1":"Explain the principles of strict liability and its application in tort law.",
+                  "4.2":"Discuss the concept of vicarious liability and its implications for employers and employees.",
+                  "4.3":"Analyse cases involving strict liability.",
+                  "4.4":"Discuss the role of insurance in managing tortious liability.",
+                  "4.5":"Discuss the relationship between tort law and statutory liability."
+               }
+            },
+            "5":{
+               "title":"Assess the remedies available in tort law.",
+               "questions":{
+                  "5.1":"Identify the range of remedies available in tort law.",
+                  "5.2":"Evaluate the effectiveness of remedies in providing justice to victims.",
+                  "5.3":"Analyse the role of tort law in preventing harm through deterrence.",
+                  "5.4":"Evaluate the impact of tort reform on available remedies.",
+                  "5.5":"Discuss the challenges in quantifying damages in tort claims."
+               }
+            }
+         }
+      },
+      "Y/651/4604":{
+         "title":"Criminal Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles and sources of criminal law.",
+               "questions":{
+                  "1.1":"Define criminal law and its role in society.",
+                  "1.2":"Discuss the sources of criminal law including statutory law and case law).",
+                  "1.3":"Analyse the relationship between criminal law and other areas of law.",
+                  "1.4":"Explain the role of criminal law in maintaining public order and safety.",
+                  "1.5":"Discuss the principles of justice in criminal law."
+               }
+            },
+            "2":{
+               "title":"Analyse the key elements of criminal liability.",
+               "questions":{
+                  "2.1":"Define the elements of a crime (actus reus and mens rea).",
+                  "2.2":"Analyse the concept of criminal intent and recklessness.",
+                  "2.3":"Discuss the different levels of criminal liability, including strict liability and corporate liability.",
+                  "2.4":"Discuss the role of criminal procedure in establishing guilt or innocence.",
+                  "2.5":"Discuss the standard of proof in criminal cases."
+               }
+            },
+            "3":{
+               "title":"Examine specific offenses under criminal law.",
+               "questions":{
+                  "3.1":"Define a range of specific criminal offenses, including but not limited to:<ul><li>Assault.</li><li>Murder.</li><li>Theft.</li></ul>",
+                  "3.2":"Analyse the legal definitions and elements of major crimes.",
+                  "3.3":"Evaluate sentencing guidelines for various criminal offenses.",
+                  "3.4":"Discuss the impact of criminal offenses on victims and society.",
+                  "3.5":"Discuss the role of sentencing in deterring criminal behaviour"
+               }
+            },
+            "4":{
+               "title":"Evaluate defences to criminal liability.",
+               "questions":{
+                  "4.1":"Define the main defences to criminal liability, including:<ul><li>Self-defence,</li><li>Insanity.</li><li>Duress.</li></ul>",
+                  "4.2":"Discuss the conditions under which these defences can be successfully applied.",
+                  "4.3":"Discuss the impact of these defences on the criminal justice system.",
+                  "4.4":"Analyse case law involving defences to criminal liability.",
+                  "4.5":"Discuss the relationship between defences and the fairness of criminal trials."
+               }
+            },
+            "5":{
+               "title":"Assess the impact of criminal justice systems and procedures.",
+               "questions":{
+                  "5.1":"Analyse the functioning of criminal courts and the role of the judiciary.",
+                  "5.2":"Discuss the role of police and law enforcement in criminal investigations.",
+                  "5.3":"Discuss the rights of the accused within the criminal justice system.",
+                  "5.4":"Discuss the role of plea bargaining in criminal cases.",
+                  "5.5":"Evaluate the effectiveness of criminal law in preventing and addressing crime."
+               }
+            }
+         }
+      },
+      "A/651/4605":{
+         "title":"Constitutional and Administrative Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles of constitutional and administrative law.",
+               "questions":{
+                  "1.1":"Define constitutional law and its key principles.",
+                  "1.2":"Explain the sources of constitutional law, including statutes and case law.",
+                  "1.3":"Discuss the relationship between constitutional law and the rule of law.",
+                  "1.4":"Analyse the significance of constitutions in regulating government power.",
+                  "1.5":"Discuss the role of constitutional law in safeguarding democracy and justice."
+               }
+            },
+            "2":{
+               "title":"Analyse the structure and function of government institutions.",
+               "questions":{
+                  "2.1":"Analyse the role and functions of government branches.",
+                  "2.2":"Discuss the process of law-making in constitutional and administrative law.",
+                  "2.3":"Evaluate the powers and responsibilities of public authorities and administrative agencies.",
+                  "2.4":"Discuss the principles of accountability and transparency in public administration.",
+                  "2.5":"Discuss the role of Parliament in constitutional governance."
+               }
+            },
+            "3":{
+               "title":"Examine the separation of powers and checks and balances in constitutional law.",
+               "questions":{
+                  "3.1":"Analyse the concept of separation of powers in constitutional law.",
+                  "3.2":"Discuss the checks and balances system in maintaining government integrity.",
+                  "3.3":"Evaluate the relationship between the executive, legislative, and judicial branches.",
+                  "3.4":"Assess the role of constitutional conventions and precedents in government.",
+                  "3.5":"Examine the implications of constitutional reforms on governance."
+               }
+            },
+            "4":{
+               "title":"Evaluate the role of judicial review in administrative law.",
+               "questions":{
+                  "4.1":"Define “judicial review.”",
+                  "4.2":"Describe the role of judicial review in overseeing administrative decisions.",
+                  "4.2x":"Assess the grounds for judicial review in administrative law.",
+                  "4.3":"Analyse landmark judicial review cases and their impact on governance.",
+                  "4.4":"Discuss the limits and powers of judicial review in protecting individual rights.",
+                  "4.5":"Evaluate the effectiveness of judicial review in holding government accountable."
+               }
+            },
+            "5":{
+               "title":"Assess the role of rights and freedoms in constitutional law.",
+               "questions":{
+                  "5.1":"Analyse the protection of human rights and freedoms under constitutional law.",
+                  "5.2":"Discuss the role of constitutional law in upholding fundamental rights (e.g., freedom of speech, right to fair trial).",
+                  "5.3":"Examine the relationship between rights and duties in constitutional governance.",
+                  "5.4":"Evaluate the balance between government power and individual rights.",
+                  "5.5":"Assess constitutional mechanisms for safeguarding rights in the face of state action."
+               }
+            }
+         }
+      },
+      "D/651/4606":{
+         "title":"European Union Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the structure and principles of European Union law.",
+               "questions":{
+                  "1.1":"Define “European Union law”.",
+                  "1.2":"Describe the historical development of European Union law.",
+                  "1.3":"Explain the key principles of EU law (e.g., supremacy, direct effect, and subsidiarity).",
+                  "1.4":"Discuss the aims and functions of the European Union in shaping laws.",
+                  "1.5":"Identify the legal relationships between EU law and national law.",
+                  "1.6":"Discuss the role of the European Union in creating a single European market."
+               }
+            },
+            "2":{
+               "title":"Analyse the sources and authority of European Union law.",
+               "questions":{
+                  "2.1":"Analyse the sources of European Union law (e.g., treaties, regulations, directives).",
+                  "2.2":"Discuss the legal authority and hierarchy of EU law within member states.",
+                  "2.3":"Discuss the impact of EU law on national legal systems.",
+                  "2.4":"Explain the relationship between European Union law and international law.",
+                  "2.5":"Analyse the role of the European Court of Justice in interpreting EU law."
+               }
+            },
+            "3":{
+               "title":"Examine the key legal institutions within the European Union.",
+               "questions":{
+                  "3.1":"Describe the key institutions of the European Union, including:<ul><li>European Commission.</li><li>European Parliament.</li><li>European Council.</li></ul>",
+                  "3.2":"Analyse the decision-making process within EU institutions.",
+                  "3.3":"Discuss the roles and responsibilities of EU bodies in law-making and enforcement.",
+                  "3.4":"Discuss the role of the European Court of Justice and the European Court of Human Rights.",
+                  "3.5":"Evaluate the relationship between the EU and its member states."
+               }
+            },
+            "4":{
+               "title":"Evaluate the impact of European Union law on member states and individuals.",
+               "questions":{
+                  "4.1":"Evaluate the legal implications of European Union law on member states.",
+                  "4.2":"Analyse the rights of individuals and businesses under EU law.",
+                  "4.3":"Discuss the principles of free movement of goods, services, people, and capital within the EU.",
+                  "4.4":"Discuss the impact of EU law on the domestic legal systems of member states.",
+                  "4.5":"Examine the role of the EU in harmonizing laws across member states."
+               }
+            },
+            "5":{
+               "title":"Assess the role of European Union law in international trade and relations.",
+               "questions":{
+                  "5.1":"Discuss the impact of EU law on international trade and global relations.",
+                  "5.2":"Analyse EU competition law and its impact on businesses and trade.",
+                  "5.3":"Discuss the role of EU law in regulating international agreements.",
+                  "5.4":"Evaluate the EU’s position on global issues such as human rights, the environment, and trade.",
+                  "5.5":"Discuss the implications of Brexit on European Union law."
+               }
+            }
+         }
+      },
+      "F/651/4607":{
+         "title":"Family Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles and sources of family law.",
+               "questions":{
+                  "1.1":"Define family law and explain its role in regulating family relationships.",
+                  "1.2":"Identify the key sources of family law, including statutes and case law.",
+                  "1.3":"Discuss the role of family law in protecting individuals' rights within the family structure.",
+                  "1.4":"Discuss the evolution of family law in the context of societal changes.",
+                  "1.5":"Analyse the relationship between family law and other areas of law, such as property law."
+               }
+            },
+            "2":{
+               "title":"Analyse the legal aspects of marriage and civil partnerships.",
+               "questions":{
+                  "2.1":"Analyse the legal requirements for marriage and civil partnerships.",
+                  "2.2":"Explain the concept of “legal capacity” when entering into marriage or partnership.",
+                  "2.3":"Discuss the rights and duties of spouses and civil partners under family law.",
+                  "2.4":"Discuss the legal consequences of non- consensual marriage or partnership.",
+                  "2.5":"Analyse the legal implications of cohabitation agreements."
+               }
+            },
+            "3":{
+               "title":"Examine the legal consequences of divorce and separation.",
+               "questions":{
+                  "3.1":"Define “divorce” and “legal separation”.",
+                  "3.2":"Describe the grounds for divorce and legal separation under family law.",
+                  "3.3":"Analyse the legal process of divorce, including division of assets and property.",
+                  "3.4":"Discuss the concept of spousal support and alimony.",
+                  "3.5":"Discuss the role of family courts in resolving disputes between spouses.",
+                  "3.6":"Evaluate the challenges in international family law, for example, cross-border divorces."
+               }
+            },
+            "4":{
+               "title":"Evaluate the protection of children under family law.",
+               "questions":{
+                  "4.1":"Analyse the legal protection of children in family law.",
+                  "4.2":"Discuss parental responsibility and legal custody arrangements.",
+                  "4.3":"Analyse the role of family courts in determining child protection cases.",
+                  "4.4":"Discuss the impact of domestic violence on child custody and visitation.",
+                  "4.5":"Evaluate the role of social services and child welfare agencies in family law."
+               }
+            },
+            "5":{
+               "title":"Assess the rights and obligations in matters of child custody and support.",
+               "questions":{
+                  "5.1":"Describe the legal issues surrounding child custody and visitation.",
+                  "5.2":"Discuss the principles of child support and financial responsibility.",
+                  "5.3":"Discuss the role of family mediation and counselling in custody disputes.",
+                  "5.4":"Discuss the legal framework governing adoption and surrogacy.",
+                  "5.5":"Evaluate the rights of children in matters of custody and care."
+               }
+            }
+         }
+      },
+      "H/651/4608":{
+         "title":"Property Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles and sources of property law.",
+               "questions":{
+                  "1.1":"Define “property law”.",
+                  "1.2":"Discuss the purpose of property law in regulating the ownership and use of property.",
+                  "1.3":"Analyse the different classifications of property, including real property and personal property.",
+                  "1.4":"Discuss the key sources of property law, including:<ul><li>Statutes.</li><li>Case law.</li><li>Equity.</li></ul>",
+                  "1.5":"Discuss the role of property law in protecting individual and commercial interests.",
+                  "1.6":"Evaluate the relationship between property law and other areas of law, such as contract law."
+               }
+            },
+            "2":{
+               "title":"Analyse the different types of property and ownership rights.",
+               "questions":{
+                  "2.1":"Discuss the concept of ownership and the rights attached to ownership.",
+                  "2.2":"Describe different types of property interests, including:<ul><li>Freehold.</li><li>Leasehold.</li><li>Easements.</li></ul>",
+                  "2.3":"Discuss the legal distinctions between personal property and real property.",
+                  "2.4":"Discuss the legal consequences of property disputes, including boundary issues and trespass.",
+                  "2.5":"Analyse the role of intellectual property law in protecting intangible assets."
+               }
+            },
+            "3":{
+               "title":"Examine the legal processes involved in the transfer of property.",
+               "questions":{
+                  "3.1":"Analyse the process of transferring property rights, including:<ul><li>Sale.</li><li>Inheritance.</li><li>Gifting.</li></ul>",
+                  "3.2":"Discuss the legal formalities involved in property transactions.",
+                  "3.3":"Discuss the role of registration and title in the conveyance of property.",
+                  "3.4":"Analyse the implications of property transactions on creditors and third parties.",
+                  "3.5":"Discuss the impact of fraud or misrepresentation in property transactions."
+               }
+            },
+            "4":{
+               "title":"Evaluate the protection of property rights under law.",
+               "questions":{
+                  "4.1":"Discuss the legal protections available for property owners.",
+                  "4.2":"Analyse the rights of possession, use, and disposal of property under the law.",
+                  "4.3":"Evaluate the role of property law in protecting against theft or unlawful interference with property.",
+                  "4.4":"Discuss the impact of land use and zoning laws on property ownership.",
+                  "4.5":"Discuss the role of adverse possession in property law."
+               }
+            },
+            "5":{
+               "title":"Assess the impact of leases and tenancy agreements on property law.",
+               "questions":{
+                  "5.1":"Discuss the legal aspects of leases, tenancy agreements, and rent control.",
+                  "5.2":"Analyse the rights and duties of landlords and tenants.",
+                  "5.3":"Explain the legal processes involved in eviction and dispute resolution.",
+                  "5.4":"Analyse the impact of leasehold reforms on tenants’ rights.",
+                  "5.5":"Discuss the role of housing law in protecting vulnerable tenants."
+               }
+            }
+         }
+      },
+      "J/651/4609":{
+         "title":"Land Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles and sources of land law.",
+               "questions":{
+                  "1.1":"Define land law and its role in regulating land ownership and use.",
+                  "1.2":"Explain the role of land law in regulating land ownership and use.",
+                  "1.3":"Explain the key sources of land law, including:<ul><li>Statutes.</li><li>Case law.</li><li>Equity.</li></ul>",
+                  "1.4":"Analyse the distinction between real property and personal property in land law.",
+                  "1.5":"Discuss the relationship between land law and other areas of law.",
+                  "1.6":"Evaluate the importance of land law in the regulation of property rights."
+               }
+            },
+            "2":{
+               "title":"Analyse the rights and responsibilities of landowners.",
+               "questions":{
+                  "2.1":"Analyse the rights and responsibilities of landowners under the law.",
+                  "2.2":"Explain the legal concepts of freehold, leasehold, and easements.",
+                  "2.3":"Discuss the role of land registration and title deeds in land law.",
+                  "2.4":"Discuss the concept of possession and adverse possession in land law.",
+                  "2.5":"Analyse the impact of land ownership on the environment and community."
+               }
+            },
+            "3":{
+               "title":"Examine the legal processes of land transfer and conveyancing.",
+               "questions":{
+                  "3.1":"Discuss the legal process of land conveyancing and transfer of ownership.",
+                  "3.2":"Discuss the role of contracts, deeds, and registration in land transactions.",
+                  "3.3":"Evaluate the impact of conveyancing errors and fraud in land law.",
+                  "3.4":"Analyse the implications of land disputes on property rights.",
+                  "3.5":"Discuss the role of solicitors and notaries in land transactions."
+               }
+            },
+            "4":{
+               "title":"Evaluate the impact of land use and zoning laws.",
+               "questions":{
+                  "4.1":"Analyse the concept of zoning and land use regulations.",
+                  "4.2":"Discuss the role of land use planning and environmental law in land development.",
+                  "4.3":"Evaluate the legal processes involved in land development and urban planning.",
+                  "4.4":"Analyse the impact of zoning laws on property values and community development.",
+                  "4.5":"Discuss the interaction between land law and sustainable development goals."
+               }
+            },
+            "5":{
+               "title":"Assess the legal protection of land interests, including mortgages and easements.",
+               "questions":{
+                  "5.1":"Evaluate the role of mortgages in land law and property financing.",
+                  "5.2":"Discuss the concept of security interests and liens in land law.",
+                  "5.3":"Discuss the legal processes involved in foreclosure and repossession.",
+                  "5.4":"Analyse the role of easements and restrictive covenants in land law.",
+                  "5.5":"Discuss the legal framework for environmental protection in land ownership."
+               }
+            }
+         }
+      },
+      "M/651/4610":{
+         "title":"Company Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles and sources of company law.",
+               "questions":{
+                  "1.1":"Define company law and explain its role in regulating business entities.",
+                  "1.2":"Explain the role of company law in regulating business entities.",
+                  "1.3":"Analyse the different types of companies (e.g., limited liability companies, public companies).",
+                  "1.4":"Examine the key sources of company law (e.g., Companies Act, case law).",
+                  "1.5":"Discuss the role of company law in protecting stakeholders' interests.",
+                  "1.6":"Evaluate the relationship between company law and other legal areas (e.g., contract law, tax law)."
+               }
+            },
+            "2":{
+               "title":"Analyse the formation and structure of companies.",
+               "questions":{
+                  "2.1":"Explain the process of company formation, including registration and incorporation.",
+                  "2.2":"Discuss the corporate structure, including shareholders, directors, and officers.",
+                  "2.3":"Discuss the concept of limited liability and its impact on company formation.",
+                  "2.4":"Discuss the advantages and disadvantages of different company structures.",
+                  "2.5":"Analyse the legal requirements for maintaining company records and filings."
+               }
+            },
+            "3":{
+               "title":"Examine the rights and duties of company directors and shareholders.",
+               "questions":{
+                  "3.1":"Discuss the roles and responsibilities of directors in company governance.",
+                  "3.2":"Analyse the fiduciary duties of directors and their obligations to shareholders.",
+                  "3.3":"Discuss the rights of shareholders in corporate decision-making.",
+                  "3.4":"Evaluate the concept of shareholder activism and its impact on company management.",
+                  "3.5":"Discuss the legal issues surrounding executive compensation and directors' remuneration."
+               }
+            },
+            "4":{
+               "title":"Evaluate the legal issues surrounding mergers, acquisitions, and corporate governance.",
+               "questions":{
+                  "4.1":"Discuss the legal aspects of mergers and acquisitions.",
+                  "4.2":"Discuss the regulatory framework for corporate takeovers and antitrust law.",
+                  "4.3":"Discuss the concept of corporate governance and its impact on corporate decision-making.",
+                  "4.4":"Analyse the role of company law in preventing corporate fraud and misconduct.",
+                  "4.5":"Discuss the challenges of managing corporate social responsibility."
+               }
+            },
+            "5":{
+               "title":"Assess the impact of company law on corporate liability and insolvency.",
+               "questions":{
+                  "5.1":"Analyse the legal implications of company insolvency and bankruptcy.",
+                  "5.2":"Analyse the role of insolvency law in protecting creditors and debtors.",
+                  "5.3":"Discuss the concept of corporate restructuring and its legal processes.",
+                  "5.4":"Discuss the consequences of company liquidation and dissolution.",
+                  "5.5":"Analyse the impact of company law on corporate liability and debt recovery."
+               }
+            }
+         }
+      },
+      "R/651/4611":{
+         "title":"Employment Law",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles and sources of employment law.",
+               "questions":{
+                  "1.1":"Define “employment law”.",
+                  "1.2":"Discuss the role of employment tole in regulating workplace relations.",
+                  "1.3":"Analyse the sources of employment law, including:<ul><li>Statutes.</li><li>Case law.</li><li>EU directives.</li></ul>",
+                  "1.4":"Analyse the relationship between employment law and other areas of law, including contract law and tort law.",
+                  "1.5":"Discuss the role of employment law in promoting fairness and equity in the workplace.",
+                  "1.6":"Evaluate the impact of statutory regulations on employer-employee relationships."
+               }
+            },
+            "2":{
+               "title":"Analyse the employment relationship and its legal elements.",
+               "questions":{
+                  "2.1":"Analyse the legal elements of an employment contract.",
+                  "2.2":"Discuss the concept of employee status and the distinction between employees and independent contractors.",
+                  "2.3":"Analyse the role of collective bargaining and trade unions in employment law.",
+                  "2.4":"Discuss the legal issues related to employee benefits and entitlements.",
+                  "2.5":"Discuss the employment contract's role in outlining rights and duties of both parties."
+               }
+            },
+            "3":{
+               "title":"Examine the rights and duties of employees and employers.",
+               "questions":{
+                  "3.1":"Discuss the rights of employees in the workplace, including but not limited to:<ul><li>Health and safety.</li><li>Non-discrimination.</li><li>Equality.</li></ul>",
+                  "3.2":"Analyse the obligations of employers towards employees.",
+                  "3.3":"Discuss employment law’s role in protecting vulnerable workers (e.g., part-time workers, temporary workers).",
+                  "3.4":"Evaluate the impact of employment law on dismissal and redundancy processes.",
+                  "3.5":"Discuss the legal consequences of unfair dismissal and discrimination claims."
+               }
+            },
+            "4":{
+               "title":"Evaluate the legal aspects of workplace disputes and grievance resolution.",
+               "questions":{
+                  "4.1":"Explain the legal processes for resolving workplace disputes.",
+                  "4.2":"Analyse the role of grievance procedures and disciplinary actions in employment law.",
+                  "4.3":"Discuss the legal framework for handling claims of workplace harassment and bullying.",
+                  "4.4":"Discuss the role of mediation and arbitration in employment disputes.",
+                  "4.5":"Analyse the impact of employment tribunals in resolving disputes between employees and employers."
+               }
+            },
+            "5":{
+               "title":"Assess the role of employment law in protecting workers' rights.",
+               "questions":{
+                  "5.1":"Discuss the impact of employment law on worker protection, including but not limited to:<ul><li>Maternity and paternity leave.</li><li>Sick leave.</li></ul>",
+                  "5.2":"Analyse the role of national and international laws in protecting employee rights.",
+                  "5.3":"Discuss the relationship between employment law and employee well-being.",
+                  "5.4":"Evaluate the effectiveness of employment law in achieving fair labour practices.",
+                  "5.5":"Discuss the legal challenges faced by employees in protecting their rights in a changing labour market."
+               }
+            }
+         }
+      },
+      "T/651/4612":{
+         "title":"Legal Research and Writing",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles of legal research and writing.",
+               "questions":{
+                  "1.1":"Define legal research.",
+                  "1.2":"Explain the role legal research in the legal profession",
+                  "1.3":"Analyse the importance of precision and clarity in legal writing.",
+                  "1.4":"Discuss the ethical considerations in conducting and presenting legal research.",
+                  "1.5":"Discuss the role of legal research in forming legal arguments.",
+                  "1.6":"Discuss the challenges in finding and applying legal resources effectively."
+               }
+            },
+            "2":{
+               "title":"Analyse the legal research process and methodologies.",
+               "questions":{
+                  "2.1":"Explain the process of legal research, from topic selection to final analysis.",
+                  "2.2":"Discuss primary and secondary legal sources, including:<ul><li>Case law.</li><li>Statutes.</li><li>Legal databases.</li></ul>",
+                  "2.3":"Analyse the importance of legal databases and online resources in research.",
+                  "2.4":"Discuss the role of legal citations in academic and professional legal writing.",
+                  "2.5":"Discuss the role of legal research in solving complex legal issues."
+               }
+            },
+            "3":{
+               "title":"Examine the techniques for effective legal writing.",
+               "questions":{
+                  "3.1":"Explain the components of legal writing.",
+                  "3.2":"Discuss the importance of legal drafting skills in legal documents.",
+                  "3.3":"Discuss the role of writing skills in communicating legal ideas effectively.",
+                  "3.4":"Analyse the significance of presenting a well- reasoned argument in legal writing.",
+                  "3.5":"Discuss the importance of using clear and concise language in legal writing."
+               }
+            },
+            "4":{
+               "title":"Evaluate the importance of case law and legal precedent in legal writing.",
+               "questions":{
+                  "4.1":"Analyse the role of case law and legal precedent in legal research and writing.",
+                  "4.2":"Discuss the impact of case law on legal reasoning and argumentation.",
+                  "4.3":"Discuss the process of distinguishing, applying, and synthesizing case law.",
+                  "4.4":"Discuss the concept of stare decisis and its significance in legal writing.",
+                  "4.5":"Analyse the role of statutory law in supporting or challenging case law in research."
+               }
+            },
+            "5":{
+               "title":"Assess the impact of legal research in practice.",
+               "questions":{
+                  "5.1":"Analyse the effectiveness of legal research in solving legal problems.",
+                  "5.2":"Discuss the role of legal writing in shaping legal outcomes.",
+                  "5.3":"Discuss the application of legal research and writing in professional settings.",
+                  "5.4":"Analyse the importance of legal research and writing in legal education and practice.",
+                  "5.5":"Discuss the challenges faced by legal professionals in legal research and writing."
+               }
+            }
+         }
+      },
+      "Y/651/4613":{
+         "title":"Dispute Resolution and Alternative Dispute Resolution (ADR)",
+         "data":[
+            "5",
+            "200"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles of dispute resolution and ADR.",
+               "questions":{
+                  "1.1":"Define “dispute resolution”.",
+                  "12":"Explain the importance of dispute resolution in the legal process.",
+                  "1.2":"Discuss the principles underlying ADR and its goals.",
+                  "1.3":"Analyse the relationship between ADR and litigation.",
+                  "1.4":"Discuss the role of negotiation and mediation in resolving disputes.",
+                  "1.5":"Discuss the global impact of ADR in improving access to justice."
+               }
+            },
+            "2":{
+               "title":"Analyse the different types of ADR mechanisms.",
+               "questions":{
+                  "2.1":"Identify and describe various ADR mechanisms, including:<ul><li>Mediation.</li><li>Arbitration.</li><li>Negotiation.</li></ul>",
+                  "2.3":"Analyse the processes involved in each type of ADR.",
+                  "2.4":"Discuss the role of ADR professionals (e.g., mediators, arbitrators).",
+                  "2.5":"Discuss the use of ADR in different legal contexts, including:<ul><li>Civil.</li><li>Commercial.</li><li>Family law.</li></ul>"
+               }
+            },
+            "3":{
+               "title":"Examine the advantages and disadvantages of ADR.",
+               "questions":{
+                  "3.1":"Discuss the advantages of ADR over traditional litigation",
+                  "3.2":"Analyse the potential limitations and disadvantages of ADR,",
+                  "3.3":"Discuss the ethical considerations in ADR.",
+                  "3.4":"Analyse the role of ADR in preserving relationships between disputing parties.",
+                  "3.5":"Discuss the role of ADR in reducing the burden on court systems."
+               }
+            },
+            "4":{
+               "title":"Evaluate the legal framework for ADR in the legal system.",
+               "questions":{
+                  "4.1":"Discuss the legal framework for ADR in national and international contexts.",
+                  "4.2":"Discuss the enforcement of ADR decisions in various legal systems.",
+                  "4.3":"Analyse the role of ADR in resolving cross-border disputes.",
+                  "4.4":"Discuss the impact of international conventions on ADR practices.",
+                  "4.5":"Analyse the future of ADR in global dispute resolution."
+               }
+            },
+            "5":{
+               "title":"Assess the role of ADR in resolving commercial and family disputes.",
+               "questions":{
+                  "5.1":"Discuss the role of ADR in resolving commercial disputes.",
+                  "5.2":"Discuss the use of ADR in family law and divorce disputes.",
+                  "5.3":"Analyse the effectiveness of ADR in resolving workplace disputes.",
+                  "5.4":"Analyse the role of ADR in public sector disputes.",
+                  "5.5":"Examine the challenges of applying ADR in different types of legal disputes."
+               }
+            }
+         }
+      }
+   }
+}
