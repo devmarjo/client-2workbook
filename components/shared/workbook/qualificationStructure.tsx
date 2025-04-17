@@ -53,7 +53,7 @@ export function QualificationStructure() {
             if (credits > creditsRequired) return toast('The required credits quantity has already been reached.' )
             opUnits[index].selected.push(unit)
             opUnits[index].selected = [...new Set(opUnits[index].selected)]
-          } else if (opUnits[index].selected.length < opUnits[index].qtyRequired) {
+          } else if (opUnits[index].selected.length < opUnits[index].qtyRequired || opUnits[index].noMaxQty) {
             opUnits[index].selected.push(unit)
             opUnits[index].selected = [...new Set(opUnits[index].selected)]
           } else {

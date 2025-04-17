@@ -10,6 +10,7 @@ export interface WorkbookGroup {
   groupName: string;
   creditsRequired?: number;
   qtyRequired: number;
+  noMaxQty: number;
   units: string[];
   selected: string[];
 }

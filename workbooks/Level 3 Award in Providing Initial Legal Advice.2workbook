@@ -1,0 +1,1071 @@
+{
+   "version":"ProQual 2017",
+   "versionDate":"November 2017",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/wp-content/uploads/2024/04/ProQual-Level-3-Award-in-Education-and-Training-2.pdf",
+   "coverTitle":"Workbook Level 3 Award in Providing Initial Legal Advice",
+   "coverImg":"/images/workbooks/cover/LAWYER.png",
+   "coverAcademyImg":"",
+   "sections":[
+      {
+         "title":"Introduction",
+         "content":"Welcome to the Workbook for the <b>Level 3 Award in Providing Initial Legal Advice</b>. This material has been carefully designed to support you in successfully completing your qualification, guiding you through the learning objectives, assessment criteria, and related activities for each unit of the program."
+      },
+      {
+         "title":"Purpose of this Workbook",
+         "content":"<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your competencies in providing legal advice.</li><li>Guide you in gathering the necessary evidence to demonstrate your proficiency in each unit.</li><li>Support you in organizing and presenting your portfolio of evidence, which will be assessed according to ProQual standards.</li></ul>"
+      },
+      {
+         "title":"Structure of the Workbook",
+         "content":"<p>To achieve this qualification, you will need to complete:</p><ul><li><b>Mandatory Unit:</b><ul><li>Providing legal advice to clients</li></ul></li><li><b>At least one unit from Optional Group 1:</b><ul><li>Managing interviews with legal advice clients</li><li>Supporting legal advice clients to act on their own behalf</li><li>Providing and receiving referrals on behalf of legal advice clients</li><li>Contributing to the prevention and management of inappropriate behaviour</li><li>Facilitating legal advice using an interpreter</li><li>Providing legal information and advice using the telephone</li></ul></li><li><b>At least one unit from Optional Group 2:</b><ul><li>Providing initial legal advice in housing law</li><li>Providing initial employment legal information and advice</li><li>Providing initial money and debt legal advice</li><li>Providing initial legal advice in consumer law</li><li>Providing initial legal advice in welfare rights</li><li>Providing initial disability discrimination legal information and advice</li><li>Providing initial health and community care legal information and advice</li><li>Providing initial information and advice in education law</li><li>Providing initial advice on family law</li><li>Providing initial discrimination legal advice and information</li><li>Providing initial legal advice in mental health law</li><li>Providing initial advice to young people on their rights under the law</li></ul></li></ul><p>This workbook is divided into dedicated sections for each unit, allowing you to work in an organized manner while meeting the requirements of the qualification.</p>"
+      },
+      {
+         "title":"How to Use This Workbook",
+         "content":"<ul><li>Carefully read the learning objectives and assessment criteria for each unit.</li><li>Complete the proposed activities, ensuring that you include all required evidence, such as observation reports, assignments, professional discussions, and work products.</li><li>Use this workbook as a tool to track your progress and ensure that all requirements are met before the final assessment.</li></ul>"
+      },
+      {
+         "BreakPage":"before",
+         "title":"Qualification Profile",
+         "content":"<div><b>Qualification title:</b> ProQual Level 3 Award in Providing Initial Legal Advice</div><div><b>Ofqual qualification number:</b> 600/2175/5</div><div><b>Total qualification time:</b> 120 hours</div><div><b>Guided learning hours:</b> 77</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual Verifiers</div><div><b>Qualification start date:</b> 01/07/11</div>"
+      }
+   ],
+   "unitsColumnsData":[
+      "Unit Level",
+      "GHL"
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory unit",
+         "qtyRequired":1,
+         "units":[
+            "R/502/8680"
+         ]
+      }
+   ],
+   "unitsOptional":[
+      {
+         "groupName":"Optional Group 1 - complete at least ONE unit",
+         "qtyRequired":1,
+         "noMaxQty": 1,
+         "units":[
+            "J/502/8868",
+            "H/502/8683",
+            "Y/502/8678",
+            "Y/602/5080",
+            "F/502/8867",
+            "R/502/8453"
+         ],
+         "selected":[
+            
+         ]
+      },
+      {
+         "groupName":"Optional Group 2 – complete at least ONE unit",
+         "qtyRequired":1,
+         "noMaxQty": 1,
+         "units":[
+            "T/502/8879",
+            "H/502/8876",
+            "Y/502/8910",
+            "F/502/8870",
+            "K/502/8880",
+            "J/502/8885",
+            "K/502/8877",
+            "L/502/8869",
+            "M/502/8881",
+            "R/502/8887",
+            "M/502/8878",
+            "J/502/8949"
+         ],
+         "selected":[
+            
+         ]
+      }
+   ],
+   "units":{
+      "R/502/8680":{
+         "title":"Providing legal advice to clients",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the process and procedures of providing legal advice",
+               "questions":{
+                  "1.1":"Analyse the kind of legal advice that can be provided to the client",
+                  "1.2":"Explain why it is important to establish the client’s needs including possible emergency advice",
+                  "1.3":"Evaluate the facilities available to research answers to the client’s needs",
+                  "1.4":"Analyse the organisational, legal and ethical considerations that impact on the provision of legal advice"
+               }
+            },
+            "2":{
+               "title":"Be able to define the client’s needs",
+               "questions":{
+                  "2.1":"Analyse available client information to define needs",
+                  "2.2":"Confirm client needs and expectations with client",
+                  "2.3":"Provide client with information on organisational and legal systems and procedures relevant to the case",
+                  "2.4":"Develop a case plan with the client that meets their needs and complies with organisational and legal requirements"
+               }
+            },
+            "3":{
+               "title":"Be able to provide legal advice to meet the client’s needs",
+               "questions":{
+                  "3.1":"Demonstrate how to research available resources to establish information to meet the client’s needs",
+                  "3.2":"Advise the client on the options available to them",
+                  "3.3":"Check the client’s understanding of the options",
+                  "3.4":"Agree with the client any required follow up actions",
+                  "3.5":"Record and store client and case details using agreed organisational procedures"
+               }
+            }
+         }
+      },
+      "J/502/8868":{
+         "title":"Managing interviews with legal advice clients",
+         "data":[
+            "3",
+            "20"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the importance of developing and managing interviews with legal advice clients",
+               "questions":{
+                  "1.1":"Analyse the stages involved in developing and managing the interview with legal advice clients",
+                  "1.2":"Explain the environmental factors that can impact on the quality of the interview",
+                  "1.3":"Explain why it is important to develop the interview with the legal advice client",
+                  "1.4":"Explain why it is important to manage the interview with the legal advice client",
+                  "1.5":"Explain the organisational, legal and ethical requirements that impact on the interview process"
+               }
+            },
+            "2":{
+               "title":"Be able to manage the interview with the legal advice client",
+               "questions":{
+                  "2.1":"Help the legal advice client to explore their problems and concerns",
+                  "2.2":"Establish that the client can access and is eligible for the services provided",
+                  "2.3":"Use communication skills to encourage the client to contribute to the discussions",
+                  "2.4":"Demonstrate how to maintain the interview with the client",
+                  "2.5":"Analyse how to sustain the interview with difficult or challenging clients"
+               }
+            },
+            "3":{
+               "title":"Be able to complete the interview with the legal advice client",
+               "questions":{
+                  "3.1":"Analyse why it is important to be able to end interviews with legal advice clients",
+                  "3.2":"Explain the steps to take when ending the interview",
+                  "3.3":"Demonstrate how to complete the interview with the legal advice client",
+                  "3.4":"Use organisational procedures to record details and outcomes of the interview"
+               }
+            }
+         }
+      },
+      "H/502/8683":{
+         "title":"Supporting legal advice clients to act on their own behalf",
+         "data":[
+            "3",
+            "20"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the importance of helping clients to act on their own behalf",
+               "questions":{
+                  "1.1":"Analyse the kinds of situation when it may be desirable for clients to act on their own behalf",
+                  "1.2":"Explain why it is important to assess the capability of the client to act on their own behalf",
+                  "1.3":"Analyse ways of establishing the capability of the client to act on their own behalf",
+                  "1.4":"Identify the nature and extent of the support services that can be offered to the client",
+                  "1.5":"Explain the reasons for following organisational, legal and ethical requirements when providing ongoing support for clients"
+               }
+            },
+            "2":{
+               "title":"Be able to establish the client’s needs and capabilities",
+               "questions":{
+                  "2.1":"Work with the client to establish their capability to take actions on their own behalf",
+                  "2.2":"Agree with the client their needs and expectations",
+                  "2.3":"Provide the client with information on the nature and extent of the support services you can provide",
+                  "2.4":"Review with the client their understanding of the support on offer",
+                  "2.5":"Provide the client with information on the legislation, codes of practice, guidelines and ethical requirements relevant to their situation",
+                  "2.6":"Agree with the client the support that will be provided by the service",
+                  "2.7":"Use organisational procedures to record details of the agreed support that will be provided"
+               }
+            },
+            "3":{
+               "title":"Be able to help the client to act on their own behalf",
+               "questions":{
+                  "3.1":"Help the client to access information relevant to their case",
+                  "3.2":"Help the client to prepare a presentation that meets the requirements of others involved in the case",
+                  "3.3":"Help the client to deliver the presentation in a positive fashion",
+                  "3.4":"Explain to the client how to ask and answer questions to support their case"
+               }
+            },
+            "4":{
+               "title":"Be able to provide ongoing support to clients",
+               "questions":{
+                  "4.1":"Explain to clients the nature and extent of the support that is available to them",
+                  "4.2":"Review the progress of the case with the client",
+                  "4.3":"Provide the client with information on the steps that should be taken to progress the case",
+                  "4.4":"Agree with the client who is responsible for the action",
+                  "4.5":"Agree with the client an appropriate end to the provision of support",
+                  "4.6":"Use organisational procedures to record details of the support provided"
+               }
+            }
+         }
+      },
+      "Y/502/8678":{
+         "title":"Providing and receiving referrals on behalf of legal advice clients",
+         "data":[
+            "3",
+            "20"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the processes and procedures for providing and receiving referrals",
+               "questions":{
+                  "1.1":"Explain when it may be appropriate to refer a client to another adviser or service",
+                  "1.2":"Analyse how to match a client’s needs against service provision",
+                  "1.3":"Analyse the range of services available for referral",
+                  "1.4":"Explain how to evaluate the suitability of services to meet the client’s needs",
+                  "1.5":"Identify organisational procedures for providing and receiving referrals",
+                  "1.6":"Analyse the reasons why it may not be possible to refer clients to other services",
+                  "1.7":"Explain the reasons for checking the capacity of other services to receive referrals",
+                  "1.8":"Analyse the referral procedures of other services",
+                  "1.9":"Explain why it is important to provide other services with details of the service you can provide",
+                  "1.10":"Analyse the different referral follow-up procedures that can be implemented",
+                  "1.11":"Explain the reasons for following organisational, legal and ethical requirements during the referral process"
+               }
+            },
+            "2":{
+               "title":"Be able to implement referral procedures on behalf of clients",
+               "questions":{
+                  "2.1":"Analyse the needs of the client including any priority actions required",
+                  "2.2":"Review with the client the services you can provide and those that would be better provided by another adviser or service",
+                  "2.3":"Provide the client with information on alternative services",
+                  "2.4":"Provide the client with information on the referral processes and procedures",
+                  "2.5":"Confirm the client’s agreement to the referral",
+                  "2.6":"Confirm the acceptance of the referral by the other adviser or service",
+                  "2.7":"Confirm any referral follow up procedures with the client",
+                  "2.8":"Follow all organisational, legal and ethical requirements during the referral process",
+                  "2.9":"Use organisational procedures to record details of the referral process"
+               }
+            },
+            "3":{
+               "title":"Be able to accept client referrals from other agencies",
+               "questions":{
+                  "3.1":"Review the needs of the referred client against your service provision",
+                  "3.2":"Analyse your own organisation’s and the referring organisations referral procedures",
+                  "3.3":"Confirm the acceptance of the referral and any follow-up procedures with the referring organisation",
+                  "3.4":"Follow organisational procedures for accepting client referrals",
+                  "3.5":"Follow all organisational, legal and ethical requirements during the referral process",
+                  "3.6":"Use organisational procedures to record details of the referral process"
+               }
+            },
+            "4":{
+               "title":"Be able to review the quality of the referral process",
+               "questions":{
+                  "4.1":"Evaluate the effectiveness of own organisation’s referral processes",
+                  "4.2":"Review with the client, their experience of the referral process",
+                  "4.3":"Review with other services, the effectiveness of the referral process",
+                  "4.4":"Identify areas where improvements can be made to the referral processes",
+                  "4.5":"Use organisational procedures to record details of the possible improvements to the referral process"
+               }
+            }
+         }
+      },
+      "Y/602/5080":{
+         "title":"Contributing to the prevention and management of inappropriate behaviour",
+         "data":[
+            "3",
+            "17"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles of prevention and management of inappropriate behaviour",
+               "questions":{
+                  "1.1":"Explain how the principles of equality, diversity and anti-discriminatory practice apply to own work",
+                  "1.2":"Explain how different forms of behaviour can be interpreted and the ways in which people communicate by behaviour, as well as through language",
+                  "1.3":"Identify constraints to effective communication (interpersonal, physical and environmental) ",
+                  "1.4":"Identify methods of establishing contact which are likely to maximise productive engagement with individuals and minimise unproductive interventions",
+                  "1.5":"Identify the ways in which stereotyping might affect risk assessment",
+                  "1.6":"Explain the difference between aggression and assertiveness",
+                  "1.7":"Identify methods to deal with situations where feelings of anger and frustration are displaced from their original source to those in authority"
+               }
+            },
+            "2":{
+               "title":"Be able to contribute to preventing inappropriate behaviour",
+               "questions":{
+                  "2.1":"Manage the environment in a way that is conducive to meaningful interactions",
+                  "2.2":"Communicate with others in a manner which: <ul><li>is appropriate to them <li>$1</li>encourages an open exchange of views and information <li>$1</li>minimises any constraints to communication <li>$1</li>is free from discrimination and oppression <li>$1</li>acknowledges the rights of everyone present and is supportive of those rights</li></ul>",
+                  "2.3":"Take actions in accordance with organisational guidelines to maintain calmness and safety",
+                  "2.4":"Take appropriate action to prevent triggers to inappropriate behaviour recurring, and to enable individuals to find alternative ways of expressing their feelings ",
+                  "2.5":"Take actions in accordance with organisational guidelines to protect individuals at whom the inappropriate behaviour may be directed "
+               }
+            },
+            "3":{
+               "title":"Be able to deal with incidents of inappropriate behaviour",
+               "questions":{
+                  "3.1":"Take constructive action to minimise identified inappropriate behaviour which is consistent with:<ul><li>any inherent risks<li>$1</li>the maintenance of effective working relationships<li>$1</li>organisational policy and procedures<li>$1</li>evidence of effective practice</li></ul>",
+                  "3.2":"Acknowledge opposing interests and take constructive action to address them ",
+                  "3.3":"Take prompt action to protect those at whom the inappropriate behaviour is directed",
+                  "3.4":"Take constructive action to defuse inappropriate behaviour",
+                  "3.5":"Call for any necessary assistance and emergency support as required",
+                  "3.6":"Act in a manner which is likely to promote calm and reassurance, and make this clear to all involved",
+                  "3.7":"Manage physically inappropriate behaviour in ways that are consistent with organisational guidelines, and use the safest available methods",
+                  "3.8":"Complete records accurately and clearly, and store them according to organisational requirements"
+               }
+            },
+            "4":{
+               "title":"Contribute to reviewing incidents of inappropriate behaviour",
+               "questions":{
+                  "4.1":"Encourage those involved in incidents to contribute to reviewing the incident",
+                  "4.2":"Offer time, space and support so that everyone involved can express their feelings and examine their behaviour",
+                  "4.3":"Explore constructively with everyone involved, the reasons for and the consequences of the abusive and aggressive behaviour",
+                  "4.4":"Make referrals to the appropriate people if specialist help is required",
+                  "4.5":"Make clear and constructive contributions to team discussions about incidents of abusive and aggressive behaviour, and organisational practice in dealing with them",
+                  "4.6":"Manage your own feelings aroused by the incident in a way which recognises your right to have such feelings, and recognise that not all incidents are capable of prevention",
+                  "4.7":"Complete records accurately and clearly, and store them according to organisational requirements",
+                  "4.8":"Provide accurate and clear information to others so that issues and needs can be addressed"
+               }
+            }
+         }
+      },
+      "F/502/8867":{
+         "title":"Facilitating legal advice using an interpreter",
+         "data":[
+            "3",
+            "20"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the use of interpreters in the provision of legal information and advice to clients (including signing)",
+               "questions":{
+                  "1.1":"Analyse the range of situations when it may be appropriate to use an interpreter to facilitate communication with the client",
+                  "1.2":"Analyse ways of sourcing appropriate interpreters",
+                  "1.3":"Analyse how to establish the communication support needs of the client",
+                  "1.4":"Explain how an interpreter can facilitate the communication process",
+                  "1.5":"Analyse any sources of funding that can support working with an interpreter",
+                  "1.6":"Explain how to brief interpreters on the communication process",
+                  "1.7":"Explain why it is important for the client and the interpreter to meet and establish rapport",
+                  "1.8":"Analyse the conditions and environment required to facilitate the communication process",
+                  "1.9":"Analyse the legal, ethical, cultural and organisational requirements for using interpreters to facilitate the communication process"
+               }
+            },
+            "2":{
+               "title":"Be able to set up the interpretation process",
+               "questions":{
+                  "2.1":"Confirm the communication needs of the client",
+                  "2.2":"Confirm the suitability of the interpreter for the client and case",
+                  "2.3":"Provide an opportunity for the interpreter and client to meet to establish rapport",
+                  "2.4":"Set up and agree contractual terms with the interpreter",
+                  "2.5":"Provide the interpreter with oral and written information about the service that can be provided to the client",
+                  "2.6":"Confirm that the client and the interpreter understand the nature and requirements of the communications process",
+                  "2.7":"Establish the environmental needs of the interpreter to facilitate the communication process",
+                  "2.8":"Provide appropriate environment for the communication process to proceed",
+                  "2.9":"Confirm that all legal, ethical, cultural and organisational requirements for using interpreters to facilitate the communication process are agreed and followed"
+               }
+            },
+            "3":{
+               "title":"Be able to facilitate communication with the client through the interpreter",
+               "questions":{
+                  "3.1":"Use clear and unambiguous language in all communications with the client",
+                  "3.2":"Provide opportunities for the interpreter to query any aspect of the interchange that they are unclear about",
+                  "3.3":"Address the client not the interpreter during the communication process",
+                  "3.4":"Provide client and interpreter with opportunities to rest if required",
+                  "3.5":"Agree with the client through the interpreter any additional support that can be provided",
+                  "3.6":"Follow all legal, ethical, cultural and organisational requirements for using interpreters to facilitate the communication process",
+                  "3.7":"Use organisational procedures to record details of the interaction and agreed outcomes"
+               }
+            }
+         }
+      },
+      "R/502/8453":{
+         "title":"Providing legal information and advice using the telephone",
+         "data":[
+            "2",
+            "20"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Know the processes and procedures for providing legal information and advice using the telephone",
+               "questions":{
+                  "1.1":"Describe the reasons for providing legal information and advice using the telephone",
+                  "1.2":"Identify the different kinds of telecommunication technology available for the provision of legal information and advice",
+                  "1.3":"Explain the functions available on your telephone system",
+                  "1.4":"Describe the problems that could occur in maintaining the call and how to overcome them",
+                  "1.5":"Describe the relevant national, local, legal, professional and organisational requirements relating to providing information and advice to clients on the telephone",
+                  "1.6":"Describe ways of making clients feel welcome on the telephone and sustaining the call",
+                  "1.7":"Describe why it is important for the client to recognise the value of their anonymity during the call",
+                  "1.8":"Describe how to recognise signs of increased client stress during the call and why this is important",
+                  "1.9":"Describe how to recognise situations when it might be disadvantageous or dangerous to the client to end the call",
+                  "1.10":"Explain the reasons for following the relevant national, local, legal, professional and organisational requirements relating to providing information and advice to clients on the telephone"
+               }
+            },
+            "2":{
+               "title":"Be able to respond to client queries on the telephone",
+               "questions":{
+                  "2.1":"Respond to client calls in a way that encourages them to remain on the line",
+                  "2.2":"Review the client’s needs and expectations from the call",
+                  "2.3":"Provide information on the services the organisation can provide",
+                  "2.4":"Identify any potential risks or dangers facing the client",
+                  "2.5":"Provide information to the client that will minimise any risks",
+                  "2.6":"Respond to the client’s immediate needs throughout the call",
+                  "2.7":"Identify signs of increased client stress during the call",
+                  "2.8":"Follow the relevant national, local, legal, professional and organisational requirements relating to providing information and advice to clients on the telephone"
+               }
+            },
+            "3":{
+               "title":"Be able to end the call",
+               "questions":{
+                  "3.1":"Describe why it is important to give clear information to the client on why/when the call will be ended",
+                  "3.2":"Provide the client with information on any further actions that could be taken by the client or the organisation",
+                  "3.3":"Identify when it might be disadvantageous or dangerous to the client to end the call",
+                  "3.4":"Follow the relevant national, local, legal, professional and organisational requirements relating to providing information and advice to clients on the telephone"
+               }
+            }
+         }
+      },
+      "T/502/8879":{
+         "title":"Providing initial legal advice in housing law",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the broad legislative (in your country) framework relating to housing",
+               "questions":{
+                  "1.1":"Explain the key principles of the current legislative framework relating to types of tenure and their implications for tenants and landlords",
+                  "1.2":"Explain the legislation relating to housing standards as they relate to tenants including terms of tenancy agreements relating to disrepair",
+                  "1.3":"Analyse the implications of environmental and health and safety requirements in relation to housing",
+                  "1.4":"Analyse the powers and duties of relevant authorities in your country relating to the enforcement of housing standards"
+               }
+            },
+            "2":{
+               "title":"Understand how to advise clients on their rights and options relating to statutory and non statutory housing provision",
+               "questions":{
+                  "2.1":"Analyse the range of eligibility criteria for statutory housing",
+                  "2.2":"Explain how to help clients to complete applications for statutory housing",
+                  "2.3":"Explain the legal rights of clients in relation to statutory housing provision including the right to a written decision and the time limits for challenge",
+                  "2.4":"Evaluate the range of housing options available to clients based on their circumstances and eligibility"
+               }
+            },
+            "3":{
+               "title":"Understand the rights and entitlements of tenants in relation to harassment and eviction",
+               "questions":{
+                  "3.1":"Explain the rights and entitlements of clients in relation to harassment or illegal eviction by the landlord",
+                  "3.2":"Analyse the rights and entitlements of clients in terms of security of tenure in relation to harassment, discrimination and eviction",
+                  "3.3":"Explain the role of statutory enforcement bodies responsible for dealing with discrimination issues relating to housing",
+                  "3.4":"Analyse the legal remedies open to clients in relation to discrimination in housing"
+               }
+            },
+            "4":{
+               "title":"Understand the legal definition of homelessness and the services available to homeless people",
+               "questions":{
+                  "4.1":"Explain the criteria for homelessness",
+                  "4.2":"Analyse the range of accommodation options available to homeless people",
+                  "4.3":"Explain the statutory help and decision making processes available to homeless people",
+                  "4.4":"Evaluate the local arrangements for access and eligibility"
+               }
+            },
+            "5":{
+               "title":"Understand the benefits system and its impact on housing",
+               "questions":{
+                  "5.1":"Explain the key range of benefits, in addition to housing benefit, that can affect a client’s ability to access and retain housing",
+                  "5.2":"Explain the importance of a client maximising income and how this can impact on housing"
+               }
+            },
+            "6":{
+               "title":"Understand the procedures for possession in both social and private housing",
+               "questions":{
+                  "6.1":"Explain the legal possession procedures open to landlords",
+                  "6.2":"Analyse the legal possession procedures that are open to the mortgage or secured loan provider",
+                  "6.3":"Explain how to recognise notice/possession orders/warrants and their implications for clients"
+               }
+            },
+            "7":{
+               "title":"Understand complaints procedures open to clients in relation to housing",
+               "questions":{
+                  "7.1":"Explain the complaints procedure open to clients up to and including the role of the Ombudsman"
+               }
+            },
+            "8":{
+               "title":"Understand how to recognise when a client should be referred to a more specialist",
+               "questions":{
+                  "8.1":"Explain why it is important to work within own level of competence",
+                  "8.2":"Analyse how to recognise when a client should be referred to a different or more specialist adviser",
+                  "8.3":"Explain the processes and procedures that must be followed when referring clients to another adviser"
+               }
+            }
+         }
+      },
+      "H/502/8876":{
+         "title":"Providing initial employment legal information and advice",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the legislative framework (in your country) relating to employment",
+               "questions":{
+                  "1.1":"Explain the national legislation and local policy relating to employment",
+                  "1.2":"Analyse the categories of employment status",
+                  "1.3":"Explain the tests to determine the categories of employment and the rights attached to them"
+               }
+            },
+            "2":{
+               "title":"Understand the statutory rights determined by employment status",
+               "questions":{
+                  "2.1":"Explain the main statutory rights determined by employment status",
+                  "2.2":"Analyse the specific rights protecting different clients or client groups",
+                  "2.3":"Assess the difference between statutory and contractual rights in employment",
+                  "2.4":"Assess the sources of evidence for contractual terms",
+                  "2.5":"Analyse the main contractual issues at work",
+                  "2.6":"Explain the tests for discrimination in employment",
+                  "2.7":"Analyse the eligibility criteria for different forms of dismissal",
+                  "2.8":"Explain the main statutory rights on termination of contract",
+                  "2.9":"Demonstrate how to draft straightforward documentation in support of simple cases"
+               }
+            },
+            "3":{
+               "title":"Understand the key statutory procedures relating to employment actions",
+               "questions":{
+                  "3.1":"Explain the use of mediation procedures for cases of grievance, discipline and dismissal",
+                  "3.2":"Assess the opportunities for the use of alternative dispute resolution",
+                  "3.3":"Explain the use of the statutory questionnaire procedure for discrimination cases",
+                  "3.4":"Analyse the different forms of employment proceedings, their jurisdictions and time limits (in your country)",
+                  "3.5":"Analyse the potential outcomes from the range of available options for redress",
+                  "3.6":"Analyse the sources of funding and external resources available for consultancy or referral"
+               }
+            }
+         }
+      },
+      "Y/502/8910":{
+         "title":"Providing initial money and debt legal advice",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the legislative framework (in your country) relating to consumer credit and debt and fraudulent activity",
+               "questions":{
+                  "1.1":"Explain the legislative framework (in your country) relating to consumer credit and debt",
+                  "1.2":"Explain how to recognise when a client may have committed a fraud and the steps to take if this occurs"
+               }
+            },
+            "2":{
+               "title":"Understand why it is important to establish the client’s full financial circumstances and how to do this",
+               "questions":{
+                  "2.1":"Explain why it is important to establish the client’s full circumstances including their current level of income and expenditure",
+                  "2.2":"Explain the key components of a statement of income and expenditure",
+                  "2.3":"Analyse the differences between personal debt and business debt",
+                  "2.4":"Explain the importance of establishing details about the client’s creditors in order to offer a range of options"
+               }
+            },
+            "3":{
+               "title":"Understand the importance of recognising emergency situations for clients",
+               "questions":{
+                  "3.1":"Analyse what could constitute an emergency situation for a client",
+                  "3.2":"Explain the kinds of actions that can be taken in response to different emergency situations"
+               }
+            },
+            "4":{
+               "title":"Understand why the client should maximise income and prioritise debts",
+               "questions":{
+                  "4.1":"Explain why it is important for a client to maximise their income",
+                  "4.2":"Analyse the ways of maximising a client’s income",
+                  "4.3":"Explain how to prioritise debts in terms of creditor sanction and client need"
+               }
+            },
+            "5":{
+               "title":"Understand the options available to clients in response to debt",
+               "questions":{
+                  "5.1":"Analyse the options available in response to debt and the processes involved in each",
+                  "5.2":"Analyse the options available in response to debt and the processes involved in each",
+                  "5.3":"Explain the possible consequences and limitations of the different options available in response to debt",
+                  "5.4":"Analyse the importance of opening and continuing negotiations with creditors and ways of doing this",
+                  "5.5":"Explain the key implications of and actions to take at the initial interview with the client",
+                  "5.6":"Analyse when it is appropriate to advise a client to seek more specialist money and debt advice"
+               }
+            },
+            "6":{
+               "title":"Understand the processes of debt recovery and defences for dept",
+               "questions":{
+                  "6.1":"Explain the procedures (in your country) for debt recovery through the courts",
+                  "6.2":"Explain the consequences of non- compliance with debt recovery procedures",
+                  "6.3":"Evaluate the possible defences in relation to debt"
+               }
+            }
+         }
+      },
+      "F/502/8870":{
+         "title":"Providing initial legal advice in consumer law",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the broad legislative (in your country) framework relating to consumer and contract law",
+               "questions":{
+                  "1.1":"Explain the key principles of the current legislative framework relating to consumer and contract law (in your country)",
+                  "1.2":"Explain where and how to access more detail on relevant legislation",
+                  "1.3":"Analyse the differences between goods and services",
+                  "1.4":"Explain the common elements of contract law"
+               }
+            },
+            "2":{
+               "title":"Understand the statutory rights and remedies available to clients, relating to consumer and contract law",
+               "questions":{
+                  "2.1":"Explain the statutory rights and remedies available to clients under consumer and contract legislation",
+                  "2.2":"Explain how to identify when cancellation rights apply for distance contracts or contracts concluded in the home and the relevant action to take",
+                  "2.3":"Analyse the criminal and regulatory issues and discrimination within the provision of goods, services and credit",
+                  "2.4":"Explain the role of national and local consumer organisations and agencies and what they can do to advise and support clients"
+               }
+            },
+            "3":{
+               "title":"Understand the range of actions that are open to clients in relation to disputes of consumer or contract law",
+               "questions":{
+                  "3.1":"Explain the key aspects of common arbitration and alternative dispute resolution schemes including the relevant time-limits",
+                  "3.2":"Explain the processes and procedures relating to small claims proceedings (in your country)",
+                  "3.3":"Analyse what is meant by unfair trading practices and how they can be challenged",
+                  "3.4":"Explain why it is important to recognise the different kinds of transaction in order to recognise the relevant legislation relating to consumer and contract law (in your country)",
+                  "3.5":"Evaluate the kinds of social policy issues that can impact on clients, in relation to consumer and contract law and the actions that can be taken to address them"
+               }
+            },
+            "4":{
+               "title":"Understand how to recognise when a client should be referred to a more specialist adviser",
+               "questions":{
+                  "4.1":"Explain why it is important to work within own level of competence",
+                  "4.2":"Analyse how to recognise when a client should be referred to a different or more specialist adviser",
+                  "4.3":"Explain the processes and procedures that must be followed when referring clients to another adviser"
+               }
+            }
+         }
+      },
+      "K/502/8880":{
+         "title":"Providing initial legal advice in welfare rights",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the broad legislative (in your country) framework relating to welfare rights and benefits",
+               "questions":{
+                  "1.1":"Explain the key principles of the current legislative framework relating to welfare benefits",
+                  "1.2":"Explain where and how to access more detail on relevant legislation",
+                  "1.3":"Explain the responsibilities of the adviser if it is suspected that a client is claiming fraudulently or intends to claim fraudulently",
+                  "1.4":"Analyse the range of actions that are open to benefit agencies in relation to customer fraud",
+                  "1.5":"Explain the framework of appeals procedures (in your country), the options for challenging welfare benefits decisions and the relevant timescales",
+                  "1.6":"Explain why it is important to keep up to date with changes in legislation or benefit regulations and how this can impact on advice provision"
+               }
+            },
+            "2":{
+               "title":"Understand the potential eligibility for all benefits and how this may be affected by clients’ circumstances",
+               "questions":{
+                  "2.1":"Explain the current structure of the welfare benefit system including the relationship and interaction between different kinds of benefit",
+                  "2.2":"Analyse the potential eligibility for all benefits and how they apply to different client groups",
+                  "2.3":"Evaluate how entitlement may be affected by a client’s circumstances",
+                  "2.4":"Explain how to identify the effect on benefit entitlement of changes to a client’s circumstances",
+                  "2.5":"Explain how to calculate benefit entitlement for different clients with different circumstances",
+                  "2.6":"Analyse the range of benefits that are currently under-claimed and how to relate this to a client’s circumstances"
+               }
+            },
+            "3":{
+               "title":"Understand how to make benefit claims",
+               "questions":{
+                  "3.1":"Explain the nature of the key agencies nationally and locally who may be involved with the administration of welfare benefits",
+                  "3.2":"Explain the processes, procedures and time limits for making benefit claims",
+                  "3.3":"Analyse how to recognise cases where benefits have been incorrectly calculated"
+               }
+            },
+            "4":{
+               "title":"Understand the importance of maximising benefits income and ways of doing this",
+               "questions":{
+                  "4.1":"Explain the range of options for maximising benefit income",
+                  "4.2":"Analyse alternative or additional sources of financial assistance that may be accessed by clients",
+                  "4.3":"Explain the range of local support services and any other concessions that may be available to different categories of clients"
+               }
+            },
+            "5":{
+               "title":"Understand how to recognise when a client should be referred to a more specialist adviser",
+               "questions":{
+                  "5.1":"Explain why it is important to work within own level of competence",
+                  "5.2":"Analyse how to recognise when a client should be referred to a different or more specialist adviser",
+                  "5.3":"Explain the processes and procedures that must be followed when referring clients to another adviser"
+               }
+            }
+         }
+      },
+      "J/502/8885":{
+         "title":"Providing initial disability discrimination legal information and advice",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the legislative framework relating to disability discrimination",
+               "questions":{
+                  "1.1":"Explain the national legislation and local policy relating to disability discrimination",
+                  "1.2":"Analyse what is meant by ‘disability’ in relation to rights and entitlements under the law",
+                  "1.3":"Explain what constitutes discrimination on the basis of disability in the provision of goods, facilities, products and services"
+               }
+            },
+            "2":{
+               "title":"Understand the rights, entitlements and responsibilities of individuals in employments settings relating to disability",
+               "questions":{
+                  "2.1":"Explain employment contract law and the rights and responsibilities of employees in the context of disability discrimination",
+                  "2.2":"Analyse the responsibilities of employers in relation to employees with a disability",
+                  "2.3":"Analyse the importance of ensuring that employers have been formally informed of a disability and the notification required",
+                  "2.4":"Analyse the concept of constructive dismissal in the context of disability discrimination",
+                  "2.5":"Explain the documentation relating to constructive dismissal on the grounds of disability and the procedures for their completion",
+                  "2.6":"Analyse disciplinary and grievance procedures in relation to disability discrimination"
+               }
+            },
+            "3":{
+               "title":"Understand the responsibilities of those providing goods, facilities, products and services in relation to people with disabilities",
+               "questions":{
+                  "3.1":"Analyse the responsibilities of those providing goods, facilities, products and services to people with a disability",
+                  "3.2":"Evaluate the different complaints procedures that can be taken against those providing goods, facilities, products and services to people with disabilities and when they should be used",
+                  "3.3":"Explain how creditors can be challenged on the grounds of the disability of the borrower",
+                  "3.4":"Explain the particular areas of welfare benefits that apply to people with disabilities",
+                  "3.5":"Analyse the appropriate actions to take when a client has an emergency situation caused by disability discrimination"
+               }
+            }
+         }
+      },
+      "K/502/8877":{
+         "title":"Providing initial health and community care legal information and advice",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the legislative framework (in your country) relating to health and community care",
+               "questions":{
+                  "1.1":"Explain the legislation, case law and guidance (in your country) relating to health and community care services",
+                  "1.2":"Analyse how the legislative framework (in your country) relating to the provision of health and social care applies to different client groups",
+                  "1.3":"Analyse current background issues influencing developments in health and community care (in your country)",
+                  "1.4":"Evaluate how the linkages of different areas of legislation in health and community care impact on the provision of services",
+                  "1.5":"Explain the legislative framework (in your country) relating to the protection of vulnerable adults in the health and community care systems"
+               }
+            },
+            "2":{
+               "title":"Understand the infrastructure of the health and community care system (in your country)",
+               "questions":{
+                  "2.1":"Explain the structure of health and community care at national and local level",
+                  "2.2":"Analyse the relative responsibilities of local authorities (in your country)",
+                  "2.3":"Explain the different options for care (in your country)",
+                  "2.4":"Evaluate the scope and responsibilities of the national registration and monitoring bodies (in your country) for health and community care"
+               }
+            },
+            "3":{
+               "title":"Understand the rights of individuals in relation to the access and provision of health and social care (in your country)",
+               "questions":{
+                  "3.1":"Explain the rights to assessment and services in health and social care",
+                  "3.2":"Explain the responsibility and practical procedures (in your country) relating to assessments and services in health and social care",
+                  "3.3":"Analyse the rules relating to entitlement to and eligibility for funding, benefits and concessions relating to health and social care (in your country)",
+                  "3.4":"Analyse the policies and procedures for complaints and redress in relation to health and social care (in your country)",
+                  "3.5":"Evaluate the relevant national and local plans, policies, referral procedures and eligibility criteria for the range of health and social care services (in your country)"
+               }
+            }
+         }
+      },
+      "L/502/8869":{
+         "title":"Providing initial information and advice in education law",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the broad legislative framework (in your country) relating to the statutory provision of education for children and young people",
+               "questions":{
+                  "1.1":"Identify the current legislation, policy and guidance relating to the statutory provision of education for children and young people",
+                  "1.2":"Explain how the current legislation affects local and regional policies on admissions, attendance and exclusions",
+                  "1.3":"Analyse the current legislation relating to equality of opportunity in education provision",
+                  "1.4":"Analyse the rage of alternative educational provision that is permissible within current legislation",
+                  "1.5":"Explain child protection and safeguarding regulations, guidelines, policies and procedures relevant to education provision"
+               }
+            },
+            "2":{
+               "title":"Understand national and local policies relating to running schools",
+               "questions":{
+                  "2.1":"Identify national and local policies, guidelines and codes of practice relating to the daily business of running schools",
+                  "2.2":"Analyse the impact of national and local policies on school policies in behaviour and attendance",
+                  "2.3":"Explain how national and local policies on equality of opportunity inform school policies on discrimination on the grounds of gender, race, disability, sexual orientation and religion",
+                  "2.4":"Explain the importance of school policy in recognising and addressing examples of bullying",
+                  "2.5":"Explain national and local policies relating to school uniforms",
+                  "2.6":"Analyse the range of financial support for education available to children and their families and carers, and eligibility criteria for aspects such as school meals, additional travel support and school uniforms"
+               }
+            },
+            "3":{
+               "title":"Understand the statutory responsibility (in your country) relating to Special Educational Needs/Additional Support Needs",
+               "questions":{
+                  "3.1":"Explain the statutory definition of Special Educational Needs/Additional Support Needs",
+                  "3.2":"Analyse the statutory responsibility of local authorities to provide appropriate education to meet children’s needs",
+                  "3.3":"Explain the statutory responsibility, policy and codes of practice relating to transition planning for Special Educational Needs/Additional Support Needs for different age ranges"
+               }
+            },
+            "4":{
+               "title":"Be able to identify when to refer a client to an alternative or more specialist source of advice",
+               "questions":{
+                  "4.1":"Analyse level of own knowledge and competence",
+                  "4.2":"Identify alternative or more specialist sources of advice appropriate to the client’s needs",
+                  "4.3":"Follow organisational procedures for client referrals"
+               }
+            }
+         }
+      },
+      "M/502/8881":{
+         "title":"Providing initial advice on family law",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the legislative framework relating to legal partnerships",
+               "questions":{
+                  "1.1":"Explain the legislative framework and grounds for divorce and dissolution of civil partnership (in your country)",
+                  "1.2":"Explain the legislative framework (in your country) relating to couples who are not married",
+                  "1.3":"Analyse the relevant rights and obligations of different categories of relationship"
+               }
+            },
+            "2":{
+               "title":"Understand the legislative framework relating to children in public and private law proceedings",
+               "questions":{
+                  "2.1":"Explain the main legislation (in your country) concerning private law proceedings relating to children",
+                  "2.2":"Analyse the framework of public law legislation (in your country) relating to children",
+                  "2.3":"Explain the statutory obligations and powers of local authorities and other relevant agencies that may affect clients or their children",
+                  "2.4":"Explain the impact of child or parent disability on looked after children",
+                  "2.5":"Analyse the role of lay advocates and how to access them"
+               }
+            },
+            "3":{
+               "title":"Understand the documentation relating to divorce and separation",
+               "questions":{
+                  "3.1":"Explain the key forms required in divorce and separation proceedings",
+                  "3.2":"Explain the time limits that apply to the completion and submission of relevant documents"
+               }
+            },
+            "4":{
+               "title":"Understand the effects of and responses to domestic violence",
+               "questions":{
+                  "4.1":"Analyse the effects that domestic violence may have on clients",
+                  "4.2":"Explain the emergency situations that may arise as a result of domestic violence",
+                  "4.3":"Analyse the range of places of safety that may be appropriate for families suffering from domestic violence",
+                  "4.4":"Explain the emergency actions that can be taken in cases of domestic violence",
+                  "4.5":"Explain police responsibility and criminal sanctions where a client cannot access civil remedies or places of safety"
+               }
+            },
+            "5":{
+               "title":"Understand the rights of children and families to access financial support",
+               "questions":{
+                  "5.1":"Explain how to help clients to apply for child support",
+                  "5.2":"Explain how to review child support decisions",
+                  "5.3":"Explain how to progress applications for child support",
+                  "5.4":"Analyse the relationship between child support and benefits or tax credits"
+               }
+            },
+            "6":{
+               "title":"Understand the importance of referring clients to an appropriate advice agency/solicitor",
+               "questions":{
+                  "6.1":"Explain the specific religious or cultural matters that may impact on families",
+                  "6.2":"Analyse when it may be appropriate to refer a client to an appropriate solicitor or advice agency",
+                  "6.3":"Explain the alternatives to court proceedings and how they can be accessed"
+               }
+            },
+            "7":{
+               "title":"Understand the sources of and criteria for public funding in family cases",
+               "questions":{
+                  "7.1":"Explain the criteria relating to the provision of legal help for divorce or civil partnership dissolution",
+                  "7.2":"Explain how to access non-means/non- merits for care cases"
+               }
+            }
+         }
+      },
+      "R/502/8887":{
+         "title":"Providing initial discrimination legal advice and information",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the broad legislative framework relating to discrimination in the provision of good, facilities and services",
+               "questions":{
+                  "1.1":"Analyse the current legislative framework in the UK that relates to discrimination in the provision of goods, facilities and services",
+                  "1.2":"Explain the legislation as it relates to discrimination in employment, housing, education or the provision of other goods and services",
+                  "1.3":"Explain the grounds on which actions on the basis of discrimination may be taken in the UK"
+               }
+            },
+            "2":{
+               "title":"Understand the different forms of discrimination",
+               "questions":{
+                  "2.1":"Explain the difference between direct and indirect discrimination",
+                  "2.2":"Explain what is meant by victimisation",
+                  "2.3":"Explain what is meant by harassment"
+               }
+            },
+            "3":{
+               "title":"Understand the key processes and procedures that relate to legal actions in discrimination cases",
+               "questions":{
+                  "3.1":"Analyse the actions and activities that should be reviewed when considering whether there may be grounds for discrimination in employment",
+                  "3.2":"Explain the processes and procedures to take in relation to resolving examples of discrimination in the provision of goods, facilities or services",
+                  "3.3":"Explain the documentation that can be drafted with or on behalf of the client",
+                  "3.4":"Analyse the possible consequences for the client and/or their circumstances of taking action on the grounds of discrimination"
+               }
+            },
+            "4":{
+               "title":"Understand how to recognise when a client should be referred to a more specialist adviser",
+               "questions":{
+                  "4.1":"Explain why it is important to work within own level of competence",
+                  "4.2":"Analyse how to recognise when a client should be referred to a different or more specialist adviser",
+                  "4.3":"Explain the processes and procedures that must be followed when referring clients to another adviser"
+               }
+            }
+         }
+      },
+      "M/502/8878":{
+         "title":"Providing initial legal advice in mental health law",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the broad legislative (in your country) framework relating to mental health provision.",
+               "questions":{
+                  "1.1":"Explain the key principles of the current legislative framework relating to clients with mental health problems.",
+                  "1.2":"Explain where and how to access more detail on relevant legislation.",
+                  "1.3":"Explain the legislation and guidance relating to the compulsory detention of patients with mental health problems and their aftercare.",
+                  "1.4":"Analyse the framework of policy and guidance relating to dual diagnosis and the services available.",
+                  "1.5":"Explain how to advise on local policies relating to care and development plans for clients with mental health problems."
+               }
+            },
+            "2":{
+               "title":"Understand the roles and responsibilities of the primary providers of mental health services.",
+               "questions":{
+                  "2.1":"Explain the range of service provision that may be available to clients with a mental health problem.",
+                  "2.2":"Analyse the roles and responsibilities of the members of the mental health team.",
+                  "2.3":"Identify the nature and location of mental health service provision locally."
+               }
+            },
+            "3":{
+               "title":"Understand the range of options for the assessment of mentally ill clients.",
+               "questions":{
+                  "3.1":"Analyse the rights to assessment for clients with mental health problems and their carers.",
+                  "3.2":"Explain who is responsible for making the assessment.",
+                  "3.3":"Analyse the procedures that can be used to assess clients with mental health problems.",
+                  "3.4":"Explain how to assess the risks that may arise as a result of a client having a mental health problem including risk of harm to self and others."
+               }
+            },
+            "4":{
+               "title":"Understand the main areas of mental illness and their treatment.",
+               "questions":{
+                  "4.1":"Explain the common terminology used within mental health.",
+                  "4.2":"Explain how to diagnose mental illness/disability.",
+                  "4.3":"Analyse the broad categories of treatment that can be provided to clients with a mental health problem.",
+                  "4.4":"Explain the rights of the patient to consent to treatment and their right not to take medication."
+               }
+            },
+            "5":{
+               "title":"Understand the benefits available to clients with mental health problems and how to apply for them",
+               "questions":{
+                  "5.1":"Analyse the range of benefits that clients with mental health problems may be eligible for",
+                  "5.2":"Analyse the documentation relating to the benefits that clients with mental health problems may be eligible for",
+                  "5.3":"Explain how to help clients with mental health problems apply for appropriate benefits"
+               }
+            },
+            "6":{
+               "title":"Understand the influence of different cultures on the perceptions of mental health and approaches to seeking treatment",
+               "questions":{
+                  "6.1":"Explain how different cultures can influence people’s perceptions of mental health",
+                  "6.2":"Analyse how people’s perceptions of mental health can impact on clients",
+                  "6.3":"Analyse how different cultures and perceptions can impact on approaches to seeking treatment"
+               }
+            },
+            "7":{
+               "title":"Understand how to recognise when a client should be referred to a more specialist adviser",
+               "questions":{
+                  "7.1":"Explain why it is important to work within own level of competence",
+                  "7.2":"Analyse how to recognise when a client should be referred to a different or more specialist adviser",
+                  "7.3":"Explain the processes and procedures that must be followed when referring clients to another adviser"
+               }
+            }
+         }
+      },
+      "J/502/8949":{
+         "title":"Providing initial advice to young people on their rights under the law",
+         "data":[
+            "3",
+            "30"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the legislative framework (in your country) relating to the provision of welfare benefits for young people",
+               "questions":{
+                  "1.1":"Explain the entitlement to welfare benefits of young people who are not studying",
+                  "1.2":"Analyse the effects of studying on welfare benefit entitlement for young people"
+               }
+            },
+            "2":{
+               "title":"Understand the rights of young people in relation to their physical and mental health",
+               "questions":{
+                  "2.1":"Analyse the rights of young people in relation to the provision of health care including the right to confidential treatment, the age of consent and rights relating to competency to consent to treatment",
+                  "2.2":"Evaluate the role of sexual health and teenage pregnancy services for young people",
+                  "2.3":"Explain the legislation and regulations relating to the provision of and access to mental health services for young people"
+               }
+            },
+            "3":{
+               "title":"Understand the legislative framework (in your country) relating to housing for and homelessness of young people",
+               "questions":{
+                  "3.1":"Explain the ‘Duty of Care’ of the relevant authorities (in your country) to the provision of accommodation to homeless young people",
+                  "3.2":"Identify which young people may have a priority need for homeless assistance",
+                  "3.3":"Analyse the range of options available to homeless young people who are not entitled to assistance from the relevant authority",
+                  "3.4":"Explain the different types of licence and tenancy agreement available for young people, including eviction procedures and how to avoid them",
+                  "3.5":"Explain the housing support available to young people at risk or with special needs",
+                  "3.6":"Analyse the obligations of landlords in relation to disrepair and the remedies open to tenants"
+               }
+            },
+            "4":{
+               "title":"Understand the legislative framework (in your country) relating to the provision of money and debt advice for young people",
+               "questions":{
+                  "4.1":"Explain the ways in which a young person can maximise their income and reduce expenditure",
+                  "4.2":"Explain how to help a young person to develop a budget based on income and expenditure",
+                  "4.3":"Explain how to identify priority and non-priority debts",
+                  "4.4":"Explain the kids of debt recovery actions that may be imposed and how to advise young people to resist such actions"
+               }
+            },
+            "5":{
+               "title":"Understand the legislative framework (in your country) relating to the social welfare of young people",
+               "questions":{
+                  "5.1":"Analyse the range of situations when the relevant authorities (in your country) are under a duty to assess the needs of young people and provide appropriate assistance",
+                  "5.2":"Explain the rights of ‘looked after’ young people to access and advocate or an independent visitor",
+                  "5.3":"Explain the different types of order that can be made within care proceedings",
+                  "5.4":"Explain the rights of young people to be involved in decisions concerning their welfare and to make complaints",
+                  "5.5":"Explain the rights of young people to a ‘leaving care’ package"
+               }
+            },
+            "6":{
+               "title":"Understand the legislative framework (in your country) relating to child protection and the protection of vulnerable young adults",
+               "questions":{
+                  "6.1":"Analyse the possible signs that may indicate that a young person is being abused",
+                  "6.2":"Explain the legal and organisational processes to follow if abuse is suspected",
+                  "6.3":"Explain the range of support agencies that can help ‘at risk’ young people"
+               }
+            },
+            "7":{
+               "title":"Understand how to recognise when a client should be referred to a more specialist adviser",
+               "questions":{
+                  "7.1":"Explain why it is important to work within own level of competence",
+                  "7.2":"Analyse how to recognise when a client should be referred to a different or more specialist adviser",
+                  "7.3":"Explain the processes and procedures that must be followed when referring clients to another adviser"
+               }
+            }
+         }
+      }
+   }
+}
