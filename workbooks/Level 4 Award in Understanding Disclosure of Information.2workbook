@@ -1,0 +1,117 @@
+{
+   "version":"ProQual 2019",
+   "versionDate":"September 2023",
+   "Organisation":"ProQual",
+   "specs":"https://www.proqualab.com/wp-content/uploads/2023/09/ProQual-Level-4-Award-in-Understanding-Disclosure-of-Information.pdf",
+   "coverTitle":"Level 4 Award in Understanding Disclosure of Information",
+   "coverImg":"/images/workbooks/cover/DataProtection.png",
+   "coverAcademyImg":"",
+   "sections":[
+      {
+         "title":"Introduction",
+         "content":"Welcome to the Workbook for the <b>Level 4 Award in Understanding Disclosure of Information</b>. This workbook has been carefully developed to support you in successfully completing your qualification. It guides you through the principles, procedures, and responsibilities related to the disclosure of information within investigative contexts."
+      },
+      {
+         "title":"Purpose of this Workbook",
+         "content":"<p>This workbook aims to:</p><ul><li>Provide a structured approach to developing your knowledge and understanding of the disclosure process.</li><li>Support you in understanding the legal and procedural expectations around the recording, retention, and revelation of information during investigations.</li><li>Assist you in demonstrating evidence-based competence for internal and external verification.</li></ul>"
+      },
+      {
+         "title":"Structure of the Workbook",
+         "content":"<p>To achieve this qualification, you will need to complete:</p><h3>Mandatory Unit:</h3><ul><li>Understanding Disclosure of Information</li></ul><p>Learning Outcome 7 is optional and non-assessed, intended for candidates wishing to enhance their knowledge of specialist material.</p><p>This workbook is structured around the official learning outcomes and assessment criteria. It supports the generation and organization of evidence required to meet the standards of the qualification.</p>"
+      },
+      {
+         "title":"How to Use This Workbook",
+         "content":"<ul><li>Familiarize yourself with the learning outcomes and assessment criteria outlined in this workbook.</li><li>Use the guidance and activities provided to compile a portfolio of evidence, including written reports, project work, or records of discussions.</li><li>Consult with your assessor regularly to ensure your evidence meets the necessary standards.</li><li>Utilize this workbook as a progress tracker and to organize all necessary documentation before final verification.</li></ul>"
+      },
+      {
+         "BreakPage":"before",
+         "title":"Qualification Profile",
+         "content":"<div><b>Qualification title:</b> ProQual Level 4 Award in Understanding Disclosure of Information</div><div><b>Ofqual qualification number:</b> 603/4164/6</div><div><b>Level:</b> 4</div><div><b>Total qualification time:</b> 20 hours</div><div><b>Guided learning hours:</b> 15</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 21/02/2019</div><div><b>Qualification end date:</b> 31/07/2026</div>"
+      }
+   ],
+   "unitsColumnsData":[
+      "Unit Level",
+      "GHL"
+   ],
+   "unitsMandatory":[
+      {
+         "groupName":"Mandatory units",
+         "qtyRequired":1,
+         "units":[
+            "F/617/4745"
+         ]
+      }
+   ],
+   "unitsOptional":[
+      
+   ],
+   "units":{
+      "F/617/4745":{
+         "title":" Understanding Disclosure of Information",
+         "data":[
+            "4",
+            "15"
+         ],
+         "subUnits":{
+            "1":{
+               "title":"Understand the principles of disclosure",
+               "questions":{
+                  "1.1":"Explain the principle features of the disclosure regime under current legislation and the duty to record, retain, reveal and review material",
+                  "1.2":"Explain the consequences of non-disclosure and the triggers for statutory disclosure",
+                  "1.3":"Describe ‘unused material’, ‘relevant material’, ‘revelation’, ‘disclosure’ and what is a ‘criminal Investigation’",
+                  "1.4":"Summarise reasonable lines of enquiry as part of a criminal investigation",
+                  "1.5":"Summarise the responsibilities of third party disclosure"
+               }
+            },
+            "2":{
+               "title":"Be able to define the roles and responsibilities for those associated with disclosure",
+               "questions":{
+                  "2.1":"Explain the purpose and duties of the ‘investigator’",
+                  "2.2":"Explain the purpose and duties of the ‘Officer in the Case’",
+                  "2.3":"Explain the purpose and duties of the ‘Disclosure Officer’"
+               }
+            },
+            "3":{
+               "title":"Understand relevance, recording and retention in the disclosure process",
+               "questions":{
+                  "3.1":"Evaluate ‘relevant material’ as part of the relevancy test and the bearing it can have on an investigation",
+                  "3.2":"Summarise what material must be retained and explain possible considerations",
+                  "3.3":"Explain the possible importance of ‘negative’ information in the retention process",
+                  "3.4":"Describe the principles of ‘recording’ information and the need for timeliness",
+                  "3.5":"Summarise the methods to record and retain ‘digital material’"
+               }
+            },
+            "4":{
+               "title":"Understand the application of the disclosure test",
+               "questions":{
+                  "4.1":"Explain the key principles of the ‘disclosure test’ and the considerations made when conducting the test",
+                  "4.2":"Evaluate types of material that may fall within the parameters of a ‘disclosure test’ and possible outcomes of such material being disclosed",
+                  "4.3":"Summarise how disclosure is made to the defence and / or defendant",
+                  "4.4":"Describe the principles and time requirements for initial disclosure at both Magistrates and Crown Court"
+               }
+            },
+            "5":{
+               "title":"Understand the scheduling of material",
+               "questions":{
+                  "5.1":"Describe the principles and time requirements for initial disclosure at both Magistrates and Crown Court.",
+                  "5.2":"Evaluate ‘sensitive material’ in the scheduling process and summarise possible material for consideration",
+                  "5.3":"Explain what highly sensitive material is and how this should be scheduled",
+                  "5.4":"Summarise key material that must be revealed by the Disclosure Officer",
+                  "5.5":"Summarise the key characteristics of the Disclosure Officer’s report",
+                  "5.6":"Describe the Disclosure Officer’s roles and responsibilities when completing a Disclosure Certification",
+                  "5.7":"Summarise the process of continuing Disclosure and the amendment of Schedules"
+               }
+            },
+            "6":{
+               "title":"Understand defence requirements as part of the disclosure process",
+               "questions":{
+                  "6.1":"Explain the statutory duties of the defence as part of the disclosure process",
+                  "6.2":"Summarise the time requirements for the defence to submit any possible defence",
+                  "6.3":"Explain the duties of a Disclosure Officer following a defence case submission and the defence request for further disclosure",
+                  "6.4":"Summarise a Disclosure Officer’s continuing duty to review material"
+               }
+            }
+         }
+      }
+   }
+}
