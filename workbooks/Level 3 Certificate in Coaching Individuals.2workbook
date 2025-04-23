@@ -1,0 +1,195 @@
+{
+  "version": "ProQual 2025",
+  "versionDate": "January 2025",
+  "Organisation": "ProQual",
+  "specs": "https://www.proqualab.com/media/documents/ProQual-Level-3-Mentoring-and-Coaching~1.pdf",
+  "coverTitle": "Level 3 Certificate in Coaching Individuals",
+  "coverImg": "/images/workbooks/cover/COACHING.png",
+  "coverAcademyImg": "",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the Workbook for the <b>ProQual Level 3 Certificate in Coaching Individuals</b>. This material is designed to support you in gaining recognized qualifications in coaching by developing practical skills and theoretical knowledge needed to guide individuals towards achieving their personal and professional goals."
+    },
+    {
+      "title": "Purpose of this Workbook",
+      "content": "<p>This workbook aims to:</p><ul><li>Support you in understanding the principles and practices of coaching.</li><li>Provide structured guidance for planning and delivering individual coaching sessions.</li><li>Assist you in compiling the evidence needed to achieve the qualification and demonstrate your competence in real-world coaching settings.</li></ul>"
+    },
+    {
+      "title": "Structure of the Workbook",
+      "content": "<p>To achieve this qualification, you will need to complete the following four mandatory units:</p><ul><li>Understanding the Mentoring and Coaching Relationship</li><li>Understanding the Principles of Coaching</li><li>Providing Coaching for Individuals</li><li>Understanding Equality and Diversity as a Mentor or Coach</li></ul><p>This workbook provides dedicated sections for each unit, outlining learning outcomes, assessment criteria, and space to collect evidence.</p>"
+    },
+    {
+      "title": "How to Use This Workbook",
+      "content": "<ul><li>Familiarize yourself with the learning outcomes and assessment criteria for each unit.</li><li>Complete all suggested activities, making sure to gather valid forms of evidence such as observation reports, coaching plans, and self-evaluations.</li><li>Use the workbook to monitor your progress and prepare for internal and external assessments.</li></ul>"
+    },
+    {
+      "BreakPage": "before",
+      "title": "Qualification Profile",
+      "content": "<div><b>Qualification title:</b> ProQual Level 3 Certificate in Coaching Individuals</div><div><b>Ofqual qualification number:</b> 610/5290/5</div><div><b>Level:</b> 3</div><div><b>Total qualification time:</b> 150 hours (15 credits)</div><div><b>Guided learning hours:</b> 120 hours</div><div><b>Assessment:</b></div><div>• Pass or fail</div><div>• Internally assessed and verified by centre staff</div><div>• External quality assurance by ProQual verifiers</div><div><b>Qualification start date:</b> 10/02/2025</div><div><b>Qualification review date:</b> 10/02/2028</div>"
+    }
+  ],
+  "unitsColumnsData": ["Unit Level","TQT", "GHL"],
+  "unitsMandatory": [
+    {
+      "groupName": "Mandatory units",
+      "qtyRequired": 4,
+      "units": [
+        "R/651/4766",
+        "Y/651/4768",
+        "H/651/4770",
+        "J/651/4771"
+      ]
+    }
+  ],
+  "unitsOptional": [],
+  "units": {
+    "R/651/4766": {
+      "title": "Understanding the Mentoring and Coaching Relationship",
+      "data":[
+        "10",
+        "30",
+        "20"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the fundamentals of the mentoring and coaching relationship",
+          "questions": {
+            "1.1": "Explain the difference between mentoring and coaching.",
+            "1.2": "Identify the qualities and skills required to establish a positive mentoring or coaching relationship.",
+            "1.3": "Explain the importance of confidentiality in the mentoring or coaching relationship.",
+            "1.4": "Explain the role of communication in an effective mentoring or coaching relationship, including: Active listening, Questioning skills.",
+            "1.5": "Discuss the potential ethical considerations involved in a mentoring or coaching relationships."
+          }
+        },
+        "2": {
+          "title": "Understand the purpose of the mentoring and coaching relationship",
+          "questions": {
+            "2.1": "Describe the purpose of mentoring and coaching in personal and professional contexts.",
+            "2.2": "Explain how mentoring and coaching support individual development and growth.",
+            "2.3": "Describe how the purpose of mentoring or coaching can differ across settings, including: Workplace, Educational, Personal.",
+            "2.4": "Discuss the role of mentoring and coaching in supporting organisational culture."
+          }
+        },
+        "3": {
+          "title": "Understand potential barriers in a mentoring and coaching relationship",
+          "questions": {
+            "3.1": "Identify potential mentee or coachee barriers in a mentoring and coaching relationship.",
+            "3.2": "Describe ways to overcome mentee or coachee barriers in a mentoring or coaching relationship.",
+            "3.3": "Identify potential mentor or coach barriers in a mentoring and coaching relationship.",
+            "3.4": "Describe ways to overcome mentor or coach barriers in a mentoring or coaching relationship.",
+            "3.5": "Identify potential organisational barriers in a mentoring and coaching relationship.",
+            "3.6": "Describe ways to overcome organisational barriers in a mentoring or coaching relationship."
+          }
+        }
+      }
+    },
+    "Y/651/4768": {
+      "title": "Understanding the Principles of Coaching",
+      "data":[
+        "3",
+        "40",
+        "30"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the fundamentals of coaching",
+          "questions": {
+            "1.1": "Define coaching, and its purpose.",
+            "1.2": "Describe the role of a coach.",
+            "1.3": "Describe the benefits of coaching for the: Coach, Coachee, Organisation.",
+            "1.4": "Discuss areas of difficulty that could arise during the coaching process."
+          }
+        },
+        "2": {
+          "title": "Understand how to carry out coaching",
+          "questions": {
+            "2.1": "Identify the stages of the coaching process.",
+            "2.2": "Identify methods used to determine and establish coachee goals and the purpose of the coaching.",
+            "2.3": "Describe how to identify performance improvements and changes expected from the coachee.",
+            "2.4": "Describe how SMART targets are used when coaching an individual.",
+            "2.5": "Discuss the different methods of coaching."
+          }
+        },
+        "3": {
+          "title": "Understand the importance of feedback to the coaching process",
+          "questions": {
+            "3.1": "Explain the importance of objective and clear feedback for the coaching process.",
+            "3.2": "Explain the importance of exploratory feedback for the coaching process.",
+            "3.3": "Explain the importance of recognising progress and achievement for the coaching process."
+          }
+        }
+      }
+    },
+    "H/651/4770": {
+      "title": "Providing Coaching for Individuals",
+      "data":[
+        "3",
+        "50",
+        "20"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Establish a coaching relationship",
+          "questions": {
+            "1.1": "Agree the purpose of the coaching with the coachee, including: The goals of the coachee, The expected outcome of the coaching process.",
+            "1.2": "Identify the strengths and areas of weakness of the coachee.",
+            "1.3": "Agree the timescales and milestones with the coachee.",
+            "1.4": "Identify support available to the coachee throughout the process."
+          }
+        },
+        "2": {
+          "title": "Provide coaching for an individual",
+          "questions": {
+            "2.1": "Produce a plan for the coaching process.",
+            "2.2": "Use appropriate diagnostic or assessment tools to effectively monitor the progress of the coachee.",
+            "2.3": "Use an appropriate model of coaching to support the coachee throughout the coaching process.",
+            "2.4": "Produce auditable records of the coaching process, including coachee progress."
+          }
+        },
+        "3": {
+          "title": "Conclude the coaching process",
+          "questions": {
+            "3.1": "Discuss the coachee’s progress and success against: Established goals, Expected outcome of the coaching process, Individual, team and organisational performance criteria.",
+            "3.2": "Identify next steps and areas for future development for the coachee.",
+            "3.3": "Discuss methods for ensuring that the coachee is not dependant on the coach going forward.",
+            "3.4": "Evaluate own performance, including: Areas of strength, How the process has been developmental for the coachee, Areas for improvement, Action to be taken to improve."
+          }
+        }
+      }
+    },
+    "J/651/4771": {
+      "title": "Understanding Equality and Diversity as a Mentor or Coach",
+      "data":[
+        "3",
+        "30",
+        "20"
+      ],
+      "subUnits": {
+        "1": {
+          "title": "Understand the legislation, regulations and policies relevant to equality and diversity",
+          "questions": {
+            "1.1": "Identify legislation relevant to equality and diversity in the workplace.",
+            "1.2": "Describe the requirements placed on organisations by the Equality Act 2012.",
+            "1.3": "Describe own organisational policies relevant to equality and diversity."
+          }
+        },
+        "2": {
+          "title": "Understand the importance of equality and diversity in the workplace",
+          "questions": {
+            "2.1": "Describe how the behaviour of an individual can impact: Colleagues, The organisation.",
+            "2.2": "Describe how the behaviour of an organisation can impact: Colleagues, The organisation."
+          }
+        },
+        "3": {
+          "title": "Understand how to promote equality and diversity as a mentor or coach",
+          "questions": {
+            "3.1": "Identify situations where individuals are not: Promoting equality, Valuing diversity.",
+            "3.2": "Describe how opportunities can be provided to help others promote equality and diversity.",
+            "3.3": "Identify sources of support when having trouble in promoting equality and diversity."
+          }
+        }
+      }
+    }
+  }
+}
